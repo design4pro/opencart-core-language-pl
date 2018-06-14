@@ -2,6 +2,9 @@
   "name": "@design4pro/opencart-core-langauge-pl",
   "version": "3.0.2.0",
   "description": "Language files for OpenCart.",
+  "category": "OpenCart",
+  "package": "Core",
+  "link": "https://opencart.design4.io/core/languages",
   "scripts": {
     "lint": "markdownlint --config .markdownlint.json **/*.md",
     "release": "release-me --release-count=0",
@@ -11,8 +14,24 @@
   "devDependencies": {
     "commitizen": "^2.9.6",
     "cz-release-me": "^1.4.0",
+    "dateformat": "^3.0.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-header": "^2.0.5",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-size": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-xmlpoke": "^0.2.1",
+    "gulp-zip": "^4.1.0",
     "markdownlint-cli": "^0.6.0",
-    "release-me": "^1.4.2"
+    "path": "^0.12.7",
+    "release-me": "^1.4.2",
+    "run-sequence": "^2.2.1",
+    "size": "^1.0.0",
+    "util": "^0.11.0",
+    "wrench": "^1.5.9"
   },
   "config": {
     "commitizen": {
@@ -35,7 +54,8 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.design4.io/opencart/core/language-pl/issues"
+    "url": "https://gitlab.design4.io/opencart/core/language-pl/issues",
+    "email": "incoming+opencart/core/language-pl@gitlab.design4.io"
   },
   "homepage": "https://gitlab.design4.io/opencart/core/language-pl"
 }
