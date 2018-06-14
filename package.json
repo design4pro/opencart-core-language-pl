@@ -1,0 +1,41 @@
+{
+  "name": "@design4pro/opencart-core-langauge-pl",
+  "version": "3.0.2.0",
+  "description": "Language files for OpenCart.",
+  "scripts": {
+    "lint": "markdownlint --config .markdownlint.json **/*.md",
+    "release": "release-me --release-count=0",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "mkdocs serve"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-release-me": "^1.4.0",
+    "markdownlint-cli": "^0.6.0",
+    "release-me": "^1.4.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-release-me"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.design4.io/opencart/core/language-pl.git"
+  },
+  "keywords": [
+    "opencart",
+    "core",
+    "language"
+  ],
+  "author": {
+    "name": "Rafał Wolak",
+    "email": "r.wolak@design4.pro",
+    "url": "https://www.design4.pro"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.design4.io/opencart/core/language-pl/issues"
+  },
+  "homepage": "https://gitlab.design4.io/opencart/core/language-pl"
+}
