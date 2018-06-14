@@ -9,6 +9,7 @@ before_script:
   - pip install pymdown-extensions
 
 pages:
+  stage: deploy
   script:
   - mkdocs build
   - mv site public
