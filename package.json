@@ -4,12 +4,12 @@
   "description": "Language files for OpenCart.",
   "category": "OpenCart",
   "package": "Core",
-  "link": "https://opencart.design4.io/core/languages",
+  "link": "https://opencart.design4.io/language-pl",
   "scripts": {
-    "lint": "markdownlint --config .markdownlint.json **/*.md",
+    "docs:lint": "markdownlint --config .markdownlint.json **/*.md",
+    "docs:serve": "mkdocs serve",
     "release": "release-me --release-count=0",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "mkdocs serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.design4.io/opencart/core/language-pl.git"
+    "url": "https://gitlab.design4.io/opencart/language-pl.git"
   },
   "keywords": [
     "opencart",
@@ -54,8 +54,8 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.design4.io/opencart/core/language-pl/issues",
-    "email": "incoming+opencart/core/language-pl@gitlab.design4.io"
+    "url": "https://gitlab.design4.io/opencart/language-pl/issues",
+    "email": "incoming+opencart/language-pl@gitlab.design4.io"
   },
-  "homepage": "https://gitlab.design4.io/opencart/core/language-pl"
+  "homepage": "https://opencart.design4.io/language-pl"
 }

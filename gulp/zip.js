@@ -21,5 +21,5 @@ gulp.task('zip', ['zip-module'], function () {
       path.join(conf.paths.build, '/' + conf.filename + '/*.{zip,txt,xml}')
     ])
     .pipe($.zip(conf.filename + '.zip'))
-    .pipe(gulp.dest(path.join(conf.paths.packages, '/')));
+    .pipe(gulp.dest(path.join(conf.paths.dist, '/')));
 });

@@ -20,7 +20,7 @@ exports.name = PACKAGE_NAME;
 exports.paths = {
   src: 'src',
   build: 'build',
-  packages: 'packages',
+  dist: 'dist',
   admin_js: 'src/upload/admin/view/javascript/translate',
   admin_css: 'src/upload/admin/view/stylesheet/translate',
   admin_img: 'src/upload/admin/view/image/translate'

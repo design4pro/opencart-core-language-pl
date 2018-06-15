@@ -22,11 +22,11 @@
 site_name: OpenCart Language PL
 site_description: "Language files for OpenCart"
 site_author: DESIGN4PRO
-site_url: https://opencart.design4.io/core/language-pl
+site_url: https://opencart.design4.io/language-pl
 
 # Repository
-repo_name: opencart/core/language-pl
-repo_url: https://gitlab.design4.io/opencart/core/language-pl
+repo_name: opencart/language-pl
+repo_url: https://gitlab.design4.io/opencart/language-pl
 edit_uri: ""
 
 # Copyright
@@ -63,7 +63,7 @@ extra:
     - type: globe
       link: https://design4.pro
     - type: gitlab
-      link: https://gitlab.design4.io/opencart/core/language-pl
+      link: https://gitlab.design4.io/opencart/language-pl
 #  disqus: ""
   search:
     language: "en"
