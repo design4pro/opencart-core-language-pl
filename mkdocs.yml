@@ -35,7 +35,7 @@ copyright: "Copyright &copy; 2018 DESIGN4PRO"
 # Configuration
 theme:
   name: material
-  custom_dir: "theme"
+#  custom_dir: "theme"
 #  static_templates: ""
 
 # Don't include MkDocs' JavaScript
@@ -69,9 +69,9 @@ extra:
     language: "en"
 
 extra_css:
-  - "assets/stylesheets/extra.css"
+#  - "assets/stylesheets/extra.css"
 extra_javascript:
-  - "assets/javascripts/extra.js"
+#  - "assets/javascripts/extra.js"
 
 # Google Analytics
 google_analytics:
