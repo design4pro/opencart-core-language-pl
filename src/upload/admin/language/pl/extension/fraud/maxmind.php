@@ -119,4 +119,4 @@ $_['help_error']                              = 'Wyświetla łańcuch błędów 
 
 // Error
 $_['error_permission']                        = 'Warning: You do not have permission to modify MaxMind anti-fraud!';
-$_['error_key']		                          = 'Klucz licencyjny jest wymagany!';
+$_['error_key']                               = 'Klucz licencyjny jest wymagany!';

@@ -3,6 +3,7 @@
 $_['heading_title']					 = 'PayPal Pro iFrame';
 
 // Text
+$_['text_extension']                 = 'Rozszerzenia';
 $_['text_success']					 = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']                      = 'Edit PayPal Pro iFrame';
 $_['text_pp_pro_iframe']			 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';

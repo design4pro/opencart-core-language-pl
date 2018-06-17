@@ -3,7 +3,7 @@
 $_['heading_title']         = 'United States Postal Service';
 
 // Text
-$_['text_shipping']         = 'Dostawa';
+$_['text_extension']        = 'Rozszerzenia';
 $_['text_success']          = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
 $_['text_edit']             = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
@@ -69,20 +69,20 @@ $_['entry_tax']             = 'Reguła podatkowa';
 $_['entry_geo_zone']        = 'Strefa geograficzna';
 $_['entry_status']          = 'Status';
 $_['entry_sort_order']      = 'Kolejność sortowania';
-$_['entry_debug']      		= 'Tryb debugowania';
+$_['entry_debug']           = 'Tryb debugowania';
 
 // Help
 $_['help_dimension']        = 'Average package dimensions for shipping package. Product dimensions are not used for shipping at this time.';
 $_['help_display_time']     = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
 $_['help_display_weight']   = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
 $_['help_weight_class']     = 'Must be set to Pound.';
-$_['help_debug']      		= 'Saves send/recv data to the system log';
+$_['help_debug']            = 'Saves send/recv data to the system log';
 
 // Error
 $_['error_permission']      = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania ustawień modułu!';
 $_['error_user_id']         = 'Identyfikator użytkownika jest wymagany!';
 $_['error_postcode']        = 'Kod pocztowy jest wymagany!';
-$_['error_width']        	= 'Szerokość jest wymagana!';
-$_['error_length']        	= 'Długość jest wymagana!';
-$_['error_height']        	= 'Wysokość jest wymagana!';
-$_['error_girth']        	= 'Girth Required!';
+$_['error_width']           = 'Szerokość jest wymagana!';
+$_['error_length']          = 'Długość jest wymagana!';
+$_['error_height']          = 'Wysokość jest wymagana!';
+$_['error_girth']           = 'Girth Required!';

@@ -18,13 +18,12 @@ $_['text_month']               = 'miesiąc';
 $_['text_year']                = 'rok';
 $_['text_trial']               = '%s every %s %s for %s payments then ';
 $_['text_recurring']           = '%s co %s %s';
-$_['text_length']              = 'dla %s płatności';
-$_['text_until_cancelled']     = 'until cancelled';
+$_['text_payment_cancel']      = 'until cancelled';
 $_['text_recurring_item']      = 'Subskrypcja';
 $_['text_payment_recurring']   = 'Subskrypcja';
 $_['text_trial_description']   = '%s every %d %s(s) for %d payment(s) then';
 $_['text_payment_description'] = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']      = '%s co %d %s aż do odwołania';
+$_['text_payment_cancel']      = 'until cancelled';
 
 // Column
 $_['column_image']             = 'Obrazek';

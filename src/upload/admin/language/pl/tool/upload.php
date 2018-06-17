@@ -15,7 +15,7 @@ $_['column_action']     = 'Akcje';
 // Entry
 $_['entry_name']        = 'Nazwa';
 $_['entry_filename']    = 'Nazwa pliku';
-$_['entry_date_added'] 	= 'Data dodania';
+$_['entry_date_added']  = 'Data dodania';
 
 // Error
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania ustawień modułu!';

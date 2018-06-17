@@ -7,6 +7,7 @@ $_['text_success']      = 'Sukces: Zmodyfikowano opinie!';
 $_['text_list']         = 'Lista opinii';
 $_['text_add']          = 'Dodaj opinię';
 $_['text_edit']         = 'Edytuj opinię';
+$_['text_filter']       = 'Filtruj';
 
 // Column
 $_['column_product']    = 'Produkt';

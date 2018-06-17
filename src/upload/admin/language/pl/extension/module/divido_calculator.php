@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']	   = 'Divido Product Page Calculator';
+$_['heading_title']    = 'Kalkulator Divido';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
-$_['text_success']	   = 'Success: You have modified Divido Product Page Calculator!';
-$_['text_edit']		   = 'Edit Divido Product Page Calculator';
+$_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
+$_['text_edit']        = 'Edytuj Divido Product Page Calculator';
 
 // Entry
-$_['entry_status']	   = 'Status';
+$_['entry_status']     = 'Status';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Divido Product Page Calculator!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania modułów!';

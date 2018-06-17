@@ -24,11 +24,4 @@ $_['heading_title']                = 'Language PL';
 
 // Text
 $_['text_extension']               = 'Extensions';
-$_['text_success']                 = 'Success: You have modified dashboard language PL!';
-
-// Entry
-$_['entry_status']                 = 'Status';
-$_['entry_sort_order']             = 'Sort Order';
-
-// Error
-$_['error_permission']             = 'Warning: You do not have permission to modify dashboard language PL!';
+$_['text_main']                    = 'There are no options here. Read more about Language PL extension on https://opencart.design4.io/language-pl';

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Opłata za niskie zamówienie';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']        = 'Edytuj obciążenie za niską wartość zamówienia';
 

@@ -198,6 +198,11 @@ file_filter = src/upload/admin/language/<lang>/extension/dashboard/customer.php
 source_file = src/upload/admin/language/en-gb/extension/dashboard/customer.php
 source_lang = en
 
+[opencart_language_pl_3_0.admin_extension_dashboard_language_pl]
+file_filter = src/upload/admin/language/<lang>/extension/dashboard/language_pl.php
+source_file = src/upload/admin/language/en-gb/extension/dashboard/language_pl.php
+source_lang = en
+
 [opencart_language_pl_3_0.admin_extension_dashboard_map]
 file_filter = src/upload/admin/language/<lang>/extension/dashboard/map.php
 source_file = src/upload/admin/language/en-gb/extension/dashboard/map.php
@@ -488,7 +493,7 @@ file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_listings
 source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_listingsaved.php
 source_lang = en
 
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_settingsn]
+[opencart_language_pl_3_0.admin_extension_openbay_amazon_settings]
 file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_settings.php
 source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_settings.php
 source_lang = en

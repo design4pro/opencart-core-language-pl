@@ -7,7 +7,8 @@ $_['text_success']      = 'Sukces: Zmodyfikowano ustawienia!';
 $_['text_list']         = 'Lista śledzeń kampanii';
 $_['text_add']          = 'Dodaj śledzenie kampanii';
 $_['text_edit']         = 'Edytuj śledzenie kampanii';
-
+$_['text_filter']       = 'Filtruj';
+		
 // Column
 $_['column_name']       = 'Nazwa kampanii';
 $_['column_code']       = 'Kod';

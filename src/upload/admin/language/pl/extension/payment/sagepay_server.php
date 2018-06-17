@@ -12,6 +12,7 @@ $_['text_test']				  = 'Tryb testowy';
 $_['text_live']				  = 'Na żywo';
 $_['text_defered']			  = 'Defered';
 $_['text_authenticate']		  = 'Autoryzacja';
+$_['text_payment']		  = 'Płatność';
 $_['text_release_ok']		  = 'Release was successful';
 $_['text_release_ok_order']	  = 'Release was successful, order status updated to success - settled';
 $_['text_rebate_ok']		  = 'Rebate was successful';

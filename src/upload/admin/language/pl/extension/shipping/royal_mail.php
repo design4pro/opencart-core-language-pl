@@ -3,7 +3,7 @@
 $_['heading_title']                    = 'Royal Mail';
 
 // Text
-$_['text_shipping']                    = 'Dostawa';
+$_['text_extension']                   = 'Rozszerzenia';
 $_['text_success']                     = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
 $_['text_edit']                        = 'Edytuj dostawę';
 

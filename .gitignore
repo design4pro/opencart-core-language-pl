@@ -1,6 +1,7 @@
 build
-packages
+dist
 site
+public
 
 # IDE
 .idea

@@ -7,6 +7,7 @@ $_['text_success']           = 'Sukces: Zmodyfikowano produkty!';
 $_['text_list']              = 'Lista produktów';
 $_['text_add']               = 'Dodaj produkt';
 $_['text_edit']              = 'Edytuj produkt';
+$_['text_filter']            = 'Filtruj';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
 $_['text_default']           = 'Domyślne';
@@ -14,6 +15,7 @@ $_['text_option']            = 'Opcje';
 $_['text_option_value']      = 'Wartość opcji';
 $_['text_percent']           = 'Procent';
 $_['text_amount']            = 'Stała kwota';
+$_['text_keyword']           = 'Nie używaj spacji, zamień je na - i upewnij się, że adres URL SEO jest unikalny w skali sklepu.';
 
 // Column
 $_['column_name']            = 'Nazwa produktu';
@@ -27,10 +29,11 @@ $_['column_action']          = 'Akcje';
 // Entry
 $_['entry_name']             = 'Nazwa produktu';
 $_['entry_description']      = 'Opis';
-$_['entry_meta_title'] 	     = 'Tytuł SEO:';
-$_['entry_meta_keyword'] 	 = 'Słowa kluczowe SEO';
+$_['entry_meta_title']       = 'Tytuł SEO:';
+$_['entry_meta_keyword']     = 'Słowa kluczowe SEO';
 $_['entry_meta_description'] = 'Opis SEO';
-$_['entry_keyword']          = 'Adres URL SEO';
+$_['entry_store']            = 'Sklepy';
+$_['entry_keyword']          = 'Słowo kluczowe';
 $_['entry_model']            = 'Model';
 $_['entry_sku']              = 'SKU';
 $_['entry_upc']              = 'UPC';
@@ -41,7 +44,6 @@ $_['entry_mpn']              = 'MPN';
 $_['entry_location']         = 'Lokalizacja';
 $_['entry_shipping']         = 'Wymaga dostawy';
 $_['entry_manufacturer']     = 'Producent';
-$_['entry_store']            = 'Sklepy';
 $_['entry_date_available']   = 'Dostępny od';
 $_['entry_quantity']         = 'Ilość';
 $_['entry_minimum']          = 'Minimalna ilość';
@@ -76,13 +78,12 @@ $_['entry_category']         = 'Kategorie';
 $_['entry_filter']           = 'Filtry';
 $_['entry_download']         = 'Pliki do pobrania';
 $_['entry_related']          = 'Produkty powiązane';
-$_['entry_tag']          	 = 'Etykiety produktu';
+$_['entry_tag']              = 'Etykiety produktu';
 $_['entry_reward']           = 'Punkty lojalnościowe';
 $_['entry_layout']           = 'Zastąp układ';
 $_['entry_recurring']        = 'Subskrypcja';
 
 // Help
-$_['help_keyword']           = 'Nie używaj spacji, zamień je na - i upewnij się, że adres URL SEO jest unikalny w skali sklepu.';
 $_['help_sku']               = 'Jednostka magazynowa';
 $_['help_upc']               = 'Uniwersalny kod produktu';
 $_['help_ean']               = 'Europejski numer artykułu';
@@ -97,12 +98,13 @@ $_['help_category']          = '(Autouzupełnianie)';
 $_['help_filter']            = '(Autouzupełnianie)';
 $_['help_download']          = '(Autouzupełnianie)';
 $_['help_related']           = '(Autouzupełnianie)';
-$_['help_tag']              = 'Oddzielone przecinkiem';
+$_['help_tag']               = 'Oddzielone przecinkiem';
 
 // Error
 $_['error_warning']          = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania produktów!';
-$_['error_name']             = 'Nazwa produktu musi zawierać od 3 do 255 znaków!';
-$_['error_meta_title']       = 'Meta Tytuł musi zawierać od 3 do 255 znaków!';
+$_['error_name']             = 'Nazwa produktu musi zawierać od 1 do 255 znaków!';
+$_['error_meta_title']       = 'Meta Tytuł musi zawierać od 1 do 255 znaków!';
 $_['error_model']            = 'Model produktu musi zawierać od 1 do 64 znaków!';
 $_['error_keyword']          = 'Adres URL SEO został już wykorzystany!';
+$_['error_unique']           = 'Adres URL SEO musi być unikalny!';

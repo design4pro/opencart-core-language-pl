@@ -1,5 +1,6 @@
 <?php
 // Text
+$_['text_success']  = 'Sukces: Zmodyfikowano karty podarunkowe!';
 $_['text_subject']  = 'Otrzymałe(a)ś kartę podarunkową od %s';
 $_['text_greeting'] = 'Gratulacje, otrzymałe(a)ś kartę podarunkową o wartości %s';
 $_['text_from']     = 'Ta karta podarunkowa została wysłana do Ciebie przez %s';

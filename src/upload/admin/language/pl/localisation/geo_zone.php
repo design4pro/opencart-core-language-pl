@@ -7,6 +7,7 @@ $_['text_success']       = 'Sukces: Zmodyfikowano opcję!';
 $_['text_list']          = 'Lista stref geograficznych';
 $_['text_add']           = 'Dodaj strefę podatkową';
 $_['text_edit']          = 'Edytuj strefę geograficzną';
+$_['text_geo_zone']      = 'Strefy geograficzne';
 
 // Column
 $_['column_name']        = 'Nazwa strefy geograficznej';

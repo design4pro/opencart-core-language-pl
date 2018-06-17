@@ -14,7 +14,7 @@ $_['text_resend']			 = 'Wysłane ponownie';
 $_['text_success']           = 'Transaction was successfully sent';
 $_['text_full_refund']		 = 'Całkowity zwrot pieniędzy';
 $_['text_partial_refund']	 = 'Partial refund';
-
+$_['text_payment']		 	 = 'Płatność';
 $_['text_current_refunds']   = 'Refunds have already been done for this transaction. The max refund is';
 
 // Column

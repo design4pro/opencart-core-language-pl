@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']				= 'Login and Pay with Amazon';
+$_['heading_title']				= 'Amazon Pay';
 $_['heading_address']			= 'Proszę wybrać adres dostwy';
 $_['heading_payment']			= 'Proszę wybrać metodę płatności';
 $_['heading_confirm']			= 'Podsumowanie zamówienia';
@@ -9,7 +9,7 @@ $_['text_back']					= 'Powrót';
 $_['text_cart']					= 'Koszyk';
 $_['text_confirm']				= 'Potwierdź hasło';
 $_['text_continue']				= 'Kontynuuj';
-$_['text_lpa']					= 'Login and Pay with Amazon';
+$_['text_lpa']					= 'Amazon Pay';
 $_['text_enter_coupon']			= 'Wprowadź kod kuponu. Jeśli go nie posiadasz, pozostaw to pole puste.';
 $_['text_coupon']				= 'Kupon';
 $_['text_tax_other']			= 'Podatki / Inne opłaty manipulacyjne';
@@ -24,4 +24,4 @@ $_['error_no_shipping_methods'] = 'There are no shipping options to the selected
 $_['error_process_order']		= 'There was an error processing your order. Please contact the shop administrator for help.';
 $_['error_login']				= 'Login failed';
 $_['error_login_email']			= 'Login failed: %s account email address did not match Amazon account email address';
-$_['error_minimum']             = 'Minimum order amount for Login and Pay with Amazon is %s!';
+$_['error_minimum']             = 'Minimum order amount for Amazon Pay is %s!';

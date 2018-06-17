@@ -1,7 +1,7 @@
 <?php
 // Heading
 $_['heading_title']     = 'Szukaj';
-$_['heading_tag']		= 'Etykieta - ';
+$_['heading_tag']       = 'Etykieta - ';
 
 // Text
 $_['text_search']       = 'Produkty spełniające kryteria wyszukiwania';

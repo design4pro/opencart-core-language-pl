@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Odbiór osobisty ze sklepu';
 
 // Text
-$_['text_shipping']    = 'Dostawa';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
 $_['text_edit']        = 'Edytuj dostawę';
 

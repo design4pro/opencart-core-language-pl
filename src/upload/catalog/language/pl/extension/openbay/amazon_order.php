@@ -8,3 +8,4 @@ $_['text_total_giftwrap_tax'] 	= 'Podatek od opakowania';
 $_['text_total_sub'] 			= 'Wartość produktów';
 $_['text_tax'] 					= 'Podatek';
 $_['text_total'] 				= 'Do zapłaty';
+$_['text_gift_message'] 		= 'Gift messages';

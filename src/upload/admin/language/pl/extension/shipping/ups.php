@@ -3,7 +3,7 @@
 $_['heading_title']                = 'UPS';
 
 // Text
-$_['text_shipping']                = 'Dostawa';
+$_['text_extension']               = 'Rozszerzenia';
 $_['text_success']                 = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
 $_['text_edit']                    = 'Edytuj dostawę';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
@@ -30,7 +30,7 @@ $_['text_other']                   = 'All Other Origins';
 $_['text_test']                    = 'Tryb testowy';
 $_['text_production']              = 'Produkcyjny';
 $_['text_residential']             = 'Residential';
-$_['text_commercial']              = 'Commercial';
+$_['text_commercial']              = 'Komercyjne';
 $_['text_next_day_air']            = 'UPS Next Day Air';
 $_['text_2nd_day_air']             = 'UPS Second Day Air';
 $_['text_ground']                  = 'UPS Ground';
@@ -72,7 +72,7 @@ $_['entry_insurance']              = 'Aktywuj ubezpieczenie';
 $_['entry_display_weight']         = 'Display Delivery Weight';
 $_['entry_weight_class']           = 'Jednostki wagi ';
 $_['entry_length_class']           = 'Jednostka długości';
-$_['entry_dimension']			   = 'Wymiary (szer. x dł. x wys.):';
+$_['entry_dimension']              = 'Wymiary (szer. x dł. x wys.):';
 $_['entry_length']                 = 'Długość';
 $_['entry_height']                 = 'Wysokość';
 $_['entry_width']                  = 'Długość';
@@ -80,7 +80,7 @@ $_['entry_tax_class']              = 'Reguła podatkowa';
 $_['entry_geo_zone']               = 'Strefa geograficzna';
 $_['entry_status']                 = 'Status';
 $_['entry_sort_order']             = 'Kolejność sortowania';
-$_['entry_debug']      			   = 'Tryb debugowania';
+$_['entry_debug']                  = 'Tryb debugowania';
 
 // Help
 $_['help_key']                     = 'Enter the XML rates access key assigned to you by UPS.';
@@ -101,8 +101,8 @@ $_['help_insurance']               = 'Enables insurance with product total as th
 $_['help_display_weight']          = 'Do you want to display the shipping weight? (e.g. Delivery Weight : 2.7674 kg)';
 $_['help_weight_class']            = 'Set to kilograms or pounds.';
 $_['help_length_class']            = 'Set to centimeters or inches.';
-$_['help_dimension']			   = 'This is assumed to be your average packing box size. Individual item dimensions are not supported at this time so you must enter average dimensions like 5x5x5.';
-$_['help_debug']      			   = 'Saves send/recv data to the system log';
+$_['help_dimension']               = 'This is assumed to be your average packing box size. Individual item dimensions are not supported at this time so you must enter average dimensions like 5x5x5.';
+$_['help_debug']                   = 'Saves send/recv data to the system log';
 
 // Error
 $_['error_permission']             = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania modułu dostaw!';

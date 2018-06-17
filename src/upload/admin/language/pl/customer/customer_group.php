@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Kolejność sortowania';
 $_['help_approval']     = 'Klienci muszą być zatwierdzeni przez administratora, zanim będą mogli się zalogować.';
 
 // Error
-$_['error_permission']   = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania grup klientów!';
-$_['error_name']         = 'Nazwa grupy klientów musi zawierać od 3 do 32 znaków!';
-$_['error_default']      = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie ustawiona jako domyślna!';
-$_['error_store']        = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie przypisana do %s sklepów!';
-$_['error_customer']     = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie przypisana do %s klientów!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania grup klientów!';
+$_['error_name']        = 'Nazwa grupy klientów musi zawierać od 3 do 32 znaków!';
+$_['error_default']     = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie ustawiona jako domyślna!';
+$_['error_store']       = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie przypisana do %s sklepów!';
+$_['error_customer']    = 'Ostrzeżenie: Nie można usunąć tej grupy klientów, ponieważ jest obecnie przypisana do %s klientów!';

@@ -10,6 +10,7 @@ $_['text_list']        = 'Lista modułów';
 
 // Column
 $_['column_name']      = 'Nazwa modułu';
+$_['column_status']    = 'Status';
 $_['column_action']    = 'Akcje';
 
 // Entry

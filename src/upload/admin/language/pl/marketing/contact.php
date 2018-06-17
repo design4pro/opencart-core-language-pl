@@ -26,9 +26,9 @@ $_['entry_subject']        = 'Temat';
 $_['entry_message']        = 'Wiadomość';
 
 // Help
-$_['help_customer']       = '(Autouzupełnianie)';
-$_['help_affiliate']      = '(Autouzupełnianie)';
-$_['help_product']        = 'Wyślij tylko do klientów, którzy zamówili produkty z listy. (Autouzupełnianie)';
+$_['help_customer']        = '(Autouzupełnianie)';
+$_['help_affiliate']       = '(Autouzupełnianie)';
+$_['help_product']         = 'Wyślij tylko do klientów, którzy zamówili produkty z listy. (Autouzupełnianie)';
 
 // Error
 $_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do wysyłania wiadomości!';

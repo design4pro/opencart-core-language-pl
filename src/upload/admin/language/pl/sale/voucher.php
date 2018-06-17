@@ -37,7 +37,6 @@ $_['entry_status']      = 'Status';
 $_['help_code']         = 'Kod, który klient używa aby uzyskać rabat.';
 
 // Error
-$_['error_selection']   = 'Ostrzeżenie: Nie wybrano rabatów!';
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania kart podarunkowych!';
 $_['error_exists']      = 'Ostrzeżenie: Kod został już wykorzystany!';
 $_['error_code']        = 'Kod musi zawierać od 3 do 10 znaków!';

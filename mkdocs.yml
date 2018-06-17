@@ -43,7 +43,7 @@ theme:
   search_index_only: true
 
 # Default values, taken from mkdocs_theme.yml
-  language: "en"
+  language: "pl"
   direction: ltr
   feature:
     tabs: true
@@ -107,4 +107,6 @@ markdown_extensions:
 
 # Page tree
 pages:
-  - Home: index.md
+  - Start: index.md
+  - Instalacja:
+    - Krok po kroku: install.md

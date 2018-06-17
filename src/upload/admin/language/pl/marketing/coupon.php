@@ -9,6 +9,7 @@ $_['text_add']            = 'Dodaj kupon';
 $_['text_edit']           = 'Edytuj obciążenie kuponem';
 $_['text_percent']        = 'Procent';
 $_['text_amount']         = 'Stała kwota';
+$_['text_coupon']         = 'Coupon History';
 
 // Column
 $_['column_name']         = 'Nazwa kuponu';

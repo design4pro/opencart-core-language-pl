@@ -15,12 +15,12 @@ $_['column_sort_order']      = 'Kolejność sortowania';
 $_['column_action']          = 'Akcje';
 
 // Entry
-$_['entry_name']            = 'Nazwa atrybutu';
-$_['entry_attribute_group'] = 'Grupa atrybutu';
-$_['entry_sort_order']      = 'Kolejność sortowania';
+$_['entry_name']             = 'Nazwa atrybutu';
+$_['entry_attribute_group']  = 'Grupa atrybutu';
+$_['entry_sort_order']       = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']      = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania atrybutów!';
-$_['error_attribute_group'] = 'Grupa atrybutów jest wymagana!';
-$_['error_name']            = 'Nazwa atrybutu musi zawierać od 3 do 64 znaków!';
-$_['error_product']         = 'Ostrzeżenie: Nie można usunąć tego atrybutu, ponieważ jest obecnie przypisany do %s produktów!';
+$_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania atrybutów!';
+$_['error_attribute_group']  = 'Grupa atrybutów jest wymagana!';
+$_['error_name']             = 'Nazwa atrybutu musi zawierać od 1 do 64 znaków!';
+$_['error_product']          = 'Ostrzeżenie: Nie można usunąć tego atrybutu, ponieważ jest obecnie przypisany do %s produktów!';

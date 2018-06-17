@@ -35,7 +35,7 @@ Kraj = {country}';
 
 // Error
 $_['error_permission']        = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania krajów!';
-$_['error_name']              = 'Nazwa kraju musi zawierać od 3 do 128 znaków!';
+$_['error_name']              = 'Nazwa kraju musi zawierać od 1 do 128 znaków!';
 $_['error_default']           = 'Ostrzeżenie: Nie można usunąć tego kraju, ponieważ jest obecnie ustawiony jako domyślny!';
 $_['error_store']             = 'Ostrzeżenie: Nie można usunąć tego kraju, ponieważ jest obecnie przypisany do %s sklepów!';
 $_['error_address']           = 'Ostrzeżenie: Nie można usunąć tego kraju, ponieważ jest obecnie przypisany do %s wpisów w książkach adresowych!';

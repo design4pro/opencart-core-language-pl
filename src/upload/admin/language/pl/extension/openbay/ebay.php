@@ -24,4 +24,4 @@ $_['text_heading_register']        = 'Zarejestruj się tutaj';
 $_['error_category_nosuggestions'] = 'Could not load any suggested categories';
 $_['error_loading_catalog']        = 'eBay catalog search failed';
 $_['error_generic_fail']           = 'An unknown error just happened!';
-$_['error_no_products']         	= 'No products found';
+$_['error_no_products']         	= 'Nie znaleziono produktów';

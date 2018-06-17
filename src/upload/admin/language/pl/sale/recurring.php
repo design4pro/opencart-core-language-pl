@@ -5,6 +5,7 @@ $_['heading_title']                        = 'Subskrypcje';
 // Text
 $_['text_success']                         = 'Sukces: Zmodyfikowano ustawienia modułu!!';
 $_['text_list']                            = 'Lista zamówień subskrypcji';
+$_['text_filter']                          = 'Filtruj';
 $_['text_recurring_detail']                = 'Szczegóły subskrypcji';
 $_['text_order_detail']                    = 'Szczegóły zamówienia';
 $_['text_product_detail']                  = 'Szczegóły produktu';
@@ -36,7 +37,7 @@ $_['text_status_6']                        = 'Oczekujące';
 $_['text_transactions']                    = 'Transakcje';
 $_['text_cancel_confirm']                  = 'Anulowania subskrypcji nie można cofnąć! Czy napewno chcesz to zrobić?';
 $_['text_transaction_date_added']          = 'Data dodania';
-$_['text_transaction_payment'] 			   = 'Płatność';
+$_['text_transaction_payment']             = 'Płatność';
 $_['text_transaction_outstanding_payment'] = 'Pozostała kwota do zapłaty';
 $_['text_transaction_skipped']             = 'Płatność pominięta';
 $_['text_transaction_failed']              = 'Błąd płatności';

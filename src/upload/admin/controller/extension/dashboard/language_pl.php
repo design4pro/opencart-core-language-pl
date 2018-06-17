@@ -1,27 +1,29 @@
 <?php
-class ControllerExtensionDashboardLanguagePl extends Controller {
-    private $error = array();
+/**
+ * Project    OpenCart Core Langauge PL
+ * Name       opencart-language-pl
+ * Modified   16.06.18 12:09
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://opencart.design4.io/language-pl
+ *
+ * @copyright Copyright (c) 2018 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
 
+class ControllerExtensionDashboardLanguagePl extends Controller {
     public function index() {
         $this->load->language('extension/dashboard/language_pl');
 
         $this->document->setTitle($this->language->get('heading_title'));
-
-        $this->load->model('setting/setting');
-
-        if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validate()) {
-            $this->model_setting_setting->editSetting('dashboard_language_pl', $this->request->post);
-
-            $this->session->data['success'] = $this->language->get('text_success');
-
-            $this->response->redirect($this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=dashboard', true));
-        }
-
-        if (isset($this->error['warning'])) {
-            $data['error_warning'] = $this->error['warning'];
-        } else {
-            $data['error_warning'] = '';
-        }
 
         $data['breadcrumbs'] = array();
 
@@ -40,40 +42,33 @@ class ControllerExtensionDashboardLanguagePl extends Controller {
             'href' => $this->url->link('extension/dashboard/language_pl', 'user_token=' . $this->session->data['user_token'], true)
         );
 
-        $data['action'] = $this->url->link('extension/dashboard/language_pl', 'user_token=' . $this->session->data['user_token'], true);
+        $language_variables = array(
+            'heading_title',
+            'text_main'
+        );
+
+        foreach ($language_variables as $language_variable) {
+            $data[$language_variable] = $this->language->get($language_variable);
+        }
 
         $data['cancel'] = $this->url->link('marketplace/extension', 'user_token=' . $this->session->data['user_token'] . '&type=dashboard', true);
-
-        $data['columns'] = array();
-
-        for ($i = 3; $i <= 12; $i++) {
-            $data['columns'][] = $i;
-        }
-
-        if (isset($this->request->post['dashboard_language_pl_status'])) {
-            $data['dashboard_language_pl_status'] = $this->request->post['dashboard_language_pl_status'];
-        } else {
-            $data['dashboard_language_pl_status'] = $this->config->get('dashboard_language_pl_status');
-        }
-
-        if (isset($this->request->post['dashboard_language_pl_sort_order'])) {
-            $data['dashboard_language_pl_sort_order'] = $this->request->post['dashboard_language_pl_sort_order'];
-        } else {
-            $data['dashboard_language_pl_sort_order'] = $this->config->get('dashboard_language_pl_sort_order');
-        }
 
         $data['header'] = $this->load->controller('common/header');
         $data['column_left'] = $this->load->controller('common/column_left');
         $data['footer'] = $this->load->controller('common/footer');
 
-        $this->response->setOutput($this->load->view('extension/dashboard/language_pl_form', $data));
+        $this->response->setOutput($this->load->view('extension/dashboard/language_pl_info', $data));
     }
 
-    protected function validate() {
-        if (!$this->user->hasPermission('modify', 'extension/dashboard/language_pl')) {
-            $this->error['warning'] = $this->language->get('error_permission');
-        }
+    public function install() {
+        $this->load->model('extension/dashboard/language_pl');
 
-        return !$this->error;
+        $this->model_extension_dashboard_language_pl->install();
+    }
+
+    public function uninstall() {
+        $this->load->model('extension/dashboard/language_pl');
+
+        $this->model_extension_dashboard_language_pl->uninstall();
     }
 }
