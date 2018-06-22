@@ -14,6 +14,7 @@ $_['text_other']                = 'Other';
 $_['text_affiliate']            = 'Affiliate Details';
 $_['text_payment']              = 'Payment Details';
 $_['text_balance']              = 'Balance';
+$_['text_address']          = 'Address';
 $_['text_cheque']               = 'Cheque';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Bank Transfer';
@@ -39,7 +40,10 @@ $_['column_description']        = 'Description';
 $_['column_amount']             = 'Amount';
 $_['column_points']             = 'Points';
 $_['column_ip']                 = 'IP';
+$_['column_account']        = 'Accounts';
 $_['column_total']              = 'Total Accounts';
+$_['column_store']          = 'Store';
+$_['column_country']        = 'Country';
 $_['column_action']             = 'Action';
 
 // Entry

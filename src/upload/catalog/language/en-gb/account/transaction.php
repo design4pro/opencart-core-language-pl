@@ -12,3 +12,4 @@ $_['text_account']       = 'Account';
 $_['text_transaction']   = 'Your Transactions';
 $_['text_total']         = 'Your current balance is:';
 $_['text_empty']         = 'You do not have any transactions!';
+$_['text_no_results']    = 'You do not have any transactions!';

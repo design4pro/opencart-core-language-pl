@@ -5,6 +5,7 @@ $_['heading_title']              = 'FraudLabs Pro';
 // Text
 $_['text_extension']             = 'Extensions';
 $_['text_success']               = 'Success: You have modified FraudLabs Pro Settings!';
+$_['text_success_delete']        = 'Success: You have deleted all FraudLabs Pro data!';
 $_['text_edit']                  = 'Settings';
 $_['text_signup']                = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id']                    = 'FraudLabs Pro ID';
@@ -31,7 +32,7 @@ $_['text_message']               = 'Message';
 $_['text_transaction_id']        = 'Transaction ID';
 $_['text_credits']               = 'Balance';
 $_['text_error']                 = 'Error:';
-$_['text_flp_upgrade']           = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
+$_['text_flp_upgrade']           = '<a href="http://www.fraudlabspro.com/pricing" target="_blank">[Upgrade]</a>';
 $_['text_flp_merchant_area']     = 'Please login to <a href="http://www.fraudlabspro.com/merchant/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
 
 // Entry
