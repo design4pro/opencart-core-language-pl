@@ -1,9 +1,9 @@
 <?php
 // Text
 $_['text_extension']		 = 'Informacje o płatności';
-$_['text_capture_status']	 = 'Capture status';
-$_['text_amount_authorised'] = 'Amount authorised';
-$_['text_amount_captured']	 = 'Amount captured';
+$_['text_capture_status']	 = 'Przechwyć status';
+$_['text_amount_authorised'] = 'Kwota autoryzowana';
+$_['text_amount_captured']	 = 'Kwota przechwycona';
 $_['text_amount_refunded']	 = 'Zwrócona kwota';
 $_['text_transaction']		 = 'Transakcje';
 $_['text_complete']			 = 'Zakończona';
@@ -20,15 +20,15 @@ $_['text_current_refunds']   = 'Refunds have already been done for this transact
 // Column
 $_['column_transaction']	 = 'Identyfikator transakcji';
 $_['column_amount']			 = 'Kwota';
-$_['column_type']			 = 'Payment Type';
+$_['column_type']			 = 'Typ płatności';
 $_['column_status']			 = 'Status';
 $_['column_pending_reason']	 = 'Pending Reason';
 $_['column_date_added']		 = 'Data dodania';
 $_['column_action']			 = 'Akcje';
 
 // Entry
-$_['entry_capture_amount']	 = 'Capture amount';
-$_['entry_capture_complete'] = 'Complete capture';
+$_['entry_capture_amount']	 = 'Przechwyć kwotę';
+$_['entry_capture_complete'] = 'Pełne przechwytywanie';
 $_['entry_full_refund']		 = 'Całkowity zwrot pieniędzy';
 $_['entry_amount']			 = 'Kwota';
 $_['entry_note']             = 'Uwaga';
@@ -41,12 +41,12 @@ $_['tab_capture']		     = 'Przechwyć';
 $_['tab_refund']             = 'Zwrot pieniędzy';
 
 // Button
-$_['button_void']			 = 'Void';
+$_['button_void']			 = 'Nieważny';
 $_['button_capture']		 = 'Przechwyć';
 $_['button_refund']		     = 'Issue refund';
 
 // Error
-$_['error_capture']		     = 'Enter an amount to capture';
+$_['error_capture']		     = 'Wprowadź kwotę do przechwycenia';
 $_['error_transaction']	     = 'Transaction could not be carried out!';
 $_['error_not_found']	     = 'Transaction could not be found!';
 $_['error_partial_amt']		 = 'You must enter a partial refund amount';

@@ -12,4 +12,4 @@ $_['text_international_standard']       = 'International Standard';
 $_['text_international_tracked_signed'] = 'International Tracked & Signed';
 $_['text_international_tracked']        = 'International Tracked';
 $_['text_international_signed']         = 'International Signed';
-$_['text_international_economy']        = 'International Economy';
+$_['text_international_economy']        = 'Międzynarodowa ekonomiczna';

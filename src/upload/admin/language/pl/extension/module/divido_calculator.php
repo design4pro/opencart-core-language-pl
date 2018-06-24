@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Kalkulator Divido';
+$_['heading_title']    = 'Divido Product Page Calculator';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
-$_['text_edit']        = 'Edytuj Divido Product Page Calculator';
+$_['text_edit']        = 'Edit Divido Product Page Calculator';
 
 // Entry
 $_['entry_status']     = 'Status';

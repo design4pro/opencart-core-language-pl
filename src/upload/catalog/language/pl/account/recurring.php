@@ -33,6 +33,7 @@ $_['text_transaction_suspended_failed']    = 'Zawieszone z powodu błędu płatn
 $_['text_transaction_outstanding_failed']  = 'Błąd płatności';
 $_['text_transaction_expired']             = 'Wygasłe';
 $_['text_empty']                           = 'Nie znaleziono płatności za subskrypcje!';
+$_['text_no_results']                      = 'Nie znaleziono płatności za subskrypcje!';
 $_['text_error']                           = 'Zamówienie subskrypcji, którego szukasz nie zostało znalezione!';
 $_['text_cancelled']                       = 'Płatności cykliczne zostały anulowane';
 

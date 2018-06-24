@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] 				  = 'Manage listings';
+$_['heading_title'] 				  = 'Zarządzaj ofertami';
 
 // Text
 $_['text_markets']                    = 'Rynki';
@@ -10,7 +10,7 @@ $_['text_amazon'] 					  = 'Amazon EU';
 $_['text_amazonus'] 				  = 'Amazon US';
 $_['text_etsy'] 					  = 'Etsy';
 $_['text_status_all'] 				  = 'Wszystko';
-$_['text_status_ebay_active'] 		  = 'eBay sktywne';
+$_['text_status_ebay_active'] 		  = 'eBay aktywne';
 $_['text_status_ebay_inactive'] 	  = 'eBay nieaktywne';
 $_['text_status_amazoneu_saved'] 	  = 'Amazon EU saved';
 $_['text_status_amazoneu_processing'] = 'Amazon EU processing';

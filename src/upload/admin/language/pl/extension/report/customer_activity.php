@@ -4,8 +4,8 @@ $_['heading_title']                = 'Raporty aktywności klientów';
 
 // Text
 $_['text_extension']               = 'Rozszerzenia';
-$_['text_edit']                    = 'Edit Customer Activity Report';
-$_['text_success']                 = 'Success: You have modified customer activity report!';
+$_['text_edit']                    = 'Edytuj raport aktywności klientów';
+$_['text_success']                 = 'Sukces: Zmodyfikowano raport aktywności klientów!';
 $_['text_filter']                  = 'Filtruj';
 $_['text_activity_register']       = '<a href="customer_id=%d">%s</a> zarejestrował się.';
 $_['text_activity_edit']           = '<a href="customer_id=%d">%s</a> uaktualnił swoje szczegóły konta.';
@@ -39,4 +39,4 @@ $_['entry_status']                 = 'Status';
 $_['entry_sort_order']             = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify customer activity report!';
+$_['error_permission']             = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu aktywności klientów!';

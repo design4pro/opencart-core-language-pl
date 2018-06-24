@@ -7,12 +7,12 @@ $_['heading_refund']				 = 'Zwrot pieniędzy';
 $_['text_extension']				 = 'Rozszerzenia';
 $_['text_success']					 = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']                      = 'Edytuj moduł';
-$_['text_pp_payflow_iframe']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_payflow_iframe']		 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Payflow Pro" title="PayPal Payflow Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Autoryzacja';
 $_['text_sale']						 = 'Sprzedaż';
 $_['text_authorise']				 = 'Authorise';
 $_['text_capture']					 = 'Delayed Capture';
-$_['text_void']						 = 'Void';
+$_['text_void']						 = 'Nieważny';
 $_['text_payment_info']				 = 'Informacja o płatności';
 $_['text_complete']					 = 'Zakończona';
 $_['text_incomplete']				 = 'Niezakończona';
@@ -22,7 +22,7 @@ $_['text_refund']					 = 'Zwrot pieniędzy';
 $_['text_refund_issued']			 = 'Refund was issued successfully';
 $_['text_redirect']					 = 'Przekierowanie';
 $_['text_iframe']					 = 'Ramka';
-$_['help_checkout_method']			 = 'Please use Redirect method if do not have SSL installed or if you do not have Pay with PayPal option disabled on your hosted payment page.';
+$_['help_checkout_method']			 = 'Użyj opcji Przekierowanie, jeśli nie masz zainstalowanego SSL lub jeśli opcja Zapłać z PayPal nie jest wyłączona na stronie hostowanej płatności.';
 
 // Column
 $_['column_transaction_id']			 = 'Identyfikator transakcji';
@@ -34,7 +34,7 @@ $_['column_actions']				 = 'Akcje';
 // Tab
 $_['tab_settings']					 = 'Ustawienia';
 $_['tab_order_status']				 = 'Status zamówienia';
-$_['tab_checkout_customisation']	 = 'Checkout Customisation';
+$_['tab_checkout_customisation']	 = 'Dostosowanie realizacji transakcji';
 
 // Entry
 $_['entry_vendor']					 = 'Sprzedawca';
@@ -52,14 +52,14 @@ $_['entry_transaction_id']			 = 'Identyfikator transakcji';
 $_['entry_full_refund']				 = 'Całkowity zwrot pieniędzy';
 $_['entry_amount']					 = 'Kwota';
 $_['entry_message']					 = 'Wiadomość';
-$_['entry_ipn_url']					 = 'IPN URL';
+$_['entry_ipn_url']					 = 'Adres URL IPN';
 $_['entry_checkout_method']			 = 'Checkout Method';
 $_['entry_debug']					 = 'Tryb debugowania';
 $_['entry_transaction_reference']	 = 'Transaction Reference';
 $_['entry_transaction_amount']		 = 'Transaction Amount';
 $_['entry_refund_amount']			 = 'Kwota zwrotu';
 $_['entry_capture_status']			 = 'Capture Status';
-$_['entry_void']					 = 'Void';
+$_['entry_void']					 = 'Nieważny';
 $_['entry_capture']					 = 'Przechwyć';
 $_['entry_transactions']			 = 'Transakcje';
 $_['entry_complete_capture']		 = 'Complete Capture';
@@ -89,16 +89,16 @@ $_['help_debug']					 = 'Zapisuje dodatkowe informacje.';
 
 // Button
 $_['button_refund']					 = 'Zwrot pieniędzy';
-$_['button_void']					 = 'Void';
+$_['button_void']					 = 'Nieważny';
 $_['button_capture']				 = 'Przechwyć';
 
 // Error
-$_['error_permission']				 = 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				 = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania płatności PayPal Website Payment Pro iFrame (UK)!';
 $_['error_vendor']					 = 'Sprzedawca jest wymagany!';
 $_['error_user']					 = 'Użytkownik jest wymagany!';
 $_['error_password']				 = 'Hasło jest wymagane!';
 $_['error_partner']					 = 'Partner jest wymagany!';
-$_['error_missing_data']			 = 'Missing data';
+$_['error_missing_data']			 = 'Brakujące dane';
 $_['error_missing_order']			 = 'Could not find the order';
-$_['error_general']					 = 'There was an error';
-$_['error_capture']				     = 'Enter an amount to capture';
+$_['error_general']					 = 'Wystąpił błąd';
+$_['error_capture']				     = 'Wprowadź kwotę do przechwycenia';

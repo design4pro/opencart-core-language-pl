@@ -7,7 +7,7 @@ $_['text_success']         = 'Sukces: Zmodyfikowano waluty!';
 $_['text_list']            = 'Lista walut';
 $_['text_add']             = 'Dodaj walutę';
 $_['text_edit']            = 'Edytuj walutę';
-$_['text_iso']             = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">here</a>.';
+$_['text_iso']             = 'Możesz znaleźć pełną listę kodów walut i ustawień ISO <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">tutaj</a>.';
 
 // Column
 $_['column_title']         = 'Nazwa waluty';
@@ -26,7 +26,7 @@ $_['entry_decimal_place']  = 'Miejsc po przecinku';
 $_['entry_status']         = 'Status';
 
 // Help
-$_['help_code']            = 'Do not change if this is your default currency.';
+$_['help_code']            = 'Nie zmieniaj, jeśli jest to Twoja domyślna waluta.';
 $_['help_value']           = 'Ustaw 1.00000 jeżeli to jest domyślna waluta.';
 
 // Error

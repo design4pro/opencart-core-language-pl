@@ -5,17 +5,17 @@ $_['text_credit_card']			= 'Szczegóły karty kredytowej';
 $_['text_wait']					= 'Proszę czekać!';
 $_['text_result']				= 'Rezultat';
 $_['text_message']				= 'Wiadomość';
-$_['text_cvn_result']			= 'CVN result';
-$_['text_avs_postcode']			= 'AVS postcode';
+$_['text_cvn_result']			= 'Wynik CVN';
+$_['text_avs_postcode']			= 'Kod pocztowy AVS';
 $_['text_avs_address']			= 'Adres AVS';
-$_['text_eci']					= 'ECI (3D secure) result';
-$_['text_tss']					= 'TSS result';
+$_['text_eci']					= 'Wynik ECI (3D Secure)';
+$_['text_tss']					= 'Wynik TSS';
 $_['text_card_bank']			= 'Card issue bank';
 $_['text_card_country']			= 'Card country';
 $_['text_card_region']			= 'Card region';
 $_['text_last_digits']			= 'Ostatnie 4 cyfry';
-$_['text_order_ref']			= 'Order ref';
-$_['text_timestamp']			= 'Timestamp';
+$_['text_order_ref']			= 'numer referencyjny zamówienia';
+$_['text_timestamp']			= 'Znacznik czasu';
 $_['text_card_visa']			= 'Visa';
 $_['text_card_mc']				= 'Mastercard';
 $_['text_card_amex']			= 'American Express';
@@ -37,19 +37,19 @@ $_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
 // Entry
 $_['entry_cc_type']				= 'Typ karty';
 $_['entry_cc_number']			= 'Numer karty';
-$_['entry_cc_name']				= 'Cardholder name';
+$_['entry_cc_name']				= 'Właściciel karty';
 $_['entry_cc_expire_date']		= 'Data ważności karty';
-$_['entry_cc_cvv2']				= 'Card security code (CVV2)';
-$_['entry_cc_issue']			= 'Card issue number';
+$_['entry_cc_cvv2']				= 'Kod bezpieczeństwa (CVV2)';
+$_['entry_cc_issue']			= 'Numer wydania karty';
 
 // Help
 $_['help_start_date']			= '(jeżeli dostępne)';
 $_['help_issue']				= '(tylko dla kart Maestro i Solo)';
 
 // Error
-$_['error_card_number']			= 'Please check your card number is valid';
-$_['error_card_name']			= 'Please check the card holder name is valid';
-$_['error_card_cvv']			= 'Please check the CVV2 is valid';
+$_['error_card_number']			= 'Sprawdź, czy numer Twojej karty jest prawidłowy';
+$_['error_card_name']			= 'Sprawdź, czy nazwa właściciela Twojej karty jest prawidłowa';
+$_['error_card_cvv']			= 'Sprawdź, czy kod bezpieczeństwa CVV2 jest prawidłowy';
 $_['error_3d_unable']			= 'Merchant requires 3D secure but unable to verify with your bank, please try later';
 $_['error_3d_500_response_no_payment'] = 'An invalid response was received from the card processor, no payment has been taken';
 $_['error_3d_unsuccessful']		= '3D secure authorisation failed';

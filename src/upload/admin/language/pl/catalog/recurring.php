@@ -18,7 +18,7 @@ $_['text_trial']            = 'Próbna subskrypcja';
 
 // Entry
 $_['entry_name']            = 'Nazwa';
-$_['entry_price']           = 'Cena jednostkowa';
+$_['entry_price']           = 'Cena';
 $_['entry_duration']        = 'Czas trwania';
 $_['entry_cycle']           = 'Cykl';
 $_['entry_frequency']       = 'Częstotliwość';

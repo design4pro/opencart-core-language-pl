@@ -28,6 +28,7 @@ $_['entry_type']        = 'Typ';
 // Error
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania producentów!';
 $_['error_name']        = 'Nazwa producenta musi zawierać od 1 do 64 znaków!';
-$_['error_keyword']     = 'Adres URL SEO został już wykorzystany!';
+$_['error_seo']         = 'Adres URL SEO jest wymagany!';
+$_['error_keyword']     = 'Adres URL SEO musi być unikalny!';
 $_['error_unique']      = 'Adres URL SEO musi być unikalny!';
 $_['error_product']     = 'Ostrzeżenie: Nie można usunąć tego producenta, ponieważ jest obecnie przypisany do %s produktów!';

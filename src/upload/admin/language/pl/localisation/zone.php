@@ -22,7 +22,7 @@ $_['entry_status']           = 'Status';
 
 // Error
 $_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania województw!';
-$_['error_name']             = 'Zone Name must be between 1 and 128 characters!';
+$_['error_name']             = 'Nazwa województwa/stanu musi zawierać od 1 do 128 znaków!';
 $_['error_default']          = 'Ostrzeżenie: Nie można usunąć tego województwa, ponieważ jest obecnie ustawiona jako domyślna!';
 $_['error_store']            = 'Ostrzeżenie: Nie można usunąć tego województwa, ponieważ jest obecnie przypisane do %s sklepów!';
 $_['error_address']          = 'Ostrzeżenie: Nie można usunąć tego województwa, ponieważ jest obecnie przypisane do %s wpisów w książkach adresowych!';

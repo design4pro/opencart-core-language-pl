@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']     = 'Online Report';
+$_['heading_title']     = 'Raport on-line';
 
 // Text
 $_['text_extension']    = 'Rozszerzenia';
-$_['text_success']      = 'Success: You have modified customers online report!';
-$_['text_list']         = 'Online List';
+$_['text_success']      = 'Sukces: Zmodyfikowano raport on-line klientów!';
+$_['text_list']         = 'Lista klientów on-line';
 $_['text_filter']       = 'Filtruj';
 $_['text_guest']        = 'Gość';
 
@@ -24,4 +24,4 @@ $_['entry_status']      = 'Status';
 $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customers online report!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu on-line klientów!';

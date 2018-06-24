@@ -18,4 +18,4 @@ $_['text_failed']             = 'Failed to load';
 $_['text_pull']               = 'Request a manual import';
 
 // Errors
-$_['error_validation']        = 'You need to register for your API token and enable the module.';
+$_['error_validation']        = 'Musisz zarejestrować token API i włączyć moduł.';

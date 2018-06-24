@@ -11,39 +11,39 @@ $_['tab_gallery']          				              = 'Galeria';
 $_['tab_settings']         				              = 'Ustawienia';
 
 //Shipping Profile
-$_['text_shipping_dispatch_country']                  = 'Shipping from country';
-$_['text_shipping_postcode']                          = 'Postal/Zip code location';
-$_['text_shipping_location']                          = 'Town or State location';
-$_['text_shipping_despatch']                          = 'Despatch time';
-$_['text_shipping_despatch_help']                     = 'This is the maximum number of days you will take to send the item';
-$_['text_shipping_nat']                               = 'National shipping services';
-$_['text_shipping_intnat']                            = 'International shipping services';
+$_['text_shipping_dispatch_country']                  = 'Dostawa z kraju';
+$_['text_shipping_postcode']                          = 'Kod pocztowy lokalizacji';
+$_['text_shipping_location']                          = 'Masto lub województwo/stan lokalizacji';
+$_['text_shipping_despatch']                          = 'Czas wysyłki';
+$_['text_shipping_despatch_help']                     = 'Jest to maksymalna liczba dni, aby wysłać przedmiot';
+$_['text_shipping_nat']                               = 'Usługi wysyłkowe na terenie kraju';
+$_['text_shipping_intnat']                            = 'Międzynarodowe usługi wysyłkowe';
 $_['text_shipping_first']                             = 'Pierwszy przedmiot';
-$_['text_shipping_add']                               = 'Additional items';
-$_['text_shipping_service']                           = 'Service';
-$_['text_shipping_in_desc']                           = 'Freight info in description';
-$_['text_shipping_getitfast']                         = 'Get It Fast!';
-$_['text_shipping_zones']                             = 'Ship to zones';
-$_['text_shipping_worldwide']                         = 'Worldwide';
-$_['text_shipping_type_nat']           	              = 'National shipping type';
-$_['text_shipping_type_int']           	              = 'International shipping type';
-$_['text_shipping_flat']           		              = 'Flat rate';
-$_['text_shipping_calculated']                        = 'Calculated';
-$_['text_shipping_freight']          	              = 'Freight';
-$_['text_shipping_handling']          	              = 'Handling fee';
-$_['text_shipping_cod']           		              = 'Cash on delivery fee';
-$_['text_shipping_handling_nat']    	              = 'Handling fee (national)';
-$_['entry_shipping_handling_int']    	              = 'Handling fee (international)';
-$_['entry_shipping_pickupdropoff']  	              = 'Click and Collect';
-$_['entry_shipping_pickupinstore']  	              = 'Available for In-Store Pickup';
-$_['entry_shipping_global_shipping']  	              = 'Use eBay global shipping service';
-$_['entry_shipping_promotion_discount']               = 'Combined shipping discounts (national)';
-$_['entry_shipping_promotion_discount_international'] = 'Combined shipping discounts (international)';
+$_['text_shipping_add']                               = 'Dodatkowe przedmioty';
+$_['text_shipping_service']                           = 'Usługa';
+$_['text_shipping_in_desc']                           = 'Informacje towarowe w opisie';
+$_['text_shipping_getitfast']                         = 'Zdobądź to szybko!';
+$_['text_shipping_zones']                             = 'Wyślij do stref';
+$_['text_shipping_worldwide']                         = 'Na całym świecie';
+$_['text_shipping_type_nat']           	              = 'Krajowy typ wysyłki';
+$_['text_shipping_type_int']           	              = 'Typ wysyłki międzynarodowej';
+$_['text_shipping_flat']           		              = 'Stawka ryczałtowa';
+$_['text_shipping_calculated']                        = 'Wyliczone';
+$_['text_shipping_freight']          	              = 'Spedytor';
+$_['text_shipping_handling']          	              = 'Opłata manipulacyjna';
+$_['text_shipping_cod']           		              = 'Pobranie opłaty przy odbiorze';
+$_['text_shipping_handling_nat']    	              = 'Opłata manipulacyjna (krajowa)';
+$_['entry_shipping_handling_int']    	              = 'Opłata manipulacyjna (międzynarodowa)';
+$_['entry_shipping_pickupdropoff']  	              = 'Kliknij i odbierz';
+$_['entry_shipping_pickupinstore']  	              = 'Dostępne do odbioru w sklepie';
+$_['entry_shipping_global_shipping']  	              = 'Użyj globalnej usługi wysyłkowej eBay';
+$_['entry_shipping_promotion_discount']               = 'Połączone zniżki wysyłkowe (krajowe)';
+$_['entry_shipping_promotion_discount_international'] = 'Połączone zniżki wysyłkowe (międzynarodowe)';
 
 //Returns profile
-$_['text_returns_accept']       		              = 'Returns accepted';
-$_['text_returns_inst']         		              = 'Return Policy';
-$_['text_returns_days']         		              = 'Return Days';
+$_['text_returns_accept']       		              = 'Zwrot zaakceptowany';
+$_['text_returns_inst']         		              = 'Polityka zwrotów';
+$_['text_returns_days']         		              = 'Dni zwrotu';
 $_['text_returns_days10']       		              = '10 Dni';
 $_['text_returns_days14']       		              = '14 Dni';
 $_['text_returns_days30']       		              = '30 Dni';
@@ -54,33 +54,33 @@ $_['text_returns_type_exch']    		              = 'Zwrot pieniędzy lub wymiana'
 $_['text_returns_costs']        		              = 'Zwrot kosztów dostawy';
 $_['text_returns_costs_b']      		              = 'Płaci kupujący';
 $_['text_returns_costs_s']      		              = 'Płaci sprzedający';
-$_['text_returns_restock']      		              = 'Restocking Fee';
-$_['text_list']           				              = 'Profile list';
+$_['text_returns_restock']      		              = 'Opłata za zwrot towaru';
+$_['text_list']           				              = 'Lista profili';
 
 //Template profile
-$_['text_template_choose']      		              = 'Default template';
-$_['text_template_choose_help'] 		              = 'A default template will auto load when listing to save time';
-$_['text_image_gallery']        		              = 'Gallery image size';
-$_['text_image_gallery_help']   		              = 'Pixel size of gallery images that are added to your template.';
-$_['text_image_thumb']          		              = 'Thumbnail image size';
-$_['text_image_thumb_help']     		              = 'Pixel size of thumbnail images that are added to your template.';
-$_['text_image_super']          		              = 'Supersize images';
+$_['text_template_choose']      		              = 'Domyślny szablon';
+$_['text_template_choose_help'] 		              = 'Szablon domyślny zostanie automatycznie załadowany podczas aukcji, aby zaoszczędzić czas';
+$_['text_image_gallery']        		              = 'Rozmiar obrazka w galerii';
+$_['text_image_gallery_help']   		              = 'Rozmiar obrazków galerii w pikselach, które są dodawane do szablonu.';
+$_['text_image_thumb']          		              = 'Rozmiar miniaturki';
+$_['text_image_thumb_help']     		              = 'Rozmiar miniaturki obrazków w pikselach, które są dodawane do szablonu.';
+$_['text_image_super']          		              = 'Powiększone obrazki';
 $_['text_image_gallery_plus']   		              = 'Gallery plus';
-$_['text_image_all_ebay']       		              = 'Add all images to eBay';
-$_['text_image_all_template']   		              = 'Add all images to template';
-$_['text_image_exclude_default']		              = 'Exclude default image';
-$_['text_image_exclude_default_help']	              = 'Only for bulk listing feature! Will not include the default product image in theme image list';
-$_['text_confirm_delete']       		              = 'Are you sure you want to delete the profile?';
+$_['text_image_all_ebay']       		              = 'Dodaj wszystkie obrazki do eBay';
+$_['text_image_all_template']   		              = 'Dodaj wszystkie obrazki do szablonu';
+$_['text_image_exclude_default']		              = 'Wyklucz domyślny obraz';
+$_['text_image_exclude_default_help']	              = 'Tylko w przypadku funkcji edytowania zbiorczego! Nie uwzględnia domyślnego obrazka produktu na liście obrazów szablonu';
+$_['text_confirm_delete']       		              = 'Czy na pewno chcesz usunąć profil?';
 $_['text_width']      					              = 'Długość';
 $_['text_height']      					              = 'Wysokość';
 $_['text_px']      						              = 'px';
 $_['text_add']      					              = 'Dodaj profil';
-$_['text_edit']      					              = 'Edit profile';
+$_['text_edit']      					              = 'Edytuj profil';
 
 //General profile
-$_['text_general_private']      		              = 'List items as private auction';
-$_['text_general_price']        		              = 'Price % modification';
-$_['text_general_price_help']   		              = '0 is default, -10 will reduce by 10%, 10 will increase by 10% (only used on bulk listing)';
+$_['text_general_private']      		              = 'Lista przedmiotów jako aukcja prywatna';
+$_['text_general_price']        		              = 'Cena % modyfikacji';
+$_['text_general_price_help']   		              = '0 - domyślnie, -10 będzie pomniejszone o 10%, 10 będzie powiększone o 10% (tylko w przypadku funkcji edytowania zbiorczego)';
 
 //General profile options
 $_['text_profile_name']         		              = 'Nazwa';
@@ -92,19 +92,19 @@ $_['text_profile_action']       		              = 'Akcje';
 // Profile types
 $_['text_type_shipping']       			              = 'Dostawa';
 $_['text_type_returns']       			              = 'Reklamacje';
-$_['text_type_template']       			              = 'Template &amp; gallery';
-$_['text_type_general']       			              = 'General settings';
+$_['text_type_template']       			              = 'Szablon i galeria';
+$_['text_type_general']       			              = 'Ogólne ustawienia';
 
 //Success messages
-$_['text_added']                		              = 'New profile has been added';
-$_['text_updated']              		              = 'Profile has been updated';
+$_['text_added']                		              = 'Nowy profil został dodany';
+$_['text_updated']              		              = 'Profil został zaktualizowany';
 
 //Errors
-$_['error_permission']        			              = 'You do not have permission to edit profiles';
-$_['error_name']           				              = 'You must enter a profile name';
-$_['error_no_template']          		              = 'Template ID does not exist';
-$_['error_missing_settings'] 			              = 'You cannot add,edit or delete profiles until you syncronise your eBay settings';
+$_['error_permission']        			              = 'Nie masz uprawnień do modyfikowania profilu';
+$_['error_name']           				              = 'Musisz podać nazwę profilu';
+$_['error_no_template']          		              = 'Identyfikator szablonu nie istnieje';
+$_['error_missing_settings'] 			              = 'Nie możesz dodać, edytować lub usuwać profilów do czasu zsynchronizowania ustawień z usługą eBay';
 
 //Help
-$_['help_shipping_promotion_discount']                = 'Offer national buyers a discount on shipping if they buy multiple items. Discounts must have been setup in eBay to take effect.';
-$_['help_shipping_promotion_discount_international']  = 'Offer international buyers a discount on shipping if they buy multiple items. Discounts must have been setup in eBay to take effect.';
+$_['help_shipping_promotion_discount']                = 'Zaproponuj krajowym kupcom zniżkę na dostawę, jeśli kupią wiele przedmiotów. Zniżki muszą być ustawione w serwisie eBay.';
+$_['help_shipping_promotion_discount_international']  = 'Zaproponuj międzynarodowym kupcom zniżkę na dostawę, jeśli kupią wiele przedmiotów. Zniżki muszą być ustawione w serwisie eBay.';

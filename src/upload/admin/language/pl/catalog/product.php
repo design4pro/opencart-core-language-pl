@@ -106,5 +106,6 @@ $_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowan
 $_['error_name']             = 'Nazwa produktu musi zawierać od 1 do 255 znaków!';
 $_['error_meta_title']       = 'Meta Tytuł musi zawierać od 1 do 255 znaków!';
 $_['error_model']            = 'Model produktu musi zawierać od 1 do 64 znaków!';
-$_['error_keyword']          = 'Adres URL SEO został już wykorzystany!';
+$_['error_seo']              = 'Adres URL SEO jest wymagany!';
+$_['error_keyword']          = 'Adres URL SEO musi być unikalny!';
 $_['error_unique']           = 'Adres URL SEO musi być unikalny!';

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Raporty produktów przeglądanych';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
-$_['text_edit']        = 'Edit Products Viewed Report';
+$_['text_edit']        = 'Edytuj raport produktów przeglądanych';
 $_['text_success']     = 'Sukces: Wyzerowano raport produktów przeglądanych!';
 
 // Column
@@ -18,4 +18,4 @@ $_['entry_status']     = 'Status';
 $_['entry_sort_order'] = 'Kolejność sortowania';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify products viewed report!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu produktów przeglądanych!';

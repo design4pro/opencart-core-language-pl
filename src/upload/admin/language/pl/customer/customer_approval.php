@@ -11,7 +11,7 @@ $_['text_affiliate']        = 'Partner';
 
 // Column
 $_['column_name']           = 'Nazwa klienta';
-$_['column_email']          = 'Adres poczty elektronicznej';
+$_['column_email']          = 'Adres e-mail';
 $_['column_customer_group'] = 'Grupy klientów';
 $_['column_type']           = 'Typ';
 $_['column_date_added']     = 'Data dodania';
@@ -19,7 +19,7 @@ $_['column_action']         = 'Akcje';
 
 // Entry
 $_['entry_name']            = 'Nazwa klienta';
-$_['entry_email']           = 'Adres poczty elektronicznej';
+$_['entry_email']           = 'Adres e-mail';
 $_['entry_customer_group']  = 'Grupy klientów';
 $_['entry_type']            = 'Typ';
 $_['entry_date_added']      = 'Data dodania';

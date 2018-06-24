@@ -14,6 +14,7 @@ $_['text_other']                = 'Inne';
 $_['text_affiliate']            = 'Szczegóły partnera';
 $_['text_payment']              = 'Szczegóły płatności';
 $_['text_balance']              = 'Saldo';
+$_['text_address']          = 'Adres';
 $_['text_cheque']               = 'Czek';
 $_['text_paypal']               = 'PayPal';
 $_['text_bank']                 = 'Przelew';
@@ -30,7 +31,7 @@ $_['text_unlock']               = 'Odblokuj konto';
 
 // Column
 $_['column_name']               = 'Nazwa klienta';
-$_['column_email']              = 'Adres poczty elektronicznej';
+$_['column_email']              = 'Adres e-mail';
 $_['column_customer_group']     = 'Grupy klientów';
 $_['column_status']             = 'Status';
 $_['column_date_added']         = 'Data dodania';
@@ -39,14 +40,17 @@ $_['column_description']        = 'Opis';
 $_['column_amount']             = 'Kwota';
 $_['column_points']             = 'Punktów';
 $_['column_ip']                 = 'Adres IP';
+$_['column_account']        = 'Konta';
 $_['column_total']              = 'Wszystkich kont';
+$_['column_store']          = 'Sklep';
+$_['column_country']        = 'Kraj';
 $_['column_action']             = 'Akcje';
 
 // Entry
 $_['entry_customer_group']      = 'Grupy klientów';
 $_['entry_firstname']           = 'Imię';
 $_['entry_lastname']            = 'Nazwisko';
-$_['entry_email']               = 'Adres poczty elektronicznej';
+$_['entry_email']               = 'Adres e-mail';
 $_['entry_telephone']           = 'Numer telefonu';
 $_['entry_newsletter']          = 'Biuletyn';
 $_['entry_status']              = 'Status';
@@ -93,10 +97,10 @@ $_['help_points']               = 'Użyj znaku minus aby odejmować punkty';
 // Error
 $_['error_warning']             = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']          = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania klientów!';
-$_['error_exists']              = 'Ostrzeżenie: Adres poczty elektronicznej jest już zarejestrowany!';
+$_['error_exists']              = 'Ostrzeżenie: Adres e-mail jest już zarejestrowany!';
 $_['error_firstname']           = 'Imię musi zawierać od 1 do 32 znaków!';
 $_['error_lastname']            = 'Nazwisko musi zawierać od 1 do 32 znaków!';
-$_['error_email']               = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
+$_['error_email']               = 'Adres e-mail wygląda na nieprawidłowy!';
 $_['error_telephone']           = 'Numer telefonu musi zawierać od 3 do 32 znaków!';
 $_['error_password']            = 'Hasło musi zawierać od 4 do 20 znaków!';
 $_['error_confirm']             = 'Hasła różnią się od siebie!';
@@ -109,6 +113,6 @@ $_['error_custom_field']        = '%s jest wymagane!';
 $_['error_tracking']            = 'Kod śledzenia jest wymagany!';
 $_['error_tracking_exists']     = 'Kod śledzenia został użyty w innej kampanii!';
 $_['error_cheque']              = 'Nazwa odbiorcy płatności na czeku jest wymagana!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
+$_['error_paypal']              = 'Adres e-mail PayPal wygląda na nieprawidłowy!';
 $_['error_bank_account_name']   = 'Identyfikator konta jest wymagany!';
 $_['error_bank_account_number'] = 'Numer konta jest wymagany!';

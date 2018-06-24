@@ -8,12 +8,19 @@ $_['text_list']         = 'Lista śledzeń kampanii';
 $_['text_add']          = 'Dodaj śledzenie kampanii';
 $_['text_edit']         = 'Edytuj śledzenie kampanii';
 $_['text_filter']       = 'Filtruj';
-		
+$_['text_history']      = 'Historia';
+$_['text_history_add']  = 'Dodaj historię';
+$_['text_report']       = 'Raport';
+
 // Column
 $_['column_name']       = 'Nazwa kampanii';
 $_['column_code']       = 'Kod';
 $_['column_clicks']     = 'Kliknięć';
 $_['column_orders']     = 'Zamówienia';
+$_['column_ip']         = 'Adres IP';
+$_['column_account']    = 'Konta';
+$_['column_store']      = 'Sklep';
+$_['column_country']    = 'Kraj';
 $_['column_date_added'] = 'Data dodania';
 $_['column_action']     = 'Akcje';
 

@@ -1,10 +1,10 @@
 <?php
 // Text
 $_['text_title']          = 'Zamówienie PayPal Express';
-$_['text_canceled']       = 'Success: You have succesfully caneled this payment!';
+$_['text_canceled']       = 'Sukces: Pomyślnie anulowano płatność!';
 
 // Button
-$_['button_cancel']       = 'Cancel Recurring Payment';
+$_['button_cancel']       = 'Anuluj subskrypcję';
 
 // Error
 $_['error_not_cancelled'] = 'Błąd: %s';

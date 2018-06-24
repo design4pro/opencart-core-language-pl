@@ -4,8 +4,8 @@ $_['heading_title']     = 'Raporty podatków';
 
 // Text
 $_['text_extension']    = 'Rozszerzenia';
-$_['text_edit']         = 'Edit Tax Report';
-$_['text_success']      = 'Success: You have modified tax report!';
+$_['text_edit']         = 'Edytuj raport podatków';
+$_['text_success']      = 'Sukces: Zmodyfikowano raport podatków!';
 $_['text_filter']       = 'Filtruj';
 $_['text_year']         = 'Lata';
 $_['text_month']        = 'Miesiące';
@@ -29,4 +29,4 @@ $_['entry_status']      = 'Status zamówienia';
 $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify tax report!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu podatkowego!';

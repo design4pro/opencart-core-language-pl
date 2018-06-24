@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Nawigacja';
 
 // Text
-$_['text_success']     = 'Sukces: Zmodyfikowano menu!';
+$_['text_success']     = 'Sukces: Zmodyfikowano nawigację!';
 $_['text_list']        = 'Lista nawigacji';
 
 // Column
@@ -12,4 +12,4 @@ $_['column_status']    = 'Status';
 $_['column_action']    = 'Akcje';
 
 // Error
-$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania menu!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania nawigacji!';

@@ -9,6 +9,7 @@ $_['text_keyword']      = 'Słowa kluczowe';
 $_['text_category']     = 'Wszystkie kategorie';
 $_['text_sub_category'] = 'Szukaj w podkategoriach';
 $_['text_empty']        = 'Nie znaleziono produktów spelniających kryteria wyszukiwania.';
+$_['text_no_results']   = 'Nie znaleziono produktów spelniających kryteria wyszukiwania.';
 $_['text_quantity']     = 'Ilość:';
 $_['text_manufacturer'] = 'Producent:';
 $_['text_model']        = 'Kod produktu:';
@@ -17,7 +18,7 @@ $_['text_price']        = 'Cena:';
 $_['text_tax']          = 'Cena netto:';
 $_['text_reviews']      = 'Na podstawie %s opinii.';
 $_['text_compare']      = 'Porównaj produkty (%s)';
-$_['text_sort']         = 'Sortuj według:';
+$_['text_sort']         = 'Sortuj według';
 $_['text_default']      = 'Domyślne';
 $_['text_name_asc']     = 'Nazwa (A - Z)';
 $_['text_name_desc']    = 'Nazwa (Z - A)';
@@ -27,7 +28,7 @@ $_['text_rating_asc']   = 'Ocena (Najniższa)';
 $_['text_rating_desc']  = 'Ocena (Najwyższa)';
 $_['text_model_asc']    = 'Model (A - Z)';
 $_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Pokaż:';
+$_['text_limit']        = 'Pokaż';
 
 // Entry
 $_['entry_search']      = 'Kryteria wyszukiwania';

@@ -5,8 +5,8 @@ $_['heading_title']     = 'Zdarzenia';
 // Text
 $_['text_success']      = 'Sukces: Zmodyfikowano zdarzenie!';
 $_['text_list']         = 'Lista zdarzeń';
-$_['text_event']        = 'Events are used by extensions to override the default functionality of your store. If you have issues you can disable or enable the events here.';
-$_['text_info']         = 'Event Information';
+$_['text_event']        = 'Zdarzenia są używane przez rozszerzenia do nadpisywania domyślnej funkcjonalności Twojego sklepu. Jeśli masz problemy, możesz wyłączyć lub włączyć zdarzenia tutaj.';
+$_['text_info']         = 'Informacje o zdarzeniu';
 $_['text_trigger']      = 'Wyzwalacz';
 $_['text_action']       = 'Akcje';
 

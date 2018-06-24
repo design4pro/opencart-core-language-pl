@@ -4,8 +4,8 @@ $_['heading_title']     = 'Raporty reklamacji';
 
 // Text
 $_['text_extension']    = 'Rozszerzenia';
-$_['text_edit']         = 'Edit Returns Report';
-$_['text_success']      = 'Success: You have modified returns report!';
+$_['text_edit']         = 'Edytuj raport reklamacji';
+$_['text_success']      = 'Sukces: Zmodyfikowano raport reklamacji!';
 $_['text_filter']       = 'Filtruj';
 $_['text_year']         = 'Lata';
 $_['text_month']        = 'Miesiące';
@@ -27,4 +27,4 @@ $_['entry_status']      = 'Status reklamacji';
 $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify returns report!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu reklamacji!';

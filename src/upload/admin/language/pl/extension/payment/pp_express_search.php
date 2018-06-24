@@ -14,7 +14,7 @@ $_['text_format']			   = 'Format';
 // Column
 $_['column_date']			   = 'Data';
 $_['column_type']			   = 'Typ';
-$_['column_email']			   = 'Adres poczty elektronicznej';
+$_['column_email']			   = 'Adres e-mail';
 $_['column_name']			   = 'Nazwa';
 $_['column_transid']		   = 'Identyfikator transakcji';
 $_['column_status']			   = 'Status';
@@ -51,7 +51,7 @@ $_['entry_date_to']			   = 'do';
 $_['entry_transaction']		   = 'Transakcja';
 $_['entry_transaction_type']   = 'Typ';
 $_['entry_transaction_status'] = 'Status';
-$_['entry_email']			   = 'Adres poczty elektronicznej';
+$_['entry_email']			   = 'Adres e-mail';
 $_['entry_email_buyer']		   = 'Kupujący';
 $_['entry_email_merchant']	   = 'Odbiorca';
 $_['entry_receipt']			   = 'Numer paragonu';

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] 			 = 'Bulk Linking';
+$_['heading_title'] 			 = 'Zbiorcze łącza';
 $_['text_openbay'] 				 = 'OpenBay Pro';
 $_['text_amazon'] 				 = 'Amazon US';
 
@@ -17,7 +17,7 @@ $_['text_loading'] 				 = 'Ładowanie produktów';
 
 // Column
 $_['column_asin'] 				 = 'ASIN';
-$_['column_price'] 				 = 'Cena jednostkowa';
+$_['column_price'] 				 = 'Cena';
 $_['column_name'] 				 = 'Nazwa';
 $_['column_sku'] 				 = 'SKU';
 $_['column_quantity'] 			 = 'Ilość';

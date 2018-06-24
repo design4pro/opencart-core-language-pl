@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']             = 'Your Affiliate Information';
+$_['heading_title']             = 'Twoje dane programu partnerskiego';
 
 // Text
 $_['text_account']              = 'Konto';
@@ -29,7 +29,7 @@ $_['entry_bank_account_number'] = 'Numer konta';
 // Error
 $_['error_agree']               = 'Ostrzeżenie: Musisz zgodzić się z %s!';
 $_['error_cheque']              = 'Nazwa odbiorcy płatności na czeku jest wymagana!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!';
+$_['error_paypal']              = 'Adres e-mail PayPal wygląda na nieprawidłowy!';
 $_['error_bank_account_name']   = 'Identyfikator konta jest wymagany!';
 $_['error_bank_account_number'] = 'Numer konta jest wymagany!';
 $_['error_custom_field']        = '%s jest wymagane!';

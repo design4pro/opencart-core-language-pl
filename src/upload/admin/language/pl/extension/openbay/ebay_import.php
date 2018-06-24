@@ -34,4 +34,4 @@ $_['help_import_description']    = 'This will import everything including HTML, 
 $_['error_import']               = 'Failed to load';
 $_['error_maintenance']			 = 'Your store is in maintenance mode. Importing will fail!';
 $_['error_ajax_load']			 = 'Nie można połączyć się z serwerem';
-$_['error_validation']			 = 'You need to register for your API token and enable the module.';
+$_['error_validation']			 = 'Musisz zarejestrować token API i włączyć moduł.';

@@ -6,7 +6,7 @@ $_['heading_title']		 = 'PayPoint';
 $_['text_extension']	 = 'Rozszerzenia';
 $_['text_success']		 = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']          = 'Edytuj płatnośćEdytuj płatność';
-$_['text_paypoint']		 = '<a onclick="window.open(\'https://www.paypoint.net/partners/opencart\');"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_paypoint']		 = '<a href="https://www.paypoint.net/partners/opencart" target="_blank"><img src="view/image/payment/paypoint.png" alt="PayPoint" title="PayPoint" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_live']			 = 'Produkcyjny';
 $_['text_successful']	 = 'Zawsze poprawna';
 $_['text_fail']			 = 'Zawsze błędna';

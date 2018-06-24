@@ -26,7 +26,7 @@ $_['entry_status']         = 'Status';
 $_['entry_ip']             = 'Adres IP';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modified APIs!';
-$_['error_username']       = 'API USername must be between 3 and 20 characters!';
+$_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania ustawień API!';
+$_['error_username']       = 'Nazwa użytkownika API musi zawierać od 3 do 20 znaków!';
 $_['error_key']            = 'Klucz API musi zawierać od 64 do 256 znaków!';
-$_['error_ip']             = 'You must have atleast one IP added to the allowed list!';
+$_['error_ip']             = 'Musisz mieć co najmniej jeden adres IP dodany do dozwolonej listy!';

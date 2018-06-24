@@ -4,8 +4,8 @@ $_['heading_title']    = 'Raporty kuponów';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
-$_['text_edit']        = 'Edit Coupons Report';
-$_['text_success']     = 'Success: You have modified coupon report!';
+$_['text_edit']        = 'Edytuj raport kuponów';
+$_['text_success']     = 'Sukces: Zmodyfikowano raport kuponów!';
 $_['text_filter']      = 'Filtruj';
 
 // Column
@@ -22,4 +22,4 @@ $_['entry_status']     = 'Status';
 $_['entry_sort_order'] = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify coupon report!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu kuponów!';

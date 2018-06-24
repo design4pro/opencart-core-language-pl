@@ -9,7 +9,7 @@ $_['text_edit']               = 'Edytuj Skrill';
 $_['text_skrill']	     	  = '<a href="https://content.skrill.com/en/ecommerce-solutions/opencart/" target="_blank"><img src="view/image/payment/skrill.png" alt="Skrill" title="Skrill" style="border: 1px solid #EEEEEE;" /></a>';
 
 // Entry
-$_['entry_email']			  = 'Adres poczty elektronicznej';
+$_['entry_email']			  = 'Adres e-mail';
 $_['entry_secret']		      = 'Sekretny klucz';
 $_['entry_total']			  = 'Do zapłaty';
 $_['entry_order_status']	  = 'Status zamówienia';
@@ -26,4 +26,4 @@ $_['help_total']			  = 'Wartość zamówienia jaka musi zostać osiągnięta aby
 
 // Error
 $_['error_permission']		  = 'Warning: You do not have permission to modify Skrill!';
-$_['error_email']			  = 'Adres poczty elektronicznej jest wymagany!';
+$_['error_email']			  = 'Adres e-mail jest wymagany!';

@@ -7,10 +7,11 @@ $_['text_account']       = 'Konto';
 $_['text_address_book']  = 'Wpisy w książce adresowej';
 $_['text_address_add']   = 'Dodaj adres';
 $_['text_address_edit']  = 'Edytuj adres';
-$_['text_add']           = 'Your address has been successfully added';
+$_['text_add']           = 'Twój adres został pomyślnie dodany';
 $_['text_edit']          = 'Twój adres został pomyślnie uaktualniony';
 $_['text_delete']        = 'Twój adres został pomyślnie usunięty';
 $_['text_empty']         = 'Nie masz żadnych adresów w koncie.';
+$_['text_no_results']    = 'Nie masz żadnych adresów w koncie.';
 
 // Entry
 $_['entry_firstname']    = 'Imię';

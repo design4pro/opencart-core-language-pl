@@ -17,7 +17,7 @@ $_['text_failed']    			= 'Failed';
 $_['text_orders_imported']    	= 'Order pull has been requested';
 $_['text_api_status']           = 'Połączenie API';
 $_['text_edit']           		= 'Edit Etsy settings';
-$_['text_register_banner']      = 'Click here if you need to register for an account';
+$_['text_register_banner']      = 'Kliknij tutaj, jeśli chcesz zarejestrować konto';
 
 // Entry
 $_['entry_import_def_id']       = 'Import default status (unpaid):';
@@ -26,8 +26,8 @@ $_['entry_import_shipped_id']   = 'Status zamówienia dostarczonego:';
 $_['entry_encryption_key']      = 'Klucz szyfrujący 1';
 $_['entry_encryption_iv']       = 'Klucz szyfrujący 2';
 $_['entry_token']            	= 'Token API';
-$_['entry_address_format']      = 'Default address format';
-$_['entry_debug']				= 'Enable logging';
+$_['entry_address_format']      = 'Domyślny format adresu';
+$_['entry_debug']				= 'Włącz zapisywanie zdarzeń';
 
 // Error
 $_['error_api_connect']         = 'Nie udało się połączyć z API';

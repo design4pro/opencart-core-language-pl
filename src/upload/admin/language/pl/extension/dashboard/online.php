@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Osób on-line';
+$_['heading_title']    = 'Osoby Online';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';

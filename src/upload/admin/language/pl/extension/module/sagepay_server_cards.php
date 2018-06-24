@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Sagepay Server Card Management';
+$_['heading_title']    = 'Zarządzanie kartami Sagepay Server';
 
 $_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Success: You have modified Sagepay Server Card Management module!';

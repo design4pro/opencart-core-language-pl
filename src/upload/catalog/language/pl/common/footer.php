@@ -15,3 +15,11 @@ $_['text_order']        = 'Historia zamówień';
 $_['text_wishlist']     = 'Lista życzeń';
 $_['text_newsletter']   = 'Biuletyn';
 $_['text_powered']      = '<a href="http://www.opencart.com">OpenCart</a> %s &copy; %s. Wszelkie prawa zastrzeżone.';
+
+$_['text_contact']      = 'Kontakt';
+$_['text_address']      = 'Adres';
+$_['text_open']         = 'Godziny otwarcia';
+$_['text_telephone']    = 'Numer telefonu';
+$_['text_fax']          = 'Faks';
+$_['text_email']        = 'Adres e-mail';
+$_['button_email']      = 'Skontaktuj się z nami poprzez e-mal';

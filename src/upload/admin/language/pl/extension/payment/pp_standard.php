@@ -6,12 +6,12 @@ $_['heading_title']					 = 'Standardowa płatność PayPal';
 $_['text_extension']				 = 'Rozszerzenia';
 $_['text_success']					 = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']                      = 'Edytuj płatność';
-$_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Payments Standard" title="PayPal Payments Standard" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Autoryzacja';
-$_['text_sale']						 = 'Sprzedaż'; 
+$_['text_sale']						 = 'Sprzedaż';
 
 // Entry
-$_['entry_email']					 = 'Adres poczty elektronicznej';
+$_['entry_email']					 = 'Adres e-mail';
 $_['entry_test']					 = 'Tryb testowy';
 $_['entry_transaction']				 = 'Metoda transakcji';
 $_['entry_debug']					 = 'Tryb debugowania';
@@ -41,4 +41,4 @@ $_['help_total']					 = 'Wartość zamówienia jaka musi zostać osiągnięta ab
 
 // Error
 $_['error_permission']				 = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania ustawień modułu!';
-$_['error_email']					 = 'Adres poczty elektronicznej jest wymagany!';
+$_['error_email']					 = 'Adres e-mail jest wymagany!';

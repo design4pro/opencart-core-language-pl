@@ -14,3 +14,4 @@ $_['text_logout']        = 'Wyloguj się';
 $_['text_checkout']      = 'Zamówienie';
 $_['text_search']        = 'Szukaj';
 $_['text_all']           = 'Pokaż wszystkie';
+$_['text_setting']       = 'Ustawienia sklepu';

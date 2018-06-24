@@ -29,6 +29,7 @@ $_['entry_module']        = 'Moduł';
 // Error
 $_['error_permission']    = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania układów!';
 $_['error_name']          = 'Nazwa układu musi zawierać od 3 do 64 znaków!';
+$_['error_module']        = 'Moduł jest wymagany!';
 $_['error_default']       = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie używany jako domyślny dla sklepu!';
 $_['error_store']         = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s sklepów!';
 $_['error_product']       = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s produktów!';

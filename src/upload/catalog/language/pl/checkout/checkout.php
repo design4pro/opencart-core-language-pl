@@ -31,9 +31,9 @@ $_['text_payment_method']            = 'Proszę wybrać preferowany sposób pła
 $_['text_comments']                  = 'Dodaj komentarz do zamówienia';
 $_['text_recurring_item']            = 'Subskrypcja';
 $_['text_payment_recurring']         = 'Subskrypcja';
-$_['text_trial_description']         = '%s every %d %s(s) for %d payment(s) then';
-$_['text_payment_description']       = '%s every %d %s(s) for %d payment(s)';
-$_['text_payment_cancel']            = '%s co %d %s aż do odwołania';
+$_['text_trial_description']         = '%s co %d%s dla %d płatności następnie ';
+$_['text_payment_description']       = '%s co %d %s dla %d płatności';
+$_['text_payment_cancel']            = '%s co %d %s do momentu alulowania';
 $_['text_day']                       = 'dzień';
 $_['text_week']                      = 'tydzień';
 $_['text_semi_month']                = 'pół miesiąca';
@@ -48,8 +48,8 @@ $_['column_price']                   = 'Cena jednostkowa';
 $_['column_total']                   = 'Do zapłaty';
 
 // Entry
-$_['entry_email_address']            = 'Adres poczty elektronicznej';
-$_['entry_email']                    = 'Adres poczty elektronicznej';
+$_['entry_email_address']            = 'Adres e-mail';
+$_['entry_email']                    = 'Adres e-mail';
 $_['entry_password']                 = 'Hasło';
 $_['entry_confirm']                  = 'Wprowadź ponownie hasło';
 $_['entry_firstname']                = 'Imię';
@@ -69,13 +69,13 @@ $_['entry_shipping']                 = 'Mój adres dostawy i adres płatności s
 
 // Error
 $_['error_warning']                  = 'Wystąpił problem podczas próby realizacji zamówienia! Jeśli problem się powtarza spróbuj wybrać inny sposób płatności lub skontaktować się z właścicielem sklepu przez <a href="%s">formularz kontaktowy</a>.';
-$_['error_login']                    = 'Ostrzeżenie: Nie poprawny adres poczty elektronicznej i/lub hasło!';
+$_['error_login']                    = 'Ostrzeżenie: Nie poprawny adres e-mail i/lub hasło!';
 $_['error_attempts']                 = 'Ostrzeżenie: Twoje konto przekroczyło dopuszczalną liczbę prób logowania. Proszę spróbować ponownie za godzinę.';
 $_['error_approved']                 = 'Ostrzeżenie: Twoje konto wymaga zatwierdzenie zanim będziesz mógł się zalogować. ';
-$_['error_exists']                   = 'Ostrzeżenie: Adres poczty elektronicznej jest już zarejestrowany!';
+$_['error_exists']                   = 'Ostrzeżenie: Adres e-mail jest już zarejestrowany!';
 $_['error_firstname']                = 'Imię musi zawierać od 1 do 32 znaków!';
 $_['error_lastname']                 = 'Nazwisko musi zawierać od 1 do 32 znaków!';
-$_['error_email']                    = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
+$_['error_email']                    = 'Adres e-mail wygląda na nieprawidłowy!';
 $_['error_telephone']                = 'Numer telefonu musi zawierać od 3 do 32 znaków!';
 $_['error_password']                 = 'Hasło musi zawierać od 4 do 20 znaków!';
 $_['error_confirm']                  = 'Hasła różnią się od siebie!';

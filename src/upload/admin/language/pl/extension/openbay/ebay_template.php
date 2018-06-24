@@ -22,6 +22,6 @@ $_['text_add']      	  = 'Dodaj profil';
 $_['text_edit']      	  = 'Edit profile';
 
 // Error
-$_['error_name']          = 'You must enter a template name';
+$_['error_name']          = 'Musisz podać nazwę szablonu';
 $_['error_permission']    = 'You do not have permission to edit templates';
-$_['error_no_template']   = 'Template ID does not exist';
+$_['error_no_template']   = 'Identyfikator szablonu nie istnieje';

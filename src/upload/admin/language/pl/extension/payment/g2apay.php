@@ -30,7 +30,7 @@ $_['entry_total']				 	  = 'Do zapłaty';
 $_['entry_geo_zone']			 	  = 'Strefa geograficzna';
 $_['entry_status']				 	  = 'Status';
 $_['entry_sort_order']			 	  = 'Kolejność sortowania';
-$_['entry_debug']				 	  = 'Debug logging';
+$_['entry_debug']				 	  = 'Rejestruj zdarzenia';
 $_['entry_order_status']			  = 'Status zamówienia';
 $_['entry_complete_status']			  = 'Status zamówienia z płatnością zakończoną:';
 $_['entry_rejected_status']			  = 'Status zamówienia z płatnością zwróconą:';
@@ -40,9 +40,9 @@ $_['entry_refunded_status']			  = 'Status zamówienia z płatnością zwróconą
 $_['entry_partially_refunded_status'] = 'Status zamówienia z płatnością zrefundowaną:';
 
 // Help
-$_['help_username']					  = 'Adres poczty elektronicznej użyty dla twojego konta';
+$_['help_username']					  = 'Adres e-mail użyty dla twojego konta';
 $_['help_total']				 	  = 'Wartość zamówienia jaka musi zostać osiągnięta aby płatność była możliwa.';
-$_['help_debug']				 	  = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
+$_['help_debug']				 	  = 'Włączenie debugowania spowoduje zapisanie poufnych danych w pliku dziennika. Zawsze należy wyłączać, chyba że podano inaczej';
 
 // Tab
 $_['tab_settings']				 	  = 'Ustawienia';
@@ -50,7 +50,7 @@ $_['tab_order_status']				  = 'Status zamówienia';
 
 // Error
 $_['error_permission']			 	  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania usługi G2APay!';
-$_['error_email']				 	  = 'Adres poczty elektronicznej jest wymagany!';
+$_['error_email']				 	  = 'Adres e-mail jest wymagany!';
 $_['error_secret']				 	  = 'Sekretny klucz jest wymagany!';
 $_['error_api_hash']			 	  = 'API Hash Required!';
 $_['entry_status']				 	  = 'Status';

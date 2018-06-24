@@ -18,7 +18,7 @@ $_['text_name']                 = 'Nazwa';
 $_['text_model']                = 'Model';
 $_['text_combination']          = 'Variant Combination';
 $_['text_sku']                  = 'SKU Produktu';
-$_['text_sku_variant']          = 'Variant SKU';
+$_['text_sku_variant']          = 'Wariant SKU';
 
 // Button
 $_['button_load']               = 'Wczytaj';

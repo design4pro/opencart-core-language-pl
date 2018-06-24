@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Mail';
+$_['heading_title']        = 'Poczta';
 
 // Text
 $_['text_success']         = 'Twoja wiadomość została wysłana!';
-$_['text_sent']            = 'Twoja wiadomość została wysłana do %s z %s odbiorców!';
+$_['text_sent']            = 'Twoja wiadomość została wysłana do %s - %s odbiorców!';
 $_['text_list']            = 'Lista';
 $_['text_default']         = 'Domyślne';
 $_['text_newsletter']      = 'Wszyscy zapisani do biuletynu';

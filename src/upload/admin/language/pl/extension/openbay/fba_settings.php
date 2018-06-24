@@ -2,63 +2,63 @@
 // Headings
 $_['heading_title']        	   = 'Ustawienia';
 $_['text_openbay']             = 'OpenBay Pro';
-$_['text_fba']                 = 'Fulfillment by Amazon';
+$_['text_fba']                 = 'Realizowane przez Amazon';
 
 // Text
 $_['text_success']     		   = 'Twoje ustawienia zostały zapisane';
 $_['text_status']         	   = 'Status';
-$_['text_account_ok']  		   = 'Connection to Fulfillment by Amazon OK';
+$_['text_account_ok']  		   = 'Połączenie z usługą Fulfillment by Amazon';
 $_['text_api_ok']       	   = 'Połączenie API Prawidłowe';
 $_['text_api_status']          = 'Połączenie API';
-$_['text_edit']           	   = 'Edit Fulfillment by Amazon settings';
+$_['text_edit']           	   = 'Edytuj ustawienia usługi Fulfillment by Amazon';
 $_['text_standard']            = 'Standardowa';
-$_['text_expedited']           = 'Expedited';
+$_['text_expedited']           = 'Przyspieszona';
 $_['text_priority']            = 'Priorytet';
 $_['text_fillorkill']          = 'Fill or Kill';
-$_['text_fillall']             = 'Fill All';
+$_['text_fillall']             = 'Wypełnij wszystko';
 $_['text_fillallavailable']    = 'Fill All Available';
-$_['text_prefix_warning']      = 'Do not change this setting after orders have been sent to Amazon, only set this when you first install.';
-$_['text_disabled_cancel']     = 'Disabled - do not automatically cancel fulfillments';
+$_['text_prefix_warning']      = 'Nie zmieniaj tego ustawienia po wysłaniu zamówień do Amazon, ustawiaj to tylko podczas pierwszej instalacji.';
+$_['text_disabled_cancel']     = 'Wyłączone - nie anuluje automatycznie spełnień';
 $_['text_validate_success']    = 'Your API details are working correctly! You must press save to ensure settings are saved.';
-$_['text_register_banner']     = 'Click here if you need to register for an account';
+$_['text_register_banner']     = 'Kliknij tutaj, jeśli chcesz zarejestrować konto';
 
 // Entry
 $_['entry_api_key']            = 'Token API';
 $_['entry_encryption_key']     = 'Klucz szyfrujący 1';
 $_['entry_encryption_iv']      = 'Klucz szyfrujący 2';
-$_['entry_account_id']         = 'Account ID';
-$_['entry_send_orders']        = 'Send orders automatically';
-$_['entry_fulfill_policy']     = 'Fulfillment policy';
-$_['entry_shipping_speed']     = 'Default shipping speed';
-$_['entry_debug_log']          = 'Enable debug logging';
-$_['entry_new_order_status']   = 'New fulfillment trigger';
-$_['entry_order_id_prefix']    = 'Order ID Prefix';
-$_['entry_only_fill_complete'] = 'All items must be FBA';
+$_['entry_account_id']         = 'Identyfikator konta';
+$_['entry_send_orders']        = 'Wyślij zamówienia automatycznie';
+$_['entry_fulfill_policy']     = 'Polityka spełnień';
+$_['entry_shipping_speed']     = 'Domyślna prędkość dostawy';
+$_['entry_debug_log']          = 'Włącz zapisyanie zdarzeń';
+$_['entry_new_order_status']   = 'Nowy wyzwalacz spełnienia';
+$_['entry_order_id_prefix']    = 'Prefiks numeru zamówienia';
+$_['entry_only_fill_complete'] = 'Wszystkie elementy muszą być FBA';
 
 // Help
-$_['help_api_key']             = 'This is your API token, obtain this from your OpenBay Pro account area';
-$_['help_encryption_key']      = 'This is your Encryption key #1, obtain this from your OpenBay Pro account area';
-$_['help_encryption_iv']       = 'This is your Encryption key #2, obtain this from your OpenBay Pro account area';
-$_['help_account_id']          = 'This is the account ID that matches the registered Amazon account for OpenBay Pro, obtain this from your OpenBay Pro account area';
-$_['help_send_orders']  	   = 'Orders containing matching Fulfillment by Amazon products will be send to Amazon automatically';
+$_['help_api_key']             = 'To jest Twój token API, uzyskaj go z obszaru konta OpenBay Pro';
+$_['help_encryption_key']      = 'To jest Twój klucz szyfrujący numer 1, uzyskaj go z obszaru konta OpenBay Pro';
+$_['help_encryption_iv']       = 'To jest Twój klucz szyfrujący numer 2, uzyskaj go z obszaru konta OpenBay Pro';
+$_['help_account_id']          = 'To jest identyfikator konta, który pasuje do zarejestrowanego konta Amazon dla OpenBay Pro, uzyskaj to z obszaru konta OpenBay Pro';
+$_['help_send_orders']  	   = 'Zamówienia zawierające pasujące produkty Fulfillment by Amazon będą automatycznie wysyłane do Amazon';
 $_['help_fulfill_policy']  	   = 'The default fulfillment policy (FillAll - All fulfillable items in the fulfillment order are shipped. The fulfillment order remains in a processing state until all items are either shipped by Amazon or cancelled by the seller. FillAllAvailable - All fulfillable items in the fulfillment order are shipped. All unfulfillable items in the order are cancelled by Amazon.FillOrKill - If an item in a fulfillment order is determined to be unfulfillable before any shipment in the order moves to the Pending status (the process of picking units from inventory has begun), then the entire order is considered unfulfillable. However, if an item in a fulfillment order is determined to be unfulfillable after a shipment in the order moves to the Pending status, Amazon cancels as much of the fulfillment order as possible.)';
-$_['help_shipping_speed']  	   = 'This is the default shipping speed category to apply to new orders, different service levels may incurr different costs';
-$_['help_debug_log']  		   = 'Debug logs will record information to a log file about actions the module does. This should be left enabled to help find the cause of any problems.';
-$_['help_new_order_status']    = 'This is the order status which will trigger the order to be created for fulfillment. Ensure that this is using a status only after you have received payment.';
-$_['help_order_id_prefix']     = 'Having an order prefix will help identify orders that have come from your store not from other integrations. This is very helpful when merchants sell on many marketplaces and use FBA';
-$_['help_only_fill_complete']  = 'This will only allow orders to be sent for fulfillment if ALL items in the order are matched to a Fulfillment by Amazon item. If any item is not then the whole order will remain unfilled.';
+$_['help_shipping_speed']  	   = 'Jest to domyślna prędkości dostawy, która ma zastosowanie do nowych zamówień, a różne poziomy usług mogą powodować różne koszty';
+$_['help_debug_log']  		   = 'Dzienniki zdarzeń będą rejestrować informacje w pliku dziennika dotyczące czynności wykonywanych przez moduł. To powinno być włączone, aby pomóc znaleźć przyczynę jakichkolwiek problemów.';
+$_['help_new_order_status']    = 'To jest status zamówienia, który spowoduje, że zamówienie zostanie utworzone do realizacji. Upewnij się, że status zostanie użyty tylko po otrzymaniu płatności.';
+$_['help_order_id_prefix']     = 'Posiadanie prefiksu zamówienia pomoże zidentyfikować zamówienia, które pochodzą z Twojego sklepu, a nie z innych integracji. Jest to bardzo pomocne, gdy sprzedawcy sprzedają na wielu rynkach i używają FBA';
+$_['help_only_fill_complete']  = 'Umożliwi to wysyłanie zamówień do realizacji tylko wtedy, gdy WSZYSTKIE pozycje w zamówieniu zostaną dopasowane do elementu Fulfillment by Amazon. Jeśli jakikolwiek element nie jest dopasowany, całe zamówienie pozostanie niewypełnione.';
 
 // Error
 $_['error_api_connect']        = 'Nie udało się połączyć z API';
-$_['error_account_info']       = 'Unable to verify API connection to Fulfillment by Amazon ';
-$_['error_api_key']    		   = 'The API token is invalid';
-$_['error_api_account_id']     = 'The Account ID is invalid';
-$_['error_encryption_key']     = 'The Encryption key #1 is invalid';
-$_['error_encryption_iv']      = 'The Encryption key #2 is invalid';
-$_['error_validation']    	   = 'There was an error validating your details';
+$_['error_account_info']       = 'Nie można zweryfikować połączenia API z usługą Fulfillment by Amazon';
+$_['error_api_key']    		   = 'Token interfejsu API jest nieprawidłowy';
+$_['error_api_account_id']     = 'Identyfikator konta jest nieprawidłowy';
+$_['error_encryption_key']     = 'Klucz szyfrujący numer 1 jest nieprawidłowy';
+$_['error_encryption_iv']      = 'Klucz szyfrujący numer 2 jest nieprawidłowy';
+$_['error_validation']    	   = 'Wystąpił błąd podczas sprawdzania poprawności Twoich danych';
 
 // Tabs
 $_['tab_api_info']             = 'Szczegóły API';
 
 // Buttons
-$_['button_verify']            = 'Verify details';
+$_['button_verify']            = 'Weryfikuj dane';

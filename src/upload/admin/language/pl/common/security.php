@@ -4,15 +4,23 @@ $_['heading_title']    = 'Ważne powiadomienie bezpieczeństwa!';
 
 // Text
 $_['text_success']     = 'Sukces: Zmodyfikowałeś folder pamięci!';
-$_['text_admin']       = 'Edytuj admin/config.php i zmień';
-$_['text_security']    = 'To bardzo ważne aby przenieść folder przechowywania poza główny folder strony (np. public_html, www lub htdocs)';
+$_['text_security']    = 'To bardzo ważne aby przenieść folder przechowywania poza główny folder strony (np. public_html, www lub htdocs).';
 $_['text_choose']      = 'Wybierz jak przenieść folder przechowywania';
 $_['text_automatic']   = 'Przenieś automatycznie';
 $_['text_manual']      = 'Przenieś ręcznie';
 $_['text_move']        = 'Przenieś';
 $_['text_to']          = 'do';
-$_['text_config']      = 'Edytuj zmiany config.php';
-$_['text_admin']       = 'Edytuj admin/config.php i zmień';
+if ('3.0.2.1' > VERSION) {
+    $_['text_admin']       = 'W pliku admin/config.php zamień linię';
+    $_['text_config']      = 'W pliku config.php zamień linię';
+} else {
+    $_['text_config']      = 'W pliku config.php zamień linię';
+    $_['text_admin']       = 'W pliku admin/config.php zamień linię';
+}
+$_['text_by']          = 'na';
+
+// Entry
+$_['entry_directory']  = 'Katalog';
 
 // Button
 $_['button_move']      = 'Przenieś';

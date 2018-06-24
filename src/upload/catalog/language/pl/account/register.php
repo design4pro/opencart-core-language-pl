@@ -15,17 +15,17 @@ $_['text_agree']           = 'Oświadczam, że zapoznałem(am) się z <a href="%
 $_['entry_customer_group'] = 'Grupy klientów';
 $_['entry_firstname']      = 'Imię';
 $_['entry_lastname']       = 'Nazwisko';
-$_['entry_email']          = 'Adres poczty elektronicznej';
+$_['entry_email']          = 'Adres e-mail';
 $_['entry_telephone']      = 'Numer telefonu';
 $_['entry_newsletter']     = 'Prenumerata';
 $_['entry_password']       = 'Hasło';
 $_['entry_confirm']        = 'Wprowadź ponownie hasło';
 
 // Error
-$_['error_exists']         = 'Ostrzeżenie: Adres poczty elektronicznej jest już zarejestrowany!';
+$_['error_exists']         = 'Ostrzeżenie: Adres e-mail jest już zarejestrowany!';
 $_['error_firstname']      = 'Imię musi zawierać od 1 do 32 znaków!';
 $_['error_lastname']       = 'Nazwisko musi zawierać od 1 do 32 znaków!';
-$_['error_email']          = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
+$_['error_email']          = 'Adres e-mail wygląda na nieprawidłowy!';
 $_['error_telephone']      = 'Numer telefonu musi zawierać od 3 do 32 znaków!';
 $_['error_custom_field']   = '%s jest wymagane!';
 $_['error_password']       = 'Hasło musi zawierać od 4 do 20 znaków!';

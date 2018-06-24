@@ -1,6 +1,6 @@
 <?php
-$_['text_checkout_title']      = 'Pay in instalments';
-$_['text_choose_plan']         = 'Wybierz swój plan';
+$_['text_checkout_title']      = 'Zapłać w ratach';
+$_['text_choose_plan']         = 'Wybierz swój harmonogram';
 $_['text_choose_deposit']      = 'Choose your deposit';
 $_['text_monthly_payments']    = 'monthly payments of';
 $_['text_months']              = 'miesiące';

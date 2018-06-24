@@ -21,7 +21,7 @@ $_['entry_password']        = 'Hasło';
 $_['entry_confirm']         = 'Potwierdź hasło';
 $_['entry_firstname']       = 'Imię';
 $_['entry_lastname']        = 'Nazwisko';
-$_['entry_email']           = 'Adres poczty elektronicznej';
+$_['entry_email']           = 'Adres e-mail';
 $_['entry_image']           = 'Obrazek';
 $_['entry_status']          = 'Status';
 
@@ -34,5 +34,5 @@ $_['error_password']        = 'Hasło musi zawierać od 4 do 20 znaków!';
 $_['error_confirm']         = 'Hasła różnią się od siebie!';
 $_['error_firstname']       = 'Imię musi zawierać od 1 do 32 znaków!';
 $_['error_lastname']        = 'Nazwisko musi zawierać od 1 do 32 znaków!';
-$_['error_email']           = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
-$_['error_exists_email']    = 'Ostrzeżenie: Adres poczty elektronicznej jest już zarejestrowany!';
+$_['error_email']           = 'Adres e-mail wygląda na nieprawidłowy!';
+$_['error_exists_email']    = 'Ostrzeżenie: Adres e-mail jest już zarejestrowany!';

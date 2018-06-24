@@ -14,4 +14,4 @@ $_['entry_confirm']  = 'Potwierdź hasło';
 // Error
 $_['error_password'] = 'Hasło musi zawierać od 4 do 20 znaków!';
 $_['error_confirm']  = 'Hasła różnią się od siebie!';
-$_['error_code']     = 'Password reset code is invalid or was used previously!';
+$_['error_code']     = 'Kod resetowania hasła jest nieprawidłowy lub był wcześniej używany';

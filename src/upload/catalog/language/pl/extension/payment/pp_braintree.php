@@ -1,8 +1,8 @@
 <?php
 // Text
-$_['text_title']						= 'Cards or PayPal';
+$_['text_title']						= 'Karty lub PayPal';
 $_['text_express_title']      			= 'Potwierdź zamówienie';
-$_['text_vaulted_payment_method_name']	= '%s ending in %s, expires %s';
+$_['text_vaulted_payment_method_name']	= '%s kończy się w %s, traci ważność %s';
 $_['text_remember']						= 'Save for next time?';
 $_['text_remove']						= 'Usuń';
 $_['text_remove_confirm']				= 'Are you sure you want to remove the saved payment method?';
@@ -43,6 +43,6 @@ $_['error_unavailable'] 	  			= 'Please use the full checkout with this order';
 $_['error_no_shipping']    				= 'Warning: No Shipping options are available.';
 
 // Button
-$_['button_confirm']					= 'Pay Now';
+$_['button_confirm']					= 'Zapłać teraz';
 $_['button_express_confirm']  			= 'Potwierdź hasło';
 $_['button_express_shipping'] 			= 'Update shipping';

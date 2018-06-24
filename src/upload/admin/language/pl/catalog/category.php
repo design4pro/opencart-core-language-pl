@@ -33,6 +33,7 @@ $_['entry_status']           = 'Status';
 $_['entry_layout']           = 'Zastąp układ';
 
 // Help
+$_['help_parent']            = '(Autouzupełnianie)';
 $_['help_filter']            = '(Autouzupełnianie)';
 $_['help_top']               = 'Wyświetlaj w górnym pasku menu. Działa tylko dla kategorii najwyższego rodzica';
 $_['help_column']            = 'Liczba kolumn używana dla dolnych 3 kategorii. Działa tylko dla kategorii najwyższego rodzica';
@@ -42,6 +43,7 @@ $_['error_warning']          = 'Ostrzeżenie: Proszę sprawdzić formularz ponie
 $_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania kategorii!';
 $_['error_name']             = 'Nazwa kategorii musi zawierać od 1 do 255 znaków!';
 $_['error_meta_title']       = 'Meta Tytuł musi zawierać od 1 do 255 znaków!';
-$_['error_keyword']          = 'Adres URL SEO został już wykorzystany!';
+$_['error_seo']              = 'Adres URL SEO jest wymagany!';
+$_['error_keyword']          = 'Adres URL SEO musi być unikalny!';
 $_['error_unique']           = 'Adres URL SEO musi być unikalny!';
 $_['error_parent']           = 'Nadrzędna kategoria, którą wybrano jest podkategorią aktualnej!';

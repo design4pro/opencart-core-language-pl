@@ -38,4 +38,5 @@ $_['error_permission']   = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania o
 $_['error_name']         = 'Nazwa opcji musi zawierać od 1 do 128 znaków!';
 $_['error_type']         = 'Ostrzeżenie: Wartość opcji jest wymagana!';
 $_['error_option_value'] = 'Nazwa wartości opcji musi zawierać od 1 do 128 znaków!';
+$_['error_option']       = 'Ostrzeżenie: Nie można usunąć tej opcji, ponieważ jest obecnie przypisana do %s produktów!';
 $_['error_product']      = 'Ostrzeżenie: Nie można usunąć tej opcji, ponieważ jest obecnie przypisana do %s produktów!';

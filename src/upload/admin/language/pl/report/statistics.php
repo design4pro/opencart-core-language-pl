@@ -3,22 +3,22 @@
 $_['heading_title']         = 'Statystyki';
 
 // Text
-$_['text_success']          = 'Success: You have modified statistics!';
-$_['text_list']             = 'Statistics List';
-$_['text_order_sale']       = 'Order Sales';
+$_['text_success']          = 'Sukces: Zmodyfikowano statystyki!';
+$_['text_list']             = 'Lista statystyk';
+$_['text_order_sale']       = 'Zamów sprzedaż';
 $_['text_order_processing'] = 'Przetwarzanych zamówień';
-$_['text_order_complete']   = 'Orders Complete';
-$_['text_order_other']      = 'Orders Other';
+$_['text_order_complete']   = 'Zamówienie zakończone';
+$_['text_order_other']      = 'Zamówienia inne';
 $_['text_returns']          = 'Reklamacje';
-$_['text_customer']         = 'Customers Waiting for Approval';
-$_['text_affiliate']        = 'Affiliates Waiting for Approval';
-$_['text_product']          = 'Out of stock products';
-$_['text_review']           = 'Pending Reviews';
+$_['text_customer']         = 'Klienci oczekujący na zatwierdzenie';
+$_['text_affiliate']        = 'Partnerzy oczekujący na zatwierdzenie';
+$_['text_product']          = 'Niedostępne produkty';
+$_['text_review']           = 'Oczekujące recenzje';
 
 // Column
-$_['column_name']           = 'Statistics Name';
+$_['column_name']           = 'Nazwa statystyk';
 $_['column_value']	        = 'Wartość';
 $_['column_action']         = 'Akcje';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify statistics!';
+$_['error_permission']      = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania statystyk!';

@@ -6,7 +6,7 @@ $_['text_dashboard']			  = 'Kokpit Amazon EU';
 
 // Text
 $_['text_heading_settings'] 	  = 'Ustawienia';
-$_['text_heading_account'] 		  = 'Zmień plan';
+$_['text_heading_account'] 		  = 'Zmień harmonogram';
 $_['text_heading_links'] 		  = 'Łącza produktu';
 $_['text_heading_register'] 	  = 'Zarejestruj się tutaj';
 $_['text_heading_bulk_listing']   = 'Zbiorcze oferty';

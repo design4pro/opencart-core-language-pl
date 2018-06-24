@@ -34,7 +34,7 @@ $_['text_collectible_very_good'] 	 = 'Kolekcjonerski - Bardzo dobry';
 $_['text_collectible_good'] 		 = 'Kolekcjonerski - Dobry';
 $_['text_collectible_acceptable'] 	 = 'Kolekcjonerski - Dopuszczalny';
 $_['text_refurbished'] 				 = 'Odnowione';
-$_['text_register_banner']           = 'Click here if you need to register for an account';
+$_['text_register_banner']           = 'Kliknij tutaj, jeśli chcesz zarejestrować konto';
 
 // Error
 $_['error_permission']         		 = 'Nie masz dostępu do tego modułu';

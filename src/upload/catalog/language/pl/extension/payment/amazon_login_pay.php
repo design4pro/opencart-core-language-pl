@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']				= 'Amazon Pay';
+$_['heading_title']				= 'Płatność Amazon';
 $_['heading_address']			= 'Proszę wybrać adres dostwy';
 $_['heading_payment']			= 'Proszę wybrać metodę płatności';
 $_['heading_confirm']			= 'Podsumowanie zamówienia';
@@ -9,7 +9,7 @@ $_['text_back']					= 'Powrót';
 $_['text_cart']					= 'Koszyk';
 $_['text_confirm']				= 'Potwierdź hasło';
 $_['text_continue']				= 'Kontynuuj';
-$_['text_lpa']					= 'Amazon Pay';
+$_['text_lpa']					= 'Płatność Amazon';
 $_['text_enter_coupon']			= 'Wprowadź kod kuponu. Jeśli go nie posiadasz, pozostaw to pole puste.';
 $_['text_coupon']				= 'Kupon';
 $_['text_tax_other']			= 'Podatki / Inne opłaty manipulacyjne';

@@ -4,13 +4,13 @@ $_['heading_title']         = 'Raporty punktów lojalnościowych';
 
 // Text
 $_['text_extension']        = 'Rozszerzenia';
-$_['text_edit']             = 'Edit Customer Reward Points Report';
-$_['text_success']          = 'Success: You have modified customer reward points report!';
+$_['text_edit']             = 'Edytuj raport punktów lojalnościowych';
+$_['text_success']          = 'Sukces: Zmodyfikowano raport punktów lojalnościowych!';
 $_['text_filter']           = 'Filtruj';
 
 // Column
 $_['column_customer']       = 'Nazwa klienta';
-$_['column_email']          = 'Adres poczty elektronicznej';
+$_['column_email']          = 'Adres e-mail';
 $_['column_customer_group'] = 'Grupy klientów';
 $_['column_status']         = 'Status';
 $_['column_points']         = 'Punkty lojalnościowe';
@@ -26,4 +26,4 @@ $_['entry_status']          = 'Status';
 $_['entry_sort_order']      = 'Kolejność sortowania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify customer reward points report!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania raportu punktów lojalnoścowych!';

@@ -1,12 +1,12 @@
 <?php
 // Text
 $_['text_title']                = 'Square';
-$_['text_canceled']             = 'Success: You have succesfully canceled this payment! We sent you a confirmation e-mail.';
-$_['text_confirm_cancel']       = 'Are you sure you want to cancel the recurring payments?';
+$_['text_canceled']             = 'Sukces: Pomyślnie anulowano płatność! Wysłaliśmy wiadomość e-mail z potwierdzeniem.';
+$_['text_confirm_cancel']       = 'Czy na pewno chcesz anulować subskrybcję?';
 $_['text_order_history_cancel'] = 'You canceled your recurring profile. Your card will no longer be charged.';
 
 // Button
-$_['button_cancel']             = 'Cancel Recurring Payment';
+$_['button_cancel']             = 'Anuluj subskrypcję';
 
 // Error
 $_['error_not_cancelled']       = 'Błąd: %s';
