@@ -46,41 +46,13 @@ var bannerPHP = [
   ''
 ].join('\n');
 
-var bannerTXT = [
-  '/**',
-  project,
-  ' *',
-  license,
-  ' */',
-  ''
-].join('\n');
-
-gulp.task('copy', function () {
-  return gulp.src([
-      path.join(conf.paths.src, '/license.txt')
-    ])
-    .pipe($.header(bannerTXT, {
-      pkg: pkg,
-      conf: conf,
-      dateFormat: dateFormat,
-      now: now
-    }))
-    .pipe(gulp.dest(path.join(conf.paths.build, '/' + conf.filename)))
-    .pipe($.size({
-      title: path.join(conf.paths.build, '/' + conf.filename),
-      showFiles: true
-    }));
-});
-
-gulp.task('build', ['copy'], function () {
+gulp.task('build', function () {
   var phpFilter = $.filter('**/*.php', {restore: true});
 
   return gulp.src([
       path.join(conf.paths.src, 'upload/admin/language/pl/**/*'),
       path.join(conf.paths.src, 'upload/catalog/language/pl/**/*'),
       path.join(conf.paths.src, 'upload/admin/+(controller|model|view)/**/*'),
-      path.join('!' + conf.paths.src, '/install.txt'),
-      path.join('!' + conf.paths.src, '/license.txt'),
       path.join(conf.paths.src, '/upload/admin/language/en-gb/extension/dashboard/language_pl.php')
     ], { base: 'src' })
     .pipe(phpFilter)
@@ -91,9 +63,9 @@ gulp.task('build', ['copy'], function () {
       now: now
     }))
     .pipe(phpFilter.restore)
-    .pipe(gulp.dest(path.join(conf.paths.build, '/' + conf.filename + '/' + conf.name)))
+    .pipe(gulp.dest(path.join(conf.paths.build, '/' + conf.filename)))
     .pipe($.size({
-      title: path.join(conf.paths.build, '/' + conf.filename + '/' + conf.name),
+      title: path.join(conf.paths.build, '/' + conf.filename),
       showFiles: true
     }));
 });
