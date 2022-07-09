@@ -8,9 +8,14 @@ $_['text_list']         = 'Lista plików do pobrania';
 $_['text_add']          = 'Dodaj plik do pobrania';
 $_['text_edit']         = 'Edytuj plik do pobrania';
 $_['text_upload']       = 'Plik został pomyślnie przesłany!';
+$_['text_report']       = 'Raport';
 
 // Column
 $_['column_name']       = 'Nazwa pliku do pobrania';
+$_['column_ip']         = 'Adres IP';
+$_['column_account']    = 'Konta';
+$_['column_store']      = 'Sklep';
+$_['column_country']    = 'Kraj';
 $_['column_date_added'] = 'Data dodania';
 $_['column_action']     = 'Akcje';
 

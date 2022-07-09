@@ -1,9 +1,9 @@
 <?php
 $_['text_title'] = 'Kredytowa / Debetowa karta';
 $_['text_card_details'] = 'Szczegóły karty';
-$_['text_wait'] = 'Processing your payment';
+$_['text_wait'] = 'Przetwarzanie płatności';
 $_['text_auth_code'] = 'Authorisation code: %s';
-$_['text_postcode_check'] = 'Postcode check: %s';
+$_['text_postcode_check'] = 'Sprawdzenie kodu pocztowego: %s';
 $_['text_security_code_check'] = 'CVV2 check: %s';
 $_['text_address_check'] = 'Address check: %s';
 $_['text_3d_secure_check'] = '3D Secure: %s';
@@ -21,8 +21,8 @@ $_['text_connection_error'] = 'Please try again later or use a different payment
 
 $_['entry_type'] = 'Typ karty';
 $_['entry_number'] = 'Numer karty';
-$_['entry_expire_date'] = 'Expiry date';
-$_['entry_cvv2'] = 'Security Code (CVV2)';
+$_['entry_expire_date'] = 'Data ważności';
+$_['entry_cvv2'] = 'Kod bezpieczeństwa (CVV2)';
 
 $_['button_confirm'] = 'Potwierdź hasło';
 

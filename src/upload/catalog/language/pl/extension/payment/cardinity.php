@@ -1,13 +1,13 @@
 <?php
 // Text
-$_['text_title']						= 'Credit Card / Debit Card (Cardinity)';
-$_['text_payment_success']				= 'Payment success, details below';
-$_['text_payment_failed']				= 'Payment failed, details below';
+$_['text_title']						= 'Karta kredytowa / Karta debetowa (Cardinity)';
+$_['text_payment_success']				= 'Płatność zakończona sukcesem, szczegóły poniżej';
+$_['text_payment_failed']				= 'Płatność zakończyła się niepowodzeniem, szczegóły poniżej';
 
 // Entry
 $_['entry_holder']						= 'Card Holder Name';
 $_['entry_pan']							= 'Numer karty';
-$_['entry_expires']						= 'Expires';
+$_['entry_expires']						= 'Wygaśnięcie';
 $_['entry_exp_month']					= 'Miesiąc';
 $_['entry_exp_year']					= 'Rok';
 $_['entry_cvc']							= 'CVC';
@@ -21,4 +21,4 @@ $_['error_invalid_hash']				= 'Invalid hash.';
 $_['error_payment_declined']			= 'Payment was declined by issuing bank.';
 
 // Button
-$_['button_confirm']					= 'Pay Now';
+$_['button_confirm']					= 'Zapłać teraz';

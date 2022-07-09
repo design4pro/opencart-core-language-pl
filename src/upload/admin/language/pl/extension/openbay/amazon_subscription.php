@@ -5,9 +5,9 @@ $_['text_openbay']			  = 'OpenBay Pro';
 $_['text_amazon']			  = 'Amazon EU';
 
 // Text
-$_['text_current_plan']       = 'Aktualny plan';
+$_['text_current_plan']       = 'Aktualny harmonogram';
 $_['text_register_invite']    = 'Don\'t have your API details yet?';
-$_['text_available_plans']    = 'Dostępne plany';
+$_['text_available_plans']    = 'Dostępne harmonogramy';
 $_['text_listings_remaining'] = 'Listings remaining';
 $_['text_listings_reserved']  = 'Products being processed';
 $_['text_account_status']     = 'Status konta';
@@ -31,5 +31,5 @@ $_['column_product_listings'] = 'Listings per month';
 $_['column_price']            = 'Cena jednostkowa';
 
 // Buttons
-$_['button_change_plan']      = 'Zmień plan';
+$_['button_change_plan']      = 'Zmień harmonogram';
 $_['button_register']         = 'Zarejestruj się';

@@ -1,4 +1,6 @@
 title: OpenCart Language PL
-description: Language files for OpenCart.
+description: Pliki językowe dla OpenCart.
 
-# OpenCart Language PL <small>How?</small>
+# OpenCart Language PL
+
+Paczka zawierająca polskie tłumaczenie części frontowej i panelu administracyjnego sklepu oraz podstawowych modułów płatności i dostawy.

@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Dostawa';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia wartości dostaw!';
 $_['text_edit']        = 'Edytuj obciążenie dostawą';
 

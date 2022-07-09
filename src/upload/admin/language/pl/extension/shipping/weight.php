@@ -3,9 +3,9 @@
 $_['heading_title']    = 'Dostawa na podstawie wagi';
 
 // Text
-$_['text_shipping']    = 'Dostawa';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
-$_['text_edit']        = 'Edytuj dostawęEdytuj dostawę';
+$_['text_edit']        = 'Edytuj dostawę na podstawie wagi';
 
 // Entry
 $_['entry_rate']       = 'Stawki';

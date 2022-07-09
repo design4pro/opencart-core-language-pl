@@ -33,7 +33,7 @@ $_['entry_name']                   = 'Nazwa sklepu';
 $_['entry_owner']                  = 'Właściciel sklepu';
 $_['entry_address']                = 'Adres';
 $_['entry_geocode']                = 'Współrzędne geograficzne';
-$_['entry_email']                  = 'Adres poczty elektronicznej';
+$_['entry_email']                  = 'Adres e-mail';
 $_['entry_telephone']              = 'Numer telefonu';
 $_['entry_fax']                    = 'Faks';
 $_['entry_image']                  = 'Obrazek';
@@ -62,15 +62,15 @@ $_['entry_icon']                   = 'Ikona';
 $_['entry_secure']                 = 'Używaj SSL';
 
 // Help
-$_['help_url']                     = 'Include the full URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
-$_['help_ssl']                     = 'SSL URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
+$_['help_url']                     = 'Dołącz pełny adres URL do swojego sklepu. Pamiętaj, aby dodać "/" na końcu. Przykład: http://www.yourdomain.com/path/<br /><br /> Nie używaj katalogów do tworzenia nowego sklepu. Zawsze powinieneś wskazać inną domenę lub poddomenę hostingu.';
+$_['help_ssl']                     = 'Adres URL SSL do Twojego sklepu. Pamiętaj, aby dodać "/" na końcu. Przykład: http://www.yourdomain.com/path/<br /><br /> Nie używaj katalogów do tworzenia nowego sklepu. Zawsze powinieneś wskazać inną domenę lub poddomenę hostingu.';
 $_['help_geocode']                 = 'Proszę wpisać współrzędne sklepu ręcznie.';
 $_['help_open']                    = 'Uzupełnij godziny otwarcia sklepu.';
 $_['help_comment']                 = 'To pole przeznaczone jest na szczególne uwagi, które chcesz przekazać klientom sklepu, np. Sklep nie akceptuje czeków.';
-$_['help_location']                = 'The different store locations you have that you want displayed on the contact us form.';
+$_['help_location']                = 'Różne lokalizacje sklepów, które chcesz wyświetlać w formularzu kontaktowym.';
 $_['help_currency']                = 'Zmień domyślną walutę. Wyczyść pamięć podręczną przeglądarki, aby sprawdzić zmiany i zresetować istniejące ciasteczka.';
-$_['help_tax_default']             = 'Use the store address to calculate taxes if customer is not logged in. You can choose to use the store address for the customer\'s shipping or payment address.';
-$_['help_tax_customer']            = 'Use the customers default address when they login to calculate taxes. You can choose to use the default address for the customer\'s shipping or payment address.';
+$_['help_tax_default']             = 'Użyj adresu sklepu, aby obliczyć podatki, jeśli klient nie jest zalogowany. Możesz użyć adresu sklepu dla adresu wysyłki lub płatności klienta.';
+$_['help_tax_customer']            = 'Użyj domyślnego adresu klienta podczas logowania, aby obliczyć podatki. Możesz wybrać domyślny adres wysyłki lub adresu płatności klienta.';
 $_['help_customer_group']          = 'Domyślna grupa klientów.';
 $_['help_customer_group_display']  = 'Wyświetlaj grupy klientów aby nowy klient mógł wybrać pomiędzy nimi.';
 $_['help_customer_price']          = 'Pokazuj ceny tylko gdy klient jest zalogowany.';
@@ -81,7 +81,7 @@ $_['help_order_status']            = 'Ustaw domyślny status zamówienia gdy jes
 $_['help_stock_display']           = 'Wyświetlaj stan magazynowy na karcie produktu.';
 $_['help_stock_checkout']          = 'Umożliwiaj klientom zamówienie produktu pomimo jego braku w magazynie.';
 $_['help_icon']                    = 'Ikona powinna mieć rozszerzenie PNG i mieć wymiary 16px na 16px.';
-$_['help_secure']                  = 'To use SSL check with your host if a SSL certificate is installed.';
+$_['help_secure']                  = 'Aby użyć sprawdzania SSL, sprawdź czy zainstalowany jest certyfikat SSL na serwerze.';
 
 // Error
 $_['error_warning']                = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
@@ -91,7 +91,7 @@ $_['error_meta_title']             = 'Tytuł musi zawierać od 3 do 32 znaków!'
 $_['error_name']                   = 'Nazwa sklepu musi zawierać od 3 do 32 znaków!';
 $_['error_owner']                  = 'Nazwa właściciela sklepu musi zawierać od 3 do 64 znaków!';
 $_['error_address']                = 'Adres sklepu musi zawierać od 10 do 256 znaków!';
-$_['error_email']                  = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
+$_['error_email']                  = 'Adres e-mail wygląda na nieprawidłowy!';
 $_['error_telephone']              = 'Numer telefonu musi zawierać od 3 do 32 znaków!';
 $_['error_customer_group_display'] = 'Musisz ustawić domyślna grupę klientów aby używać tej funkcjonalności!';
 $_['error_default']                = 'Ostrzeżenie: Nie możesz usunąć domyślnego sklepu!';

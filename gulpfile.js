@@ -44,5 +44,5 @@ wrench.readdirSyncRecursive( './gulp' ).filter( function ( file ) {
  */
 
 gulp.task( 'default', ['clean'], function() {
-    sequence('build', 'replace', 'zip');
+    sequence('build', 'zip');
 } );

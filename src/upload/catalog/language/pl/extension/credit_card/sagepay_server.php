@@ -3,17 +3,18 @@
 $_['heading_title']         = 'Sagepay Server Cards';
 
 // Text
-$_['text_empty']		    = 'You have no saved cards';
+$_['text_empty']		    = 'Nie posiadasz zapisanych kart';
+$_['text_no_results']		= 'Nie posiadasz zapisanych kart';
 $_['text_account']          = 'Konto';
 $_['text_card']			    = 'SagePay Server Card Management';
 $_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
-$_['text_success_card']     = 'SagePay card successfully removed';
-$_['text_success_add_card'] = 'SagePay card successfully added';
+$_['text_success_card']     = 'Karta SagePay została pomyślnie usunięta';
+$_['text_success_add_card'] = 'Karta SagePay została pomyślnie dodana';
 
 // Column
 $_['column_type']		    = 'Typ karty';
-$_['column_digits']	        = 'Last Digits';
-$_['column_expiry']	     	= 'Expiry';
+$_['column_digits']	        = 'Ostatnie cyfry';
+$_['column_expiry']	     	= 'Wygaśnięcie';
 
 // Entry
 $_['entry_cc_owner']        = 'Właściciel karty';
@@ -21,7 +22,7 @@ $_['entry_cc_type']         = 'Typ karty';
 $_['entry_cc_number']       = 'Numer karty';
 $_['entry_cc_expire_date']  = 'Data ważności karty';
 $_['entry_cc_cvv2']         = 'Kod bezpieczeństwa (CVV2)';
-$_['entry_cc_choice']       = 'Choose an Existing Card';
+$_['entry_cc_choice']       = 'Wybierz istniejącą kartę';
 
 // Button
 $_['button_add_card']       = 'Dodaj kartę';

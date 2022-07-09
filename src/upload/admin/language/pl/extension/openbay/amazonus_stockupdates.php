@@ -20,4 +20,4 @@ $_['column_sku']            = 'Amazon SKU';
 $_['column_stock']          = 'Stan magazynowy';
 
 // Error
-$_['error_api_connection']  = 'Could not connect to the API';
+$_['error_api_connection']  = 'Nie udało się połączyć z API';

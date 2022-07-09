@@ -10,6 +10,7 @@ $_['text_login']    = 'Musisz się <a href="%s">zalogować</a> lub <a href="%s">
 $_['text_success']  = 'Sukces: Dodano <a href="%s">%s</a> do Twojej <a href="%s">listy życzeń</a>!';
 $_['text_remove']   = 'Sukces: Zmodyfikowano listę życzeń!';
 $_['text_empty']    = 'Twoja lista życzeń jest pusta.';
+$_['text_no_results'] = 'Twoja lista życzeń jest pusta.';
 
 // Column
 $_['column_image']  = 'Obrazek';

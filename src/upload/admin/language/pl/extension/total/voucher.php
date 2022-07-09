@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Karta podarunkowa';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano wartości kart podarunkowych!';
 $_['text_edit']        = 'Edytuj obciążenie kartą podarunkową';
 

@@ -4,7 +4,7 @@ $_['heading_title']    = 'Pilibaba Checkout Button';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
-$_['text_success']     = 'Success: You have modified Pilibaba Checkout Button module!';
+$_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']        = 'Edit Pilibaba Checkout Button Module';
 
 // Entry

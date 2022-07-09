@@ -25,9 +25,9 @@ $_['column_action']     = 'Akcje';
 // Entry
 $_['entry_code']        = 'Kod';
 $_['entry_from_name']   = 'Nazwa nadawcy';
-$_['entry_from_email']  = 'Adres poczty elektronicznej nadawcy';
+$_['entry_from_email']  = 'Adres e-mail nadawcy';
 $_['entry_to_name']     = 'Nazwa odbiorcy';
-$_['entry_to_email']    = 'Adres poczty elektronicznej odbiorcy';
+$_['entry_to_email']    = 'Adres e-mail odbiorcy';
 $_['entry_theme']       = 'Szablon';
 $_['entry_message']     = 'Wiadomość';
 $_['entry_amount']      = 'Kwota';
@@ -37,12 +37,11 @@ $_['entry_status']      = 'Status';
 $_['help_code']         = 'Kod, który klient używa aby uzyskać rabat.';
 
 // Error
-$_['error_selection']   = 'Ostrzeżenie: Nie wybrano rabatów!';
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania kart podarunkowych!';
 $_['error_exists']      = 'Ostrzeżenie: Kod został już wykorzystany!';
 $_['error_code']        = 'Kod musi zawierać od 3 do 10 znaków!';
 $_['error_to_name']     = 'Nazwa odbiorcy musi zawierać od 1 do 64 znaków!';
 $_['error_from_name']   = 'Nazwa nadawcy  musi zawierać od 1 do 64 znaków!';
-$_['error_email']       = 'Adres poczty elektronicznej wygląda na nieprawidłowy!';
+$_['error_email']       = 'Adres e-mail wygląda na nieprawidłowy!';
 $_['error_amount']      = 'Kwota musi być większa lub równa 1!';
 $_['error_order']       = 'Ostrzeżenie: Nie można usunąć tej karty podarunkowej, ponieważ jest obecnie częścią <a href="%s">zamówienia</a>!';

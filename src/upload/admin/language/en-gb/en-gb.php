@@ -99,6 +99,10 @@ $_['button_category_add']           = 'Add Category';
 $_['button_order']                  = 'View Order';
 $_['button_order_recurring']        = 'View Recurring Order';
 $_['button_buy']                    = 'Buy';
+$_['button_restore']                = 'Restore';
+$_['button_run']                    = 'Run Cron Job';
+$_['button_backup']                 = 'Backup';
+$_['button_developer']              = 'Developer Setting';
 
 // Tab
 $_['tab_affiliate']                 = 'Affiliate';
@@ -141,6 +145,7 @@ $_['tab_marketing']                 = 'Marketing';
 $_['tab_online']                    = 'People Online';
 $_['tab_activity']                  = 'Recent Activity';
 $_['tab_recurring']                 = 'Recurring';
+$_['tab_report']                    = 'Report';
 $_['tab_action']                    = 'Action';
 $_['tab_google']                    = 'Google';
 

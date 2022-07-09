@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_title']				= 'Klarna Account - Pay from %s/month';
+$_['text_title']				= 'Konto Klarna - Zapłać od %s/miesięcznie';
 $_['text_terms']				= '<span id="klarna_account_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Account({el: \'klarna_account_toc\', eid: \'%s\', country: \'%s\'});</script>';
 $_['text_information']			= 'Informacje o koncie Klarna';
 $_['text_additional']			= 'Klarna Account requires some additional information before they can proccess your order.';
@@ -17,11 +17,11 @@ $_['text_comment']				= 'Klarna\'s Invoice ID: %s' . "\n" . '%s/%s: %.4f';
 // Entry
 $_['entry_gender']				= 'Płeć';
 $_['entry_pno']					= 'Personal Number';
-$_['entry_dob']					= 'Date of Birth';
-$_['entry_phone_no']			= 'Phone number';
-$_['entry_street']				= 'Street';
-$_['entry_house_no']			= 'House No.';
-$_['entry_house_ext']			= 'House Ext.';
+$_['entry_dob']					= 'Data urodzenia';
+$_['entry_phone_no']			= 'Numer telefonu';
+$_['entry_street']				= 'Ulica';
+$_['entry_house_no']			= 'Numer domu';
+$_['entry_house_ext']			= 'Numer mieszkania';
 $_['entry_company']				= 'Company Registration Number';
 
 // Help

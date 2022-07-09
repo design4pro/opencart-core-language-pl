@@ -1,9 +1,9 @@
 <?php
 // Text
-$_['text_title']				= 'Klarna Invoice - Pay within 14 days';
+$_['text_title']				= 'Faktura Klarna - Zapłać w ciągu 14 dni';
 $_['text_terms_fee']			= '<span id="klarna_invoice_toc"></span> (+%s)<script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\', charge: %s});</script>';
 $_['text_terms_no_fee']			= '<span id="klarna_invoice_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Invoice({el: \'klarna_invoice_toc\', eid: \'%s\', country: \'%s\'});</script>';
-$_['text_additional']			= 'Klarna wymaga pewnych dodatkowych informacji zanim będą mogli przetworzyć twoje zamówienie.';
+$_['text_additional']			= 'Klarna Invoice requires some additional information before they can proccess your order.';
 $_['text_male']					= 'Mężczyzna';
 $_['text_female']				= 'Kobieta';
 $_['text_year']					= 'Rok';
@@ -14,11 +14,11 @@ $_['text_comment']				= 'Klarna\'s Invoice ID: %s. ' . "\n" . '%s/%s: %.4f';
 // Entry
 $_['entry_gender']				= 'Płeć';
 $_['entry_pno']					= 'Personal Number';
-$_['entry_dob']					= 'Date of Birth';
-$_['entry_phone_no']			= 'Phone number';
-$_['entry_street']				= 'Street';
-$_['entry_house_no']			= 'House No.';
-$_['entry_house_ext']			= 'House Ext.';
+$_['entry_dob']					= 'Data urodzenia';
+$_['entry_phone_no']			= 'Numer telefonu';
+$_['entry_street']				= 'Ulica';
+$_['entry_house_no']			= 'Numer domu';
+$_['entry_house_ext']			= 'Numer mieszkania';
 $_['entry_company']				= 'Company Registration Number';
 
 // Help

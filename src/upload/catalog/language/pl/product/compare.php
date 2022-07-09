@@ -20,3 +20,4 @@ $_['text_compare']      = 'Porównaj produkty (%s)';
 $_['text_success']      = 'Sukces: Dodano <a href="%s">%s</a> do <a href="%s">porównywarki</a>!';
 $_['text_remove']       = 'Sukces: Zmodyfikowano produkty do porównania!';
 $_['text_empty']        = 'Nie wybrano żadnych produktów do porównania.';
+$_['text_no_results']   = 'Nie wybrano żadnych produktów do porównania.';

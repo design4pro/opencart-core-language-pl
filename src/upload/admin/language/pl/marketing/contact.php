@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']        = 'Mail';
+$_['heading_title']        = 'Poczta';
 
 // Text
 $_['text_success']         = 'Twoja wiadomość została wysłana!';
-$_['text_sent']            = 'Twoja wiadomość została wysłana do %s z %s odbiorców!';
+$_['text_sent']            = 'Twoja wiadomość została wysłana do %s - %s odbiorców!';
 $_['text_list']            = 'Lista';
 $_['text_default']         = 'Domyślne';
 $_['text_newsletter']      = 'Wszyscy zapisani do biuletynu';
@@ -26,9 +26,9 @@ $_['entry_subject']        = 'Temat';
 $_['entry_message']        = 'Wiadomość';
 
 // Help
-$_['help_customer']       = '(Autouzupełnianie)';
-$_['help_affiliate']      = '(Autouzupełnianie)';
-$_['help_product']        = 'Wyślij tylko do klientów, którzy zamówili produkty z listy. (Autouzupełnianie)';
+$_['help_customer']        = '(Autouzupełnianie)';
+$_['help_affiliate']       = '(Autouzupełnianie)';
+$_['help_product']         = 'Wyślij tylko do klientów, którzy zamówili produkty z listy. (Autouzupełnianie)';
 
 // Error
 $_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do wysyłania wiadomości!';

@@ -3,7 +3,7 @@
 $_['text_title'] = 'Kredytowa / Debetowa karta';
 $_['button_confirm'] = 'Potwierdź hasło';
 
-$_['text_postcode_check'] = 'Postcode check: %s';
+$_['text_postcode_check'] = 'Sprawdzenie kodu pocztowego: %s';
 $_['text_security_code_check'] = 'CVV2 check: %s';
 $_['text_address_check'] = 'Address check: %s';
 $_['text_not_given'] = 'Not given';

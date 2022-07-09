@@ -3,10 +3,10 @@
 $_['heading_title']                = 'Amazon Pay';
 
 // Text
-$_['text_success']                 = 'Amazon Pay module has been updated';
+$_['text_success']                 = 'Amazon Pay module has been updated.';
 $_['text_ipn_url']				   = 'Cron Job\'s URL';
 $_['text_ipn_token']			   = 'Secret Token';
-$_['text_us']					   = 'American';
+$_['text_us']					   = 'American English';
 $_['text_de']					   = 'German';
 $_['text_uk']                      = 'English';
 $_['text_fr']                      = 'French';

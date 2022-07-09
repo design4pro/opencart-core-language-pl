@@ -46,7 +46,7 @@ $_['text_product_sent'] 		  = 'Produkt został pomyślnie przesłany do Amazon.'
 $_['text_links_removed'] 		  = 'Amazon product links deleted';
 $_['text_product_links'] 		  = 'Łącza produktu';
 $_['text_has_saved_listings'] 	  = 'This product has one or more saved listings that is not uploaded';
-$_['text_edit_heading'] 		  = 'Edit listing';
+$_['text_edit_heading'] 		  = 'Edytuj aukcję';
 
 // Columns
 $_['column_image'] 				  = 'Obrazek';
@@ -68,14 +68,15 @@ $_['entry_price'] 				  = 'Cena jednostkowa';
 $_['entry_sale_price'] 			  = 'Cena sprzedaży';
 $_['entry_sale_date'] 			  = 'Sale date range';
 $_['entry_quantity'] 			  = 'Ilość';
-$_['entry_start_selling'] 		  = 'Available from date';
+$_['entry_start_selling'] 		  = 'Dostępne od daty';
 $_['entry_restock_date'] 		  = 'Restock Date';
-$_['entry_country_of_origin'] 	  = 'Country of Origin';
-$_['entry_release_date'] 		  = 'Release Date';
+$_['entry_country_of_origin'] 	  = 'Kraj pochodzenia';
+$_['entry_release_date'] 		  = 'Data wydania
+';
 $_['entry_from'] 				  = 'Data od:';
 $_['entry_to'] 					  = 'Data do:';
 $_['entry_product'] 			  = 'Listing for product';
-$_['entry_category'] 			  = 'Amazon category';
+$_['entry_category'] 			  = 'Kategoria Amazon';
 
 //Tabs
 $_['tab_main'] 					  = 'Główne';

@@ -3,6 +3,7 @@
 $_['heading_title']        			 = 'Ustawienia platformy sprzedażowej';
 $_['text_openbay']					 = 'OpenBay Pro';
 $_['text_amazon']					 = 'Amazon EU';
+$_['text_edit']				         = 'Edytuj ustawienia Amazon EU';
 
 // Text
 $_['text_api_status']                = 'Status połączenia z API';
@@ -33,15 +34,16 @@ $_['text_collectible_very_good'] 	 = 'Kolekcjonerski - Bardzo dobry';
 $_['text_collectible_good'] 		 = 'Kolekcjonerski - Dobry';
 $_['text_collectible_acceptable'] 	 = 'Kolekcjonerski - Dopuszczalny';
 $_['text_refurbished'] 				 = 'Odnowione';
+$_['text_register_banner']           = 'Kliknij tutaj, jeśli chcesz zarejestrować konto';
 
 // Error
 $_['error_permission']         		 = 'Nie masz dostępu do tego modułu';
 
 // Entry
 $_['entry_status']                 	 = 'Status';
-$_['entry_token']                    = 'Token';
-$_['entry_string1']              	 = 'Encryption String 1';
-$_['entry_string2']              	 = 'Encryption String 2';
+$_['entry_token']                    = 'Token API';
+$_['entry_encryption_key']           = 'Klucz szyfrujący 1';
+$_['entry_encryption_iv']            = 'Klucz szyfrujący 2';
 $_['entry_import_tax']               = 'Podatek dla importowanych przedmiotów';
 $_['entry_customer_group']           = 'Grupy klientów';
 $_['entry_tax_percentage']           = 'Modify price';

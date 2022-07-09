@@ -5,15 +5,15 @@ $_['text_openbay']			  = 'OpenBay Pro';
 $_['text_ebay']				  = 'eBay';
 
 // Buttons
-$_['button_resync']           = 'Re-sync';
-$_['button_check_unlinked']   = 'Check unlinked items';
+$_['button_resync']           = 'Ponowna synchronizacja';
+$_['button_check_unlinked']   = 'Sprawdź niepołączone elementy';
 $_['button_remove_link']      = 'Usuń łącze';
 
 // Errors
-$_['error_ajax_load']         = 'Sorry, could not get a response. Try later.';
-$_['error_validation']        = 'You need to register for your API token and enable the module.';
-$_['error_no_listings']       = 'No linked products found';
-$_['error_link_value']        = 'The product link is not value';
+$_['error_ajax_load']         = 'Niestety, nie udało się uzyskać odpowiedzi. Spróbuj później.';
+$_['error_validation']        = 'Musisz zarejestrować token API i włączyć moduł.';
+$_['error_no_listings']       = 'Nie znaleziono powiązanych produktów';
+$_['error_link_value']        = 'Link do produktu nie jest wartością';
 $_['error_link_no_stock']     = 'A link cannot be created for an out of stock item. End the item manually on eBay.';
 $_['error_subtract_setting']  = 'This product is set not to subtract stock in OpenCart.';
 
@@ -31,8 +31,8 @@ $_['text_text_unlinked_info'] = 'Click the check unlinked items button to search
 $_['text_text_loading_items'] = 'Ładowanie produktów';
 $_['text_failed']       	  = 'Failed to load';
 $_['text_limit_reached']      = 'The maximum number of checks per request was reached, click the button to continue searching';
-$_['text_stock_error']        = 'Stock error';
-$_['text_listing_ended']      = 'Listing ended';
+$_['text_stock_error']        = 'Błąd magazynu';
+$_['text_listing_ended']      = 'Aukcja zakończona';
 $_['text_filter']             = 'Wyszukiwanie';
 $_['text_filter_title']       = 'Tytuł';
 $_['text_filter_range']       = 'Stock range';
@@ -46,9 +46,9 @@ $_['column_status']           = 'Status';
 $_['column_variants']         = 'Warianty';
 $_['column_item_id']          = 'Identyfikator produktu eBay';
 $_['column_product']          = 'Produkt';
-$_['column_product_auto']     = 'Product name (auto complete)';
-$_['column_listing_title']    = 'eBay listing title';
-$_['column_allocated']        = 'Allocated stock';
-$_['column_ebay_stock']       = 'eBay stock';
-$_['column_stock_available']  = 'Shop stock';
-$_['column_stock_reserve']    = 'Reserve level';
+$_['column_product_auto']     = 'Nazwa produktu (autouzupełnienie)';
+$_['column_listing_title']    = 'Tytuł aukcji eBay';
+$_['column_allocated']        = 'Przydzielony zapas';
+$_['column_ebay_stock']       = 'Magazyn eBay';
+$_['column_stock_available']  = 'Magazyn sklepu';
+$_['column_stock_reserve']    = 'Poziom rezerwowy';

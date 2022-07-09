@@ -1,3 +1,3 @@
 <?php
 // Heading
-$_['heading_title']  = 'Czat na żywo';
+$_['heading_title'] = 'Czat na żywo';

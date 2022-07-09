@@ -19,6 +19,6 @@ $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikacji grup atrybutów!';
-$_['error_name']        = 'Nazwa grupy atrybutów musi zawierać od 3 do 64 znaków!';
+$_['error_name']        = 'Nazwa grupy atrybutów musi zawierać od 1 do 64 znaków!';
 $_['error_attribute']   = 'Ostrzeżenie: Nie można usunąć tej grupy atrybutów, ponieważ jest obecnie przypisana do %s atrybutów!';
 $_['error_product']     = 'Ostrzeżenie: Nie można usunąć tej grupy atrybutów, ponieważ jest obecnie przypisana do %s produktów!';

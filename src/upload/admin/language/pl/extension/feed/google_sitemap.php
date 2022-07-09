@@ -1,11 +1,11 @@
 <?php
 // Heading
-$_['heading_title']    = 'Mapa strony Google';
+$_['heading_title']    = 'Google Sitemap';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano źródła danych Google Sitemap!';
-$_['text_edit']        = 'Edytuj Google Sitemap';
+$_['text_edit']        = 'Edit Google Sitemap';
 
 // Entry
 $_['entry_status']     = 'Status';

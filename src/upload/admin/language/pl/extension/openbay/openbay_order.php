@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']   		   = 'Aktualizacja zamówień';
 $_['text_openbay']             = 'OpenBay Pro';
-$_['text_confirm_title']       = 'Revie';
+$_['text_confirm_title']       = 'Review bulk status update';
 
 // Button
 $_['button_status']            = 'Zmień status';
@@ -16,7 +16,7 @@ $_['column_comments']      	   = 'Komentarze';
 $_['column_notify']        	   = 'Powiadomienie';
 
 // Text
-$_['text_confirmed']           = '%s orders have been marked %t';
+$_['text_confirmed']           = '%s orders have been updated';
 $_['text_no_orders']           = 'No orders selected for update';
 $_['text_confirm_change_text'] = 'Changing order status to';
 $_['text_other']               = 'Inne';

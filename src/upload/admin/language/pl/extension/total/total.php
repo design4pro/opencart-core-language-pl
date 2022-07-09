@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Do zapłaty';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zostały zmodyfikowane zamówień!';
 $_['text_edit']        = 'Edytuj łączne obciążenie';
 

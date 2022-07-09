@@ -17,6 +17,7 @@ $_['text_comment']          = 'Komentarze do zamówienia';
 $_['text_history']          = 'Historia zamówień';
 $_['text_success']          = 'Sukces: Dodano <a href="%s">%s</a> do Twojego <a href="%s">koszyka zakupów</a>!';
 $_['text_empty']            = 'Nie złożono zamówień!';
+$_['text_no_results']       = 'Nie złożono zamówień!';
 $_['text_error']            = 'Zamówienie, którego szukasz nie zostało znalezione!';
 
 // Column

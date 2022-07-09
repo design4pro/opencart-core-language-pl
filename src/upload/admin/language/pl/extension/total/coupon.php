@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Kupon';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano wartości kuponów!';
 $_['text_edit']        = 'Edytuj obciążenie kuponem';
 

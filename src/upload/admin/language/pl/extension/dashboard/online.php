@@ -1,13 +1,12 @@
 <?php
 // Heading
-$_['heading_title']    = 'Osób on-line';
+$_['heading_title']    = 'Osoby Online';
 
 // Text
 $_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
 $_['text_edit']        = 'Edytuj panel Online';
 $_['text_view']        = 'Pokaż więcej...';
-
 
 // Entry
 $_['entry_status']     = 'Status';

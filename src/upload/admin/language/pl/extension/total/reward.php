@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Punkty lojalnościowe';
 
 // Text
-$_['text_total']       = 'Podsumowanie zamówienia';
+$_['text_extension']   = 'Rozszerzenia';
 $_['text_success']     = 'Sukces: Zmodyfikowano wartości punktów lojalnościowych!';
 $_['text_edit']        = 'Edytuj obciążenie punktami lojalnościowymi';
 
