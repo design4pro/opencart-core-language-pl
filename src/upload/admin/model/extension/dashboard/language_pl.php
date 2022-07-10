@@ -1,14 +1,14 @@
 <?php
 /**
- * Project    OpenCart Core Langauge PL
- * Name       opencart-language-pl
- * Modified   16.06.18 12:09
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
  *
  * @category  OpenCart
  * @package   Core
- * @link      https://opencart.design4.io/language-pl
+ * @link      https://github.com/design4pro/opencart-core-language-pl
  *
- * @copyright Copyright (c) 2018 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
  * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
  * @license   Commercial. All rights reserved.
  *            It is prohibited to copy and distribute in whole or in part.
@@ -18,12 +18,11 @@
  *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
  *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
  */
+namespace Opencart\Admin\Model\Extension\Design4pro\Dashboard;
 
-class ModelExtensionDashboardLanguagePl extends Model
-{
+class LanguagePl extends \Opencart\System\Engine\Model {
 
-    public function install()
-    {
+    public function install(): void {
         $this->load->model('localisation/language');
         $this->load->model('setting/setting');
 
@@ -34,7 +33,7 @@ class ModelExtensionDashboardLanguagePl extends Model
             $setting = $this->model_setting_setting->getSetting("config");
 
             if (!empty($setting['config_language_id'])) {
-                $this->model_setting_setting->editSettingValue("config", "config_language_id", $query->row['language_id']);
+                $this->model_setting_setting->editValue("config", "config_language_id", $query->row['language_id']);
             } else {
                 $this->db->query("INSERT INTO `" . DB_PREFIX . "setting` SET `store_id` = '0', `code` = 'config', `key` = 'config_language_id', `value` = '" . $query->row['language_id'] . "'");
             }
@@ -47,12 +46,11 @@ class ModelExtensionDashboardLanguagePl extends Model
             'code' => 'pl',
             'locale' => 'pl_PL.UTF-8,pl_PL,pl-pl,polish',
             'image' => 'pl.png',
-            'directory' => 'pl',
             'sort_order' => 0,
             'status' => 1
         );
 
-        // Check if the polish language exists
+        // Check if the Polish language exists
         $query = $this->db->query("SELECT `language_id` FROM `" . DB_PREFIX . "language` WHERE `code` = 'pl'");
 
         // Add new language
@@ -572,21 +570,21 @@ class ModelExtensionDashboardLanguagePl extends Model
             $this->cache->delete( 'weight_class' );
 
             // Change default settings
-            $this->model_setting_setting->editSettingValue( 'config', 'config_country_id', (int) $country_id );
-            $this->model_setting_setting->editSettingValue( 'config', 'config_zone_id', (int) $zone_id );
-            $this->model_setting_setting->editSettingValue( 'config', 'config_language', 'pl' );
-            $this->model_setting_setting->editSettingValue( 'config', 'config_admin_language', 'pl' );
-            $this->model_setting_setting->editSettingValue( 'config', 'config_currency', 'PLN' );
+            $this->model_setting_setting->editValue( 'config', 'config_country_id', (int) $country_id );
+            $this->model_setting_setting->editValue( 'config', 'config_zone_id', (int) $zone_id );
+            $this->model_setting_setting->editValue( 'config', 'config_language', 'pl' );
+            $this->model_setting_setting->editValue( 'config', 'config_admin_language', 'pl' );
+            $this->model_setting_setting->editValue( 'config', 'config_currency', 'PLN' );
         }
     }
 
     public function uninstall()
     {
         // Change default settings
-        $this->model_setting_setting->editSettingValue( 'config', 'config_country_id', (int) 222 );
-        $this->model_setting_setting->editSettingValue( 'config', 'config_zone_id', (int) 3563 );
-        $this->model_setting_setting->editSettingValue( 'config', 'config_language', 'en-gb' );
-        $this->model_setting_setting->editSettingValue( 'config', 'config_admin_language', 'en-gb' );
-        $this->model_setting_setting->editSettingValue( 'config', 'config_currency', 'USD' );
+        $this->model_setting_setting->editValue( 'config', 'config_country_id', (int) 222 );
+        $this->model_setting_setting->editValue( 'config', 'config_zone_id', (int) 3563 );
+        $this->model_setting_setting->editValue( 'config', 'config_language', 'en-gb' );
+        $this->model_setting_setting->editValue( 'config', 'config_admin_language', 'en-gb' );
+        $this->model_setting_setting->editValue( 'config', 'config_currency', 'USD' );
     }
 }

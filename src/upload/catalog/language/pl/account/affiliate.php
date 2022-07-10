@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']             = 'Twoje dane programu partnerskiego';
 
@@ -27,9 +47,11 @@ $_['entry_bank_account_name']   = 'Nazwa konta';
 $_['entry_bank_account_number'] = 'Numer konta';
 
 // Error
+$_['error_token']               = 'Warning: Affiliate token invalid!';
 $_['error_agree']               = 'Ostrzeżenie: Musisz zgodzić się z %s!';
 $_['error_cheque']              = 'Nazwa odbiorcy płatności na czeku jest wymagana!';
 $_['error_paypal']              = 'Adres e-mail PayPal wygląda na nieprawidłowy!';
 $_['error_bank_account_name']   = 'Identyfikator konta jest wymagany!';
 $_['error_bank_account_number'] = 'Numer konta jest wymagany!';
 $_['error_custom_field']        = '%s jest wymagane!';
+$_['error_regex']               = '%s not a valid input!';

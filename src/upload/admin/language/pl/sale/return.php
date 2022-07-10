@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']        = 'Reklamacje produktów';
 
@@ -13,6 +33,7 @@ $_['text_order']           = 'Informacja o zamówieniu';
 $_['text_product']         = 'Informacje o produkcie i powody reklamacji';
 $_['text_history']         = 'Historia';
 $_['text_history_add']     = 'Dodaj historię';
+$_['text_filter']          = 'Filter';
 
 // Column
 $_['column_return_id']     = 'Numer reklamacji';
@@ -54,6 +75,7 @@ $_['help_product']         = '(Autouzupełnianie)';
 // Error
 $_['error_warning']        = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania reklamacji!';
+$_['error_return']         = 'Warning could not find selected return!';
 $_['error_order_id']       = 'Numer zamówienia jest wymagany!';
 $_['error_firstname']      = 'Imię musi zawierać od 1 do 32 znaków!';
 $_['error_lastname']       = 'Nazwisko musi zawierać od 1 do 32 znaków!';

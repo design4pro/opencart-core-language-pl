@@ -1,2240 +1,1473 @@
 [main]
-host = https://www.transifex.com
-lang_map = en:en-gb, pl:pl
-type = PHP_ALT_ARRAY
+host     = https://www.transifex.com
+lang_map = en: en-gb, pl: pl
 
-[opencart_language_pl_3_0.admin_catalog_attribute]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_attribute]
 file_filter = src/upload/admin/language/<lang>/catalog/attribute.php
 source_file = src/upload/admin/language/en-gb/catalog/attribute.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_attribute_group]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_attribute_group]
 file_filter = src/upload/admin/language/<lang>/catalog/attribute_group.php
 source_file = src/upload/admin/language/en-gb/catalog/attribute_group.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_category]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_category]
 file_filter = src/upload/admin/language/<lang>/catalog/category.php
 source_file = src/upload/admin/language/en-gb/catalog/category.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_download]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_download]
 file_filter = src/upload/admin/language/<lang>/catalog/download.php
 source_file = src/upload/admin/language/en-gb/catalog/download.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_filter]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_filter]
 file_filter = src/upload/admin/language/<lang>/catalog/filter.php
 source_file = src/upload/admin/language/en-gb/catalog/filter.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_information]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_information]
 file_filter = src/upload/admin/language/<lang>/catalog/information.php
 source_file = src/upload/admin/language/en-gb/catalog/information.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_manufacturer]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_manufacturer]
 file_filter = src/upload/admin/language/<lang>/catalog/manufacturer.php
 source_file = src/upload/admin/language/en-gb/catalog/manufacturer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_option]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_option]
 file_filter = src/upload/admin/language/<lang>/catalog/option.php
 source_file = src/upload/admin/language/en-gb/catalog/option.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_product]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_product]
 file_filter = src/upload/admin/language/<lang>/catalog/product.php
 source_file = src/upload/admin/language/en-gb/catalog/product.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_catalog_recurring]
-file_filter = src/upload/admin/language/<lang>/catalog/recurring.php
-source_file = src/upload/admin/language/en-gb/catalog/recurring.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_catalog_review]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_review]
 file_filter = src/upload/admin/language/<lang>/catalog/review.php
 source_file = src/upload/admin/language/en-gb/catalog/review.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_column_left]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_catalog_subscription_plan]
+file_filter = src/upload/admin/language/<lang>/catalog/subscription_plan.php
+source_file = src/upload/admin/language/en-gb/catalog/subscription_plan.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_column_left]
 file_filter = src/upload/admin/language/<lang>/common/column_left.php
 source_file = src/upload/admin/language/en-gb/common/column_left.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_dashboard]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_dashboard]
 file_filter = src/upload/admin/language/<lang>/common/dashboard.php
 source_file = src/upload/admin/language/en-gb/common/dashboard.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_developer]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_developer]
 file_filter = src/upload/admin/language/<lang>/common/developer.php
 source_file = src/upload/admin/language/en-gb/common/developer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_filemanager]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_filemanager]
 file_filter = src/upload/admin/language/<lang>/common/filemanager.php
 source_file = src/upload/admin/language/en-gb/common/filemanager.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_footer]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_footer]
 file_filter = src/upload/admin/language/<lang>/common/footer.php
 source_file = src/upload/admin/language/en-gb/common/footer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_forgotten]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_forgotten]
 file_filter = src/upload/admin/language/<lang>/common/forgotten.php
 source_file = src/upload/admin/language/en-gb/common/forgotten.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_header]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_header]
 file_filter = src/upload/admin/language/<lang>/common/header.php
 source_file = src/upload/admin/language/en-gb/common/header.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_login]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_login]
 file_filter = src/upload/admin/language/<lang>/common/login.php
 source_file = src/upload/admin/language/en-gb/common/login.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_common_profile]
-file_filter = src/upload/admin/language/<lang>/common/profile.php
-source_file = src/upload/admin/language/en-gb/common/profile.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_common_reset]
-file_filter = src/upload/admin/language/<lang>/common/reset.php
-source_file = src/upload/admin/language/en-gb/common/reset.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_common_security]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_common_security]
 file_filter = src/upload/admin/language/<lang>/common/security.php
 source_file = src/upload/admin/language/en-gb/common/security.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_customer_custom_field]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_cron_subscription]
+file_filter = src/upload/admin/language/<lang>/cron/subscription.php
+source_file = src/upload/admin/language/en-gb/cron/subscription.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_customer_custom_field]
 file_filter = src/upload/admin/language/<lang>/customer/custom_field.php
 source_file = src/upload/admin/language/en-gb/customer/custom_field.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_customer_customer]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_customer_customer]
 file_filter = src/upload/admin/language/<lang>/customer/customer.php
 source_file = src/upload/admin/language/en-gb/customer/customer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_customer_customer_approval]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_customer_customer_approval]
 file_filter = src/upload/admin/language/<lang>/customer/customer_approval.php
 source_file = src/upload/admin/language/en-gb/customer/customer_approval.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_customer_customer_group]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_customer_customer_group]
 file_filter = src/upload/admin/language/<lang>/customer/customer_group.php
 source_file = src/upload/admin/language/en-gb/customer/customer_group.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_design_banner]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_customer_gdpr]
+file_filter = src/upload/admin/language/<lang>/customer/gdpr.php
+source_file = src/upload/admin/language/en-gb/customer/gdpr.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_design_banner]
 file_filter = src/upload/admin/language/<lang>/design/banner.php
 source_file = src/upload/admin/language/en-gb/design/banner.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_design_layout]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_design_layout]
 file_filter = src/upload/admin/language/<lang>/design/layout.php
 source_file = src/upload/admin/language/en-gb/design/layout.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_design_seo_url]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_design_seo_url]
 file_filter = src/upload/admin/language/<lang>/design/seo_url.php
 source_file = src/upload/admin/language/en-gb/design/seo_url.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_design_theme]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_design_theme]
 file_filter = src/upload/admin/language/<lang>/design/theme.php
 source_file = src/upload/admin/language/en-gb/design/theme.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_design_translation]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_design_translation]
 file_filter = src/upload/admin/language/<lang>/design/translation.php
 source_file = src/upload/admin/language/en-gb/design/translation.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_error_not_found]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_error_not_found]
 file_filter = src/upload/admin/language/<lang>/error/not_found.php
 source_file = src/upload/admin/language/en-gb/error/not_found.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_error_permission]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_error_permission]
 file_filter = src/upload/admin/language/<lang>/error/permission.php
 source_file = src/upload/admin/language/en-gb/error/permission.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_analytics_google]
-file_filter = src/upload/admin/language/<lang>/extension/analytics/google.php
-source_file = src/upload/admin/language/en-gb/extension/analytics/google.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_analytics]
+file_filter = src/upload/admin/language/<lang>/extension/analytics.php
+source_file = src/upload/admin/language/en-gb/extension/analytics.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_captcha_basic]
-file_filter = src/upload/admin/language/<lang>/extension/captcha/basic.php
-source_file = src/upload/admin/language/en-gb/extension/captcha/basic.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_captcha]
+file_filter = src/upload/admin/language/<lang>/extension/captcha.php
+source_file = src/upload/admin/language/en-gb/extension/captcha.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_captcha_google]
-file_filter = src/upload/admin/language/<lang>/extension/captcha/google.php
-source_file = src/upload/admin/language/en-gb/extension/captcha/google.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_currency]
+file_filter = src/upload/admin/language/<lang>/extension/currency.php
+source_file = src/upload/admin/language/en-gb/extension/currency.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_activity]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/activity.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/activity.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_dashboard]
+file_filter = src/upload/admin/language/<lang>/extension/dashboard.php
+source_file = src/upload/admin/language/en-gb/extension/dashboard.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_chart]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/chart.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/chart.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_feed]
+file_filter = src/upload/admin/language/<lang>/extension/feed.php
+source_file = src/upload/admin/language/en-gb/extension/feed.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_customer]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/customer.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/customer.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_fraud]
+file_filter = src/upload/admin/language/<lang>/extension/fraud.php
+source_file = src/upload/admin/language/en-gb/extension/fraud.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_language_pl]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/language_pl.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/language_pl.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_module]
+file_filter = src/upload/admin/language/<lang>/extension/module.php
+source_file = src/upload/admin/language/en-gb/extension/module.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_map]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/map.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/map.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_other]
+file_filter = src/upload/admin/language/<lang>/extension/other.php
+source_file = src/upload/admin/language/en-gb/extension/other.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_online]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/online.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/online.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_payment]
+file_filter = src/upload/admin/language/<lang>/extension/payment.php
+source_file = src/upload/admin/language/en-gb/extension/payment.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_order]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/order.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/order.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_promotion]
+file_filter = src/upload/admin/language/<lang>/extension/promotion.php
+source_file = src/upload/admin/language/en-gb/extension/promotion.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_recent]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/recent.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/recent.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_report]
+file_filter = src/upload/admin/language/<lang>/extension/report.php
+source_file = src/upload/admin/language/en-gb/extension/report.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_dashboard_sale]
-file_filter = src/upload/admin/language/<lang>/extension/dashboard/sale.php
-source_file = src/upload/admin/language/en-gb/extension/dashboard/sale.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_shipping]
+file_filter = src/upload/admin/language/<lang>/extension/shipping.php
+source_file = src/upload/admin/language/en-gb/extension/shipping.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_extension_analytics]
-file_filter = src/upload/admin/language/<lang>/extension/extension/analytics.php
-source_file = src/upload/admin/language/en-gb/extension/extension/analytics.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_theme]
+file_filter = src/upload/admin/language/<lang>/extension/theme.php
+source_file = src/upload/admin/language/en-gb/extension/theme.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_extension_captcha]
-file_filter = src/upload/admin/language/<lang>/extension/extension/captcha.php
-source_file = src/upload/admin/language/en-gb/extension/extension/captcha.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_extension_payment]
+file_filter = src/upload/admin/language/<lang>/extension/payment.php
+source_file = src/upload/admin/language/en-gb/extension/payment.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_extension_dashboard]
-file_filter = src/upload/admin/language/<lang>/extension/extension/dashboard.php
-source_file = src/upload/admin/language/en-gb/extension/extension/dashboard.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_address_format]
+file_filter = src/upload/admin/language/<lang>/localisation/address_format.php
+source_file = src/upload/admin/language/en-gb/localisation/address_format.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_extension_extension_feed]
-file_filter = src/upload/admin/language/<lang>/extension/extension/feed.php
-source_file = src/upload/admin/language/en-gb/extension/extension/feed.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_fraud]
-file_filter = src/upload/admin/language/<lang>/extension/extension/fraud.php
-source_file = src/upload/admin/language/en-gb/extension/extension/fraud.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_marketing]
-file_filter = src/upload/admin/language/<lang>/extension/extension/marketing.php
-source_file = src/upload/admin/language/en-gb/extension/extension/marketing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_menu]
-file_filter = src/upload/admin/language/<lang>/extension/extension/menu.php
-source_file = src/upload/admin/language/en-gb/extension/extension/menu.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_module]
-file_filter = src/upload/admin/language/<lang>/extension/extension/module.php
-source_file = src/upload/admin/language/en-gb/extension/extension/module.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_other]
-file_filter = src/upload/admin/language/<lang>/extension/extension/other.php
-source_file = src/upload/admin/language/en-gb/extension/extension/other.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_payment]
-file_filter = src/upload/admin/language/<lang>/extension/extension/payment.php
-source_file = src/upload/admin/language/en-gb/extension/extension/payment.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_report]
-file_filter = src/upload/admin/language/<lang>/extension/extension/report.php
-source_file = src/upload/admin/language/en-gb/extension/extension/report.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_shipping]
-file_filter = src/upload/admin/language/<lang>/extension/extension/shipping.php
-source_file = src/upload/admin/language/en-gb/extension/extension/shipping.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_themes]
-file_filter = src/upload/admin/language/<lang>/extension/extension/theme.php
-source_file = src/upload/admin/language/en-gb/extension/extension/theme.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_extension_total]
-file_filter = src/upload/admin/language/<lang>/extension/extension/total.php
-source_file = src/upload/admin/language/en-gb/extension/extension/total.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_feed_google_base]
-file_filter = src/upload/admin/language/<lang>/extension/feed/google_base.php
-source_file = src/upload/admin/language/en-gb/extension/feed/google_base.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_feed_google_sitemap]
-file_filter = src/upload/admin/language/<lang>/extension/feed/google_sitemap.php
-source_file = src/upload/admin/language/en-gb/extension/feed/google_sitemap.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_feed_openbaypro]
-file_filter = src/upload/admin/language/<lang>/extension/feed/openbaypro.php
-source_file = src/upload/admin/language/en-gb/extension/feed/openbaypro.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_fraud_fraudlabspro]
-file_filter = src/upload/admin/language/<lang>/extension/fraud/fraudlabspro.php
-source_file = src/upload/admin/language/en-gb/extension/fraud/fraudlabspro.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_fraud_ip]
-file_filter = src/upload/admin/language/<lang>/extension/fraud/ip.php
-source_file = src/upload/admin/language/en-gb/extension/fraud/ip.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_fraud_maxmind]
-file_filter = src/upload/admin/language/<lang>/extension/fraud/maxmind.php
-source_file = src/upload/admin/language/en-gb/extension/fraud/maxmind.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_menu_default]
-file_filter = src/upload/admin/language/<lang>/extension/menu/default.php
-source_file = src/upload/admin/language/en-gb/extension/menu/default.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_account]
-file_filter = src/upload/admin/language/<lang>/extension/module/account.php
-source_file = src/upload/admin/language/en-gb/extension/module/account.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_amazon_login]
-file_filter = src/upload/admin/language/<lang>/extension/module/amazon_login.php
-source_file = src/upload/admin/language/en-gb/extension/module/amazon_login.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_amazon_pay]
-file_filter = src/upload/admin/language/<lang>/extension/module/amazon_pay.php
-source_file = src/upload/admin/language/en-gb/extension/module/amazon_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_banner]
-file_filter = src/upload/admin/language/<lang>/extension/module/banner.php
-source_file = src/upload/admin/language/en-gb/extension/module/banner.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_bestseller]
-file_filter = src/upload/admin/language/<lang>/extension/module/bestseller.php
-source_file = src/upload/admin/language/en-gb/extension/module/bestseller.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_carousel]
-file_filter = src/upload/admin/language/<lang>/extension/module/carousel.php
-source_file = src/upload/admin/language/en-gb/extension/module/carousel.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_category]
-file_filter = src/upload/admin/language/<lang>/extension/module/category.php
-source_file = src/upload/admin/language/en-gb/extension/module/category.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_divido_calculator]
-file_filter = src/upload/admin/language/<lang>/extension/module/divido_calculator.php
-source_file = src/upload/admin/language/en-gb/extension/module/divido_calculator.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_ebay_listing]
-file_filter = src/upload/admin/language/<lang>/extension/module/ebay_listing.php
-source_file = src/upload/admin/language/en-gb/extension/module/ebay_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_featured]
-file_filter = src/upload/admin/language/<lang>/extension/module/featured.php
-source_file = src/upload/admin/language/en-gb/extension/module/featured.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_filter]
-file_filter = src/upload/admin/language/<lang>/extension/module/filter.php
-source_file = src/upload/admin/language/en-gb/extension/module/filter.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_google_hangouts]
-file_filter = src/upload/admin/language/<lang>/extension/module/google_hangouts.php
-source_file = src/upload/admin/language/en-gb/extension/module/google_hangouts.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_html]
-file_filter = src/upload/admin/language/<lang>/extension/module/html.php
-source_file = src/upload/admin/language/en-gb/extension/module/html.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_information]
-file_filter = src/upload/admin/language/<lang>/extension/module/information.php
-source_file = src/upload/admin/language/en-gb/extension/module/information.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_klarna_checkout_module]
-file_filter = src/upload/admin/language/<lang>/extension/module/klarna_checkout_module.php
-source_file = src/upload/admin/language/en-gb/extension/module/klarna_checkout_module.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_latest]
-file_filter = src/upload/admin/language/<lang>/extension/module/latest.php
-source_file = src/upload/admin/language/en-gb/extension/module/latest.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_laybuy_layout]
-file_filter = src/upload/admin/language/<lang>/extension/module/laybuy_layout.php
-source_file = src/upload/admin/language/en-gb/extension/module/laybuy_layout.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_pilibaba_button]
-file_filter = src/upload/admin/language/<lang>/extension/module/pilibaba_button.php
-source_file = src/upload/admin/language/en-gb/extension/module/pilibaba_button.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_pp_braintree_button]
-file_filter = src/upload/admin/language/<lang>/extension/module/pp_braintree_button.php
-source_file = src/upload/admin/language/en-gb/extension/module/pp_braintree_button.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_pp_button]
-file_filter = src/upload/admin/language/<lang>/extension/module/pp_button.php
-source_file = src/upload/admin/language/en-gb/extension/module/pp_button.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_pp_login]
-file_filter = src/upload/admin/language/<lang>/extension/module/pp_login.php
-source_file = src/upload/admin/language/en-gb/extension/module/pp_login.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_sagepay_direct_cards]
-file_filter = src/upload/admin/language/<lang>/extension/module/sagepay_direct_cards.php
-source_file = src/upload/admin/language/en-gb/extension/module/sagepay_direct_cards.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_sagepay_server_cards]
-file_filter = src/upload/admin/language/<lang>/extension/module/sagepay_server_cards.php
-source_file = src/upload/admin/language/en-gb/extension/module/sagepay_server_cards.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_slideshow]
-file_filter = src/upload/admin/language/<lang>/extension/module/slideshow.php
-source_file = src/upload/admin/language/en-gb/extension/module/slideshow.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_special]
-file_filter = src/upload/admin/language/<lang>/extension/module/special.php
-source_file = src/upload/admin/language/en-gb/extension/module/special.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_module_store]
-file_filter = src/upload/admin/language/<lang>/extension/module/store.php
-source_file = src/upload/admin/language/en-gb/extension/module/store.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_bulk_linking]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_bulk_linking.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_bulk_linking.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_bulk_listing]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_bulk_listing.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_bulk_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_links]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_links.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_links.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_listing]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_listing.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_listingsaved]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_listingsaved.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_listingsaved.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_settings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_settings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_settings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_stockupdates]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_stockupdates.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_stockupdates.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazon_subscription]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazon_subscription.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazon_subscription.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_bulk_linking]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_bulk_linking.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_bulk_linking.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_bulk_listing]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_bulk_listing.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_bulk_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_links]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_links.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_links.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_listing]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_listing.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_listingsaveds]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_listingsaved.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_listingsaved.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_settings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_settings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_settings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_stockupdates]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_stockupdates.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_stockupdates.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_amazonus_subscription]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/amazonus_subscription.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/amazonus_subscription.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_edit]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_edit.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_edit.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_import]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_import.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_import.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_links]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_links.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_links.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_new]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_new.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_new.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_newbulk]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_newbulk.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_newbulk.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_orders]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_orders.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_orders.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_profile]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_profile.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_profile.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_settings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_settings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_settings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_subscriptiont]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_subscription.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_subscription.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_summary]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_summary.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_summary.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_syncronise]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_syncronise.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_syncronise.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_template]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_template.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_template.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_ebay_usage]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/ebay_usage.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/ebay_usage.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy_createy]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy_create.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy_create.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy_edit]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy_edit.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy_edit.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy_links]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy_links.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy_links.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy_listings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy_listings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy_listings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_etsy_settings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/etsy_settings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/etsy_settings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_fba]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/fba.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/fba.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_fba_fulfillment]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/fba_fulfillment.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/fba_fulfillment.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_fba_fulfillment_list]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/fba_fulfillment_list.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/fba_fulfillment_list.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_fba_order]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/fba_order.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/fba_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_fba_settings]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/fba_settings.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/fba_settings.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_openbay_itemlist]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/openbay_itemlist.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/openbay_itemlist.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_openbay_menu]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/openbay_menu.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/openbay_menu.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_openbay_openbay_order]
-file_filter = src/upload/admin/language/<lang>/extension/openbay/openbay_order.php
-source_file = src/upload/admin/language/en-gb/extension/openbay/openbay_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_alipay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/alipay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/alipay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_alipay_cross]
-file_filter = src/upload/admin/language/<lang>/extension/payment/alipay_cross.php
-source_file = src/upload/admin/language/en-gb/extension/payment/alipay_cross.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_amazon_login_pay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/amazon_login_pay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/amazon_login_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_authorizenet_aim]
-file_filter = src/upload/admin/language/<lang>/extension/payment/authorizenet_aim.php
-source_file = src/upload/admin/language/en-gb/extension/payment/authorizenet_aim.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_authorizenet_sim]
-file_filter = src/upload/admin/language/<lang>/extension/payment/authorizenet_sim.php
-source_file = src/upload/admin/language/en-gb/extension/payment/authorizenet_sim.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_bank_transfer]
-file_filter = src/upload/admin/language/<lang>/extension/payment/bank_transfer.php
-source_file = src/upload/admin/language/en-gb/extension/payment/bank_transfer.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_bluepay_hosted]
-file_filter = src/upload/admin/language/<lang>/extension/payment/bluepay_hosted.php
-source_file = src/upload/admin/language/en-gb/extension/payment/bluepay_hosted.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_bluepay_redirect]
-file_filter = src/upload/admin/language/<lang>/extension/payment/bluepay_redirect.php
-source_file = src/upload/admin/language/en-gb/extension/payment/bluepay_redirect.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_cardconnect]
-file_filter = src/upload/admin/language/<lang>/extension/payment/cardconnect.php
-source_file = src/upload/admin/language/en-gb/extension/payment/cardconnect.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_cardinity]
-file_filter = src/upload/admin/language/<lang>/extension/payment/cardinity.php
-source_file = src/upload/admin/language/en-gb/extension/payment/cardinity.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_cheque]
-file_filter = src/upload/admin/language/<lang>/extension/payment/cheque.php
-source_file = src/upload/admin/language/en-gb/extension/payment/cheque.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_cod]
-file_filter = src/upload/admin/language/<lang>/extension/payment/cod.php
-source_file = src/upload/admin/language/en-gb/extension/payment/cod.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_divido]
-file_filter = src/upload/admin/language/<lang>/extension/payment/divido.php
-source_file = src/upload/admin/language/en-gb/extension/payment/divido.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_eway]
-file_filter = src/upload/admin/language/<lang>/extension/payment/eway.php
-source_file = src/upload/admin/language/en-gb/extension/payment/eway.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_firstdata]
-file_filter = src/upload/admin/language/<lang>/extension/payment/firstdata.php
-source_file = src/upload/admin/language/en-gb/extension/payment/firstdata.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_firstdata_remote]
-file_filter = src/upload/admin/language/<lang>/extension/payment/firstdata_remote.php
-source_file = src/upload/admin/language/en-gb/extension/payment/firstdata_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_free_checkout]
-file_filter = src/upload/admin/language/<lang>/extension/payment/free_checkout.php
-source_file = src/upload/admin/language/en-gb/extension/payment/free_checkout.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_g2apay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/g2apay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/g2apay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_globalpay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/globalpay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/globalpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_globalpay_remote]
-file_filter = src/upload/admin/language/<lang>/extension/payment/globalpay_remote.php
-source_file = src/upload/admin/language/en-gb/extension/payment/globalpay_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_klarna_account]
-file_filter = src/upload/admin/language/<lang>/extension/payment/klarna_account.php
-source_file = src/upload/admin/language/en-gb/extension/payment/klarna_account.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_klarna_checkout]
-file_filter = src/upload/admin/language/<lang>/extension/payment/klarna_checkout.php
-source_file = src/upload/admin/language/en-gb/extension/payment/klarna_checkout.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_klarna_invoice]
-file_filter = src/upload/admin/language/<lang>/extension/payment/klarna_invoice.php
-source_file = src/upload/admin/language/en-gb/extension/payment/klarna_invoice.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_laybuy]
-file_filter = src/upload/admin/language/<lang>/extension/payment/laybuy.php
-source_file = src/upload/admin/language/en-gb/extension/payment/laybuy.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_liqpay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/liqpay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/liqpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_nochex]
-file_filter = src/upload/admin/language/<lang>/extension/payment/nochex.php
-source_file = src/upload/admin/language/en-gb/extension/payment/nochex.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_paymate]
-file_filter = src/upload/admin/language/<lang>/extension/payment/paymate.php
-source_file = src/upload/admin/language/en-gb/extension/payment/paymate.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_paypoint]
-file_filter = src/upload/admin/language/<lang>/extension/payment/paypoint.php
-source_file = src/upload/admin/language/en-gb/extension/payment/paypoint.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_payza]
-file_filter = src/upload/admin/language/<lang>/extension/payment/payza.php
-source_file = src/upload/admin/language/en-gb/extension/payment/payza.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_perpetual_payments]
-file_filter = src/upload/admin/language/<lang>/extension/payment/perpetual_payments.php
-source_file = src/upload/admin/language/en-gb/extension/payment/perpetual_payments.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pilibaba]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pilibaba.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pilibaba.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_express]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_express.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_express.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_express_order]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_express_order.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_express_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_express_refund]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_express_refund.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_express_refund.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_express_search]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_express_search.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_express_search.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_express_view]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_express_view.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_express_view.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_payflow]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_payflow.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_payflow.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_payflow_iframe]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_payflow_iframe.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_payflow_iframe.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_pro]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_pro.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_pro.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_pro_iframe]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_pro_iframe.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_pro_iframe.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_pp_standard]
-file_filter = src/upload/admin/language/<lang>/extension/payment/pp_standard.php
-source_file = src/upload/admin/language/en-gb/extension/payment/pp_standard.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_realex]
-file_filter = src/upload/admin/language/<lang>/extension/payment/realex.php
-source_file = src/upload/admin/language/en-gb/extension/payment/realex.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_realex_remote]
-file_filter = src/upload/admin/language/<lang>/extension/payment/realex_remote.php
-source_file = src/upload/admin/language/en-gb/extension/payment/realex_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_sagepay_direct]
-file_filter = src/upload/admin/language/<lang>/extension/payment/sagepay_direct.php
-source_file = src/upload/admin/language/en-gb/extension/payment/sagepay_direct.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_sagepay_server]
-file_filter = src/upload/admin/language/<lang>/extension/payment/sagepay_server.php
-source_file = src/upload/admin/language/en-gb/extension/payment/sagepay_server.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_sagepay_us]
-file_filter = src/upload/admin/language/<lang>/extension/payment/sagepay_us.php
-source_file = src/upload/admin/language/en-gb/extension/payment/sagepay_us.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_securetrading_pp]
-file_filter = src/upload/admin/language/<lang>/extension/payment/securetrading_pp.php
-source_file = src/upload/admin/language/en-gb/extension/payment/securetrading_pp.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_securetrading_ws]
-file_filter = src/upload/admin/language/<lang>/extension/payment/securetrading_ws.php
-source_file = src/upload/admin/language/en-gb/extension/payment/securetrading_ws.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_skrill]
-file_filter = src/upload/admin/language/<lang>/extension/payment/skrill.php
-source_file = src/upload/admin/language/en-gb/extension/payment/skrill.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_twocheckout]
-file_filter = src/upload/admin/language/<lang>/extension/payment/twocheckout.php
-source_file = src/upload/admin/language/en-gb/extension/payment/twocheckout.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_web_payment_software]
-file_filter = src/upload/admin/language/<lang>/extension/payment/web_payment_software.php
-source_file = src/upload/admin/language/en-gb/extension/payment/web_payment_software.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_wechat_pay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/wechat_pay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/wechat_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_payment_worldpay]
-file_filter = src/upload/admin/language/<lang>/extension/payment/worldpay.php
-source_file = src/upload/admin/language/en-gb/extension/payment/worldpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_customer_activity]
-file_filter = src/upload/admin/language/<lang>/extension/report/customer_activity.php
-source_file = src/upload/admin/language/en-gb/extension/report/customer_activity.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_customer_order]
-file_filter = src/upload/admin/language/<lang>/extension/report/customer_order.php
-source_file = src/upload/admin/language/en-gb/extension/report/customer_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_customer_reward]
-file_filter = src/upload/admin/language/<lang>/extension/report/customer_reward.php
-source_file = src/upload/admin/language/en-gb/extension/report/customer_reward.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_customer_search]
-file_filter = src/upload/admin/language/<lang>/extension/report/customer_search.php
-source_file = src/upload/admin/language/en-gb/extension/report/customer_search.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_customer_transaction]
-file_filter = src/upload/admin/language/<lang>/extension/report/customer_transaction.php
-source_file = src/upload/admin/language/en-gb/extension/report/customer_transaction.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_marketing]
-file_filter = src/upload/admin/language/<lang>/extension/report/marketing.php
-source_file = src/upload/admin/language/en-gb/extension/report/marketing.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_product_purchased]
-file_filter = src/upload/admin/language/<lang>/extension/report/product_purchased.php
-source_file = src/upload/admin/language/en-gb/extension/report/product_purchased.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_product_viewed]
-file_filter = src/upload/admin/language/<lang>/extension/report/product_viewed.php
-source_file = src/upload/admin/language/en-gb/extension/report/product_viewed.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_sale_coupon]
-file_filter = src/upload/admin/language/<lang>/extension/report/sale_coupon.php
-source_file = src/upload/admin/language/en-gb/extension/report/sale_coupon.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_sale_order]
-file_filter = src/upload/admin/language/<lang>/extension/report/sale_order.php
-source_file = src/upload/admin/language/en-gb/extension/report/sale_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_sale_return]
-file_filter = src/upload/admin/language/<lang>/extension/report/sale_return.php
-source_file = src/upload/admin/language/en-gb/extension/report/sale_return.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_sale_shipping]
-file_filter = src/upload/admin/language/<lang>/extension/report/sale_shipping.php
-source_file = src/upload/admin/language/en-gb/extension/report/sale_shipping.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_report_sale_tax]
-file_filter = src/upload/admin/language/<lang>/extension/report/sale_tax.php
-source_file = src/upload/admin/language/en-gb/extension/report/sale_tax.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_auspost]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/auspost.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/auspost.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_citylink]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/citylink.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/citylink.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_ec_ship]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/ec_ship.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/ec_ship.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_fedex]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/fedex.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/fedex.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_flat]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/flat.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/flat.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_free]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/free.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/free.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_item]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/item.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/item.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_parcelforce_48]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/parcelforce_48.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/parcelforce_48.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_pickup]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/pickup.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/pickup.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_royal_mail]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/royal_mail.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/royal_mail.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_ups]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/ups.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/ups.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_usps]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/usps.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/usps.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_shipping_weight]
-file_filter = src/upload/admin/language/<lang>/extension/shipping/weight.php
-source_file = src/upload/admin/language/en-gb/extension/shipping/weight.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_theme_default]
-file_filter = src/upload/admin/language/<lang>/extension/theme/default.php
-source_file = src/upload/admin/language/en-gb/extension/theme/default.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_coupon]
-file_filter = src/upload/admin/language/<lang>/extension/total/coupon.php
-source_file = src/upload/admin/language/en-gb/extension/total/coupon.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_credit]
-file_filter = src/upload/admin/language/<lang>/extension/total/credit.php
-source_file = src/upload/admin/language/en-gb/extension/total/credit.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_handling]
-file_filter = src/upload/admin/language/<lang>/extension/total/handling.php
-source_file = src/upload/admin/language/en-gb/extension/total/handling.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_klarna_fee]
-file_filter = src/upload/admin/language/<lang>/extension/total/klarna_fee.php
-source_file = src/upload/admin/language/en-gb/extension/total/klarna_fee.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_low_order_fee]
-file_filter = src/upload/admin/language/<lang>/extension/total/low_order_fee.php
-source_file = src/upload/admin/language/en-gb/extension/total/low_order_fee.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_reward]
-file_filter = src/upload/admin/language/<lang>/extension/total/reward.php
-source_file = src/upload/admin/language/en-gb/extension/total/reward.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_shipping]
-file_filter = src/upload/admin/language/<lang>/extension/total/shipping.php
-source_file = src/upload/admin/language/en-gb/extension/total/shipping.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_sub_total]
-file_filter = src/upload/admin/language/<lang>/extension/total/sub_total.php
-source_file = src/upload/admin/language/en-gb/extension/total/sub_total.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_tax]
-file_filter = src/upload/admin/language/<lang>/extension/total/tax.php
-source_file = src/upload/admin/language/en-gb/extension/total/tax.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_total]
-file_filter = src/upload/admin/language/<lang>/extension/total/total.php
-source_file = src/upload/admin/language/en-gb/extension/total/total.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_extension_total_voucher]
-file_filter = src/upload/admin/language/<lang>/extension/total/voucher.php
-source_file = src/upload/admin/language/en-gb/extension/total/voucher.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_localisation_country]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_country]
 file_filter = src/upload/admin/language/<lang>/localisation/country.php
 source_file = src/upload/admin/language/en-gb/localisation/country.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_currency]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_currency]
 file_filter = src/upload/admin/language/<lang>/localisation/currency.php
 source_file = src/upload/admin/language/en-gb/localisation/currency.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_geo_zone]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_geo_zone]
 file_filter = src/upload/admin/language/<lang>/localisation/geo_zone.php
 source_file = src/upload/admin/language/en-gb/localisation/geo_zone.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_language]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_language]
 file_filter = src/upload/admin/language/<lang>/localisation/language.php
 source_file = src/upload/admin/language/en-gb/localisation/language.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_length_class]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_length_class]
 file_filter = src/upload/admin/language/<lang>/localisation/length_class.php
 source_file = src/upload/admin/language/en-gb/localisation/length_class.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_location]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_location]
 file_filter = src/upload/admin/language/<lang>/localisation/location.php
 source_file = src/upload/admin/language/en-gb/localisation/location.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_order_status]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_order_status]
 file_filter = src/upload/admin/language/<lang>/localisation/order_status.php
 source_file = src/upload/admin/language/en-gb/localisation/order_status.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_return_action]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_return_action]
 file_filter = src/upload/admin/language/<lang>/localisation/return_action.php
 source_file = src/upload/admin/language/en-gb/localisation/return_action.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_return_reason]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_return_reason]
 file_filter = src/upload/admin/language/<lang>/localisation/return_reason.php
 source_file = src/upload/admin/language/en-gb/localisation/return_reason.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_return_status]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_return_status]
 file_filter = src/upload/admin/language/<lang>/localisation/return_status.php
 source_file = src/upload/admin/language/en-gb/localisation/return_status.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_stock_status]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_stock_status]
 file_filter = src/upload/admin/language/<lang>/localisation/stock_status.php
 source_file = src/upload/admin/language/en-gb/localisation/stock_status.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_tax_class]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_tax_class]
 file_filter = src/upload/admin/language/<lang>/localisation/tax_class.php
 source_file = src/upload/admin/language/en-gb/localisation/tax_class.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_tax_rate]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_tax_rate]
 file_filter = src/upload/admin/language/<lang>/localisation/tax_rate.php
 source_file = src/upload/admin/language/en-gb/localisation/tax_rate.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_weight_class]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_weight_class]
 file_filter = src/upload/admin/language/<lang>/localisation/weight_class.php
 source_file = src/upload/admin/language/en-gb/localisation/weight_class.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_localisation_zone]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_localisation_zone]
 file_filter = src/upload/admin/language/<lang>/localisation/zone.php
 source_file = src/upload/admin/language/en-gb/localisation/zone.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_affiliate_approve]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_affiliate_approve]
 file_filter = src/upload/admin/language/<lang>/mail/affiliate_approve.php
 source_file = src/upload/admin/language/en-gb/mail/affiliate_approve.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_affiliate_deny]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_affiliate_deny]
 file_filter = src/upload/admin/language/<lang>/mail/affiliate_deny.php
 source_file = src/upload/admin/language/en-gb/mail/affiliate_deny.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_customer_approve]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_customer_approve]
 file_filter = src/upload/admin/language/<lang>/mail/customer_approve.php
 source_file = src/upload/admin/language/en-gb/mail/customer_approve.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_customer_deny]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_customer_deny]
 file_filter = src/upload/admin/language/<lang>/mail/customer_deny.php
 source_file = src/upload/admin/language/en-gb/mail/customer_deny.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_forgotten]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_forgotten]
 file_filter = src/upload/admin/language/<lang>/mail/forgotten.php
 source_file = src/upload/admin/language/en-gb/mail/forgotten.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_return]
-file_filter = src/upload/admin/language/<lang>/mail/return.php
-source_file = src/upload/admin/language/en-gb/mail/return.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_gdpr_approve]
+file_filter = src/upload/admin/language/<lang>/mail/gdpr_approve.php
+source_file = src/upload/admin/language/en-gb/mail/gdpr_approve.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_reward]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_gdpr_delete]
+file_filter = src/upload/admin/language/<lang>/mail/gdpr_delete.php
+source_file = src/upload/admin/language/en-gb/mail/gdpr_delete.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_gdpr_deny]
+file_filter = src/upload/admin/language/<lang>/mail/gdpr_deny.php
+source_file = src/upload/admin/language/en-gb/mail/gdpr_deny.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_gdpr_export]
+file_filter = src/upload/admin/language/<lang>/mail/gdpr_export.php
+source_file = src/upload/admin/language/en-gb/mail/gdpr_export.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_returns]
+file_filter = src/upload/admin/language/<lang>/mail/returns.php
+source_file = src/upload/admin/language/en-gb/mail/returns.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_reward]
 file_filter = src/upload/admin/language/<lang>/mail/reward.php
 source_file = src/upload/admin/language/en-gb/mail/reward.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_mail_voucher]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_transaction]
+file_filter = src/upload/admin/language/<lang>/mail/transaction.php
+source_file = src/upload/admin/language/en-gb/mail/transaction.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_mail_voucher]
 file_filter = src/upload/admin/language/<lang>/mail/voucher.php
 source_file = src/upload/admin/language/en-gb/mail/voucher.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketing_contact]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketing_affiliate]
+file_filter = src/upload/admin/language/<lang>/marketing/affiliate.php
+source_file = src/upload/admin/language/en-gb/marketing/affiliate.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketing_contact]
 file_filter = src/upload/admin/language/<lang>/marketing/contact.php
 source_file = src/upload/admin/language/en-gb/marketing/contact.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketing_coupon]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketing_coupon]
 file_filter = src/upload/admin/language/<lang>/marketing/coupon.php
 source_file = src/upload/admin/language/en-gb/marketing/coupon.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketing_marketing]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketing_marketing]
 file_filter = src/upload/admin/language/<lang>/marketing/marketing.php
 source_file = src/upload/admin/language/en-gb/marketing/marketing.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_api]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_api]
 file_filter = src/upload/admin/language/<lang>/marketplace/api.php
 source_file = src/upload/admin/language/en-gb/marketplace/api.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_event]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_cron]
+file_filter = src/upload/admin/language/<lang>/marketplace/cron.php
+source_file = src/upload/admin/language/en-gb/marketplace/cron.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_event]
 file_filter = src/upload/admin/language/<lang>/marketplace/event.php
 source_file = src/upload/admin/language/en-gb/marketplace/event.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_extension]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_extension]
 file_filter = src/upload/admin/language/<lang>/marketplace/extension.php
 source_file = src/upload/admin/language/en-gb/marketplace/extension.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_install]
-file_filter = src/upload/admin/language/<lang>/marketplace/install.php
-source_file = src/upload/admin/language/en-gb/marketplace/install.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_marketplace_installer]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_installer]
 file_filter = src/upload/admin/language/<lang>/marketplace/installer.php
 source_file = src/upload/admin/language/en-gb/marketplace/installer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_marketplace]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_marketplace]
 file_filter = src/upload/admin/language/<lang>/marketplace/marketplace.php
 source_file = src/upload/admin/language/en-gb/marketplace/marketplace.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_modification]
-file_filter = src/upload/admin/language/<lang>/marketplace/modification.php
-source_file = src/upload/admin/language/en-gb/marketplace/modification.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_promotion]
+file_filter = src/upload/admin/language/<lang>/marketplace/promotion.php
+source_file = src/upload/admin/language/en-gb/marketplace/promotion.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_marketplace_openbay]
-file_filter = src/upload/admin/language/<lang>/marketplace/openbay.php
-source_file = src/upload/admin/language/en-gb/marketplace/openbay.php
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_marketplace_startup]
+file_filter = src/upload/admin/language/<lang>/marketplace/startup.php
+source_file = src/upload/admin/language/en-gb/marketplace/startup.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.admin_report_online]
-file_filter = src/upload/admin/language/<lang>/report/online.php
-source_file = src/upload/admin/language/en-gb/report/online.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_report_report]
-file_filter = src/upload/admin/language/<lang>/report/report.php
-source_file = src/upload/admin/language/en-gb/report/report.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_report_statistics]
-file_filter = src/upload/admin/language/<lang>/report/statistics.php
-source_file = src/upload/admin/language/en-gb/report/statistics.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_sale_order]
-file_filter = src/upload/admin/language/<lang>/sale/order.php
-source_file = src/upload/admin/language/en-gb/sale/order.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_sale_recurring]
-file_filter = src/upload/admin/language/<lang>/sale/recurring.php
-source_file = src/upload/admin/language/en-gb/sale/recurring.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_sale_return]
-file_filter = src/upload/admin/language/<lang>/sale/return.php
-source_file = src/upload/admin/language/en-gb/sale/return.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_sale_voucher]
-file_filter = src/upload/admin/language/<lang>/sale/voucher.php
-source_file = src/upload/admin/language/en-gb/sale/voucher.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_sale_voucher_theme]
-file_filter = src/upload/admin/language/<lang>/sale/voucher_theme.php
-source_file = src/upload/admin/language/en-gb/sale/voucher_theme.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_setting_setting]
-file_filter = src/upload/admin/language/<lang>/setting/setting.php
-source_file = src/upload/admin/language/en-gb/setting/setting.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_setting_store]
-file_filter = src/upload/admin/language/<lang>/setting/store.php
-source_file = src/upload/admin/language/en-gb/setting/store.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_tool_backup]
-file_filter = src/upload/admin/language/<lang>/tool/backup.php
-source_file = src/upload/admin/language/en-gb/tool/backup.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_tool_log]
-file_filter = src/upload/admin/language/<lang>/tool/log.php
-source_file = src/upload/admin/language/en-gb/tool/log.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_tool_upload]
-file_filter = src/upload/admin/language/<lang>/tool/upload.php
-source_file = src/upload/admin/language/en-gb/tool/upload.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_user_api]
-file_filter = src/upload/admin/language/<lang>/user/api.php
-source_file = src/upload/admin/language/en-gb/user/api.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_user_user]
-file_filter = src/upload/admin/language/<lang>/user/user.php
-source_file = src/upload/admin/language/en-gb/user/user.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_user_user_group]
-file_filter = src/upload/admin/language/<lang>/user/user_group.php
-source_file = src/upload/admin/language/en-gb/user/user_group.php
-source_lang = en
-
-[opencart_language_pl_3_0.admin_master]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_master]
 file_filter = src/upload/admin/language/<lang>/<lang>.php
 source_file = src/upload/admin/language/en-gb/en-gb.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_account]
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_report_online]
+file_filter = src/upload/admin/language/<lang>/report/online.php
+source_file = src/upload/admin/language/en-gb/report/online.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_report_report]
+file_filter = src/upload/admin/language/<lang>/report/report.php
+source_file = src/upload/admin/language/en-gb/report/report.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_report_statistics]
+file_filter = src/upload/admin/language/<lang>/report/statistics.php
+source_file = src/upload/admin/language/en-gb/report/statistics.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_sale_order]
+file_filter = src/upload/admin/language/<lang>/sale/order.php
+source_file = src/upload/admin/language/en-gb/sale/order.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_sale_return]
+file_filter = src/upload/admin/language/<lang>/sale/return.php
+source_file = src/upload/admin/language/en-gb/sale/return.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_sale_subscription]
+file_filter = src/upload/admin/language/<lang>/sale/subscription.php
+source_file = src/upload/admin/language/en-gb/sale/subscription.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_sale_voucher]
+file_filter = src/upload/admin/language/<lang>/sale/voucher.php
+source_file = src/upload/admin/language/en-gb/sale/voucher.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_sale_voucher_theme]
+file_filter = src/upload/admin/language/<lang>/sale/voucher_theme.php
+source_file = src/upload/admin/language/en-gb/sale/voucher_theme.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_setting_setting]
+file_filter = src/upload/admin/language/<lang>/setting/setting.php
+source_file = src/upload/admin/language/en-gb/setting/setting.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_setting_store]
+file_filter = src/upload/admin/language/<lang>/setting/store.php
+source_file = src/upload/admin/language/en-gb/setting/store.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_tool_backup]
+file_filter = src/upload/admin/language/<lang>/tool/backup.php
+source_file = src/upload/admin/language/en-gb/tool/backup.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_tool_log]
+file_filter = src/upload/admin/language/<lang>/tool/log.php
+source_file = src/upload/admin/language/en-gb/tool/log.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_tool_notification]
+file_filter = src/upload/admin/language/<lang>/tool/notification.php
+source_file = src/upload/admin/language/en-gb/tool/notification.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_tool_upgrade]
+file_filter = src/upload/admin/language/<lang>/tool/upgrade.php
+source_file = src/upload/admin/language/en-gb/tool/upgrade.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_tool_upload]
+file_filter = src/upload/admin/language/<lang>/tool/upload.php
+source_file = src/upload/admin/language/en-gb/tool/upload.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_user_api]
+file_filter = src/upload/admin/language/<lang>/user/api.php
+source_file = src/upload/admin/language/en-gb/user/api.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_user_profile]
+file_filter = src/upload/admin/language/<lang>/user/profile.php
+source_file = src/upload/admin/language/en-gb/user/profile.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_user_user]
+file_filter = src/upload/admin/language/<lang>/user/user.php
+source_file = src/upload/admin/language/en-gb/user/user.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:admin_user_user_group]
+file_filter = src/upload/admin/language/<lang>/user/user_group.php
+source_file = src/upload/admin/language/en-gb/user/user_group.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_account]
 file_filter = src/upload/catalog/language/<lang>/account/account.php
 source_file = src/upload/catalog/language/en-gb/account/account.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_address]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_address]
 file_filter = src/upload/catalog/language/<lang>/account/address.php
 source_file = src/upload/catalog/language/en-gb/account/address.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_affiliate]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_affiliate]
 file_filter = src/upload/catalog/language/<lang>/account/affiliate.php
 source_file = src/upload/catalog/language/en-gb/account/affiliate.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_download]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_download]
 file_filter = src/upload/catalog/language/<lang>/account/download.php
 source_file = src/upload/catalog/language/en-gb/account/download.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_edit]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_edit]
 file_filter = src/upload/catalog/language/<lang>/account/edit.php
 source_file = src/upload/catalog/language/en-gb/account/edit.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_forgotten]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_forgotten]
 file_filter = src/upload/catalog/language/<lang>/account/forgotten.php
 source_file = src/upload/catalog/language/en-gb/account/forgotten.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_login]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_login]
 file_filter = src/upload/catalog/language/<lang>/account/login.php
 source_file = src/upload/catalog/language/en-gb/account/login.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_logout]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_logout]
 file_filter = src/upload/catalog/language/<lang>/account/logout.php
 source_file = src/upload/catalog/language/en-gb/account/logout.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_newsletter]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_newsletter]
 file_filter = src/upload/catalog/language/<lang>/account/newsletter.php
 source_file = src/upload/catalog/language/en-gb/account/newsletter.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_order]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_order]
 file_filter = src/upload/catalog/language/<lang>/account/order.php
 source_file = src/upload/catalog/language/en-gb/account/order.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_password]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_password]
 file_filter = src/upload/catalog/language/<lang>/account/password.php
 source_file = src/upload/catalog/language/en-gb/account/password.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_recurring]
-file_filter = src/upload/catalog/language/<lang>/account/recurring.php
-source_file = src/upload/catalog/language/en-gb/account/recurring.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_payment_method]
+file_filter = src/upload/catalog/language/<lang>/account/payment_method.php
+source_file = src/upload/catalog/language/en-gb/account/payment_method.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_register]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_register]
 file_filter = src/upload/catalog/language/<lang>/account/register.php
 source_file = src/upload/catalog/language/en-gb/account/register.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_reset]
-file_filter = src/upload/catalog/language/<lang>/account/reset.php
-source_file = src/upload/catalog/language/en-gb/account/reset.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_account_return]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_return]
 file_filter = src/upload/catalog/language/<lang>/account/return.php
 source_file = src/upload/catalog/language/en-gb/account/return.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_reward]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_reward]
 file_filter = src/upload/catalog/language/<lang>/account/reward.php
 source_file = src/upload/catalog/language/en-gb/account/reward.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_success]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_subscription]
+file_filter = src/upload/catalog/language/<lang>/account/subscription.php
+source_file = src/upload/catalog/language/en-gb/account/subscription.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_success]
 file_filter = src/upload/catalog/language/<lang>/account/success.php
 source_file = src/upload/catalog/language/en-gb/account/success.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_tracking]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_tracking]
 file_filter = src/upload/catalog/language/<lang>/account/tracking.php
 source_file = src/upload/catalog/language/en-gb/account/tracking.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_transaction]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_transaction]
 file_filter = src/upload/catalog/language/<lang>/account/transaction.php
 source_file = src/upload/catalog/language/en-gb/account/transaction.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_account_voucher]
-file_filter = src/upload/catalog/language/<lang>/account/voucher.php
-source_file = src/upload/catalog/language/en-gb/account/voucher.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_account_wishlist]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_account_wishlist]
 file_filter = src/upload/catalog/language/<lang>/account/wishlist.php
 source_file = src/upload/catalog/language/en-gb/account/wishlist.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_affiliate_login]
-file_filter = src/upload/catalog/language/<lang>/affiliate/login.php
-source_file = src/upload/catalog/language/en-gb/affiliate/login.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_account_login]
+file_filter = src/upload/catalog/language/<lang>/api/account/login.php
+source_file = src/upload/catalog/language/en-gb/api/account/login.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_affiliate_register]
-file_filter = src/upload/catalog/language/<lang>/affiliate/register.php
-source_file = src/upload/catalog/language/en-gb/affiliate/register.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_localisation_currency]
+file_filter = src/upload/catalog/language/<lang>/api/localisation/currency.php
+source_file = src/upload/catalog/language/en-gb/api/localisation/currency.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_affiliate_success]
-file_filter = src/upload/catalog/language/<lang>/affiliate/success.php
-source_file = src/upload/catalog/language/en-gb/affiliate/success.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_localisation_language]
+file_filter = src/upload/catalog/language/<lang>/api/localisation/language.php
+source_file = src/upload/catalog/language/en-gb/api/localisation/language.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_cart]
-file_filter = src/upload/catalog/language/<lang>/api/cart.php
-source_file = src/upload/catalog/language/en-gb/api/cart.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_localisation_store]
+file_filter = src/upload/catalog/language/<lang>/api/localisation/store.php
+source_file = src/upload/catalog/language/en-gb/api/localisation/store.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_coupon]
-file_filter = src/upload/catalog/language/<lang>/api/coupon.php
-source_file = src/upload/catalog/language/en-gb/api/coupon.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_cart]
+file_filter = src/upload/catalog/language/<lang>/api/sale/affiliate.php
+source_file = src/upload/catalog/language/en-gb/api/sale/affiliate.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_currency]
-file_filter = src/upload/catalog/language/<lang>/api/currency.php
-source_file = src/upload/catalog/language/en-gb/api/currency.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_cart]
+file_filter = src/upload/catalog/language/<lang>/api/sale/cart.php
+source_file = src/upload/catalog/language/en-gb/api/sale/cart.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_customer]
-file_filter = src/upload/catalog/language/<lang>/api/customer.php
-source_file = src/upload/catalog/language/en-gb/api/customer.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_coupon]
+file_filter = src/upload/catalog/language/<lang>/api/sale/coupon.php
+source_file = src/upload/catalog/language/en-gb/api/sale/coupon.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_login]
-file_filter = src/upload/catalog/language/<lang>/api/login.php
-source_file = src/upload/catalog/language/en-gb/api/login.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_customer]
+file_filter = src/upload/catalog/language/<lang>/api/sale/customer.php
+source_file = src/upload/catalog/language/en-gb/api/sale/customer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_order]
-file_filter = src/upload/catalog/language/<lang>/api/order.php
-source_file = src/upload/catalog/language/en-gb/api/order.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_order]
+file_filter = src/upload/catalog/language/<lang>/api/sale/order.php
+source_file = src/upload/catalog/language/en-gb/api/sale/order.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_payment]
-file_filter = src/upload/catalog/language/<lang>/api/payment.php
-source_file = src/upload/catalog/language/en-gb/api/payment.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_payment_address]
+file_filter = src/upload/catalog/language/<lang>/api/sale/payment_address.php
+source_file = src/upload/catalog/language/en-gb/api/sale/payment_address.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_reward]
-file_filter = src/upload/catalog/language/<lang>/api/reward.php
-source_file = src/upload/catalog/language/en-gb/api/reward.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_payment_method]
+file_filter = src/upload/catalog/language/<lang>/api/sale/payment_method.php
+source_file = src/upload/catalog/language/en-gb/api/sale/payment_method.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_shipping]
-file_filter = src/upload/catalog/language/<lang>/api/shipping.php
-source_file = src/upload/catalog/language/en-gb/api/shipping.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_reward]
+file_filter = src/upload/catalog/language/<lang>/api/sale/reward.php
+source_file = src/upload/catalog/language/en-gb/api/sale/reward.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_api_voucher]
-file_filter = src/upload/catalog/language/<lang>/api/voucher.php
-source_file = src/upload/catalog/language/en-gb/api/voucher.php
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_shipping_address]
+file_filter = src/upload/catalog/language/<lang>/api/sale/shipping_address.php
+source_file = src/upload/catalog/language/en-gb/api/sale/shipping_address.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_checkout_cart]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_shipping_method]
+file_filter = src/upload/catalog/language/<lang>/api/sale/shipping_method.php
+source_file = src/upload/catalog/language/en-gb/api/sale/shipping_method.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_api_sale_voucher]
+file_filter = src/upload/catalog/language/<lang>/api/sale/voucher.php
+source_file = src/upload/catalog/language/en-gb/api/sale/voucher.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_cart]
 file_filter = src/upload/catalog/language/<lang>/checkout/cart.php
 source_file = src/upload/catalog/language/en-gb/checkout/cart.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_checkout_checkout]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_checkout]
 file_filter = src/upload/catalog/language/<lang>/checkout/checkout.php
 source_file = src/upload/catalog/language/en-gb/checkout/checkout.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_checkout_failure]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_confirm]
+file_filter = src/upload/catalog/language/<lang>/checkout/confirm.php
+source_file = src/upload/catalog/language/en-gb/checkout/confirm.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_failure]
 file_filter = src/upload/catalog/language/<lang>/checkout/failure.php
 source_file = src/upload/catalog/language/en-gb/checkout/failure.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_checkout_success]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_payment_address]
+file_filter = src/upload/catalog/language/<lang>/checkout/payment_address.php
+source_file = src/upload/catalog/language/en-gb/checkout/payment_address.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_payment_method]
+file_filter = src/upload/catalog/language/<lang>/checkout/payment_method.php
+source_file = src/upload/catalog/language/en-gb/checkout/payment_method.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_register]
+file_filter = src/upload/catalog/language/<lang>/checkout/register.php
+source_file = src/upload/catalog/language/en-gb/checkout/register.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_shipping_address]
+file_filter = src/upload/catalog/language/<lang>/checkout/shipping_address.php
+source_file = src/upload/catalog/language/en-gb/checkout/shipping_address.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_shipping_method]
+file_filter = src/upload/catalog/language/<lang>/checkout/shipping_method.php
+source_file = src/upload/catalog/language/en-gb/checkout/shipping_method.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_success]
 file_filter = src/upload/catalog/language/<lang>/checkout/success.php
 source_file = src/upload/catalog/language/en-gb/checkout/success.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_cart]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_checkout_voucher]
+file_filter = src/upload/catalog/language/<lang>/checkout/voucher.php
+source_file = src/upload/catalog/language/en-gb/checkout/voucher.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_cart]
 file_filter = src/upload/catalog/language/<lang>/common/cart.php
 source_file = src/upload/catalog/language/en-gb/common/cart.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_currency]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_cookie]
+file_filter = src/upload/catalog/language/<lang>/common/cookie.php
+source_file = src/upload/catalog/language/en-gb/common/cookie.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_currency]
 file_filter = src/upload/catalog/language/<lang>/common/currency.php
 source_file = src/upload/catalog/language/en-gb/common/currency.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_footer]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_footer]
 file_filter = src/upload/catalog/language/<lang>/common/footer.php
 source_file = src/upload/catalog/language/en-gb/common/footer.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_header]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_header]
 file_filter = src/upload/catalog/language/<lang>/common/header.php
 source_file = src/upload/catalog/language/en-gb/common/header.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_language]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_language]
 file_filter = src/upload/catalog/language/<lang>/common/language.php
 source_file = src/upload/catalog/language/en-gb/common/language.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_maintenance]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_maintenance]
 file_filter = src/upload/catalog/language/<lang>/common/maintenance.php
 source_file = src/upload/catalog/language/en-gb/common/maintenance.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_menu]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_menu]
 file_filter = src/upload/catalog/language/<lang>/common/menu.php
 source_file = src/upload/catalog/language/en-gb/common/menu.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_common_search]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_common_search]
 file_filter = src/upload/catalog/language/<lang>/common/search.php
 source_file = src/upload/catalog/language/en-gb/common/search.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_error_not_found]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_error_not_found]
 file_filter = src/upload/catalog/language/<lang>/error/not_found.php
 source_file = src/upload/catalog/language/en-gb/error/not_found.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_extension_captcha_basic]
-file_filter = src/upload/catalog/language/<lang>/extension/captcha/basic.php
-source_file = src/upload/catalog/language/en-gb/extension/captcha/basic.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_captcha_google]
-file_filter = src/upload/catalog/language/<lang>/extension/captcha/google.php
-source_file = src/upload/catalog/language/en-gb/extension/captcha/google.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_credit_card_sagepay_direct]
-file_filter = src/upload/catalog/language/<lang>/extension/credit_card/sagepay_direct.php
-source_file = src/upload/catalog/language/en-gb/extension/credit_card/sagepay_direct.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_credit_card_sagepay_server]
-file_filter = src/upload/catalog/language/<lang>/extension/credit_card/sagepay_server.php
-source_file = src/upload/catalog/language/en-gb/extension/credit_card/sagepay_server.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_credit_card_squareup]
-file_filter = src/upload/catalog/language/<lang>/extension/credit_card/squareup.php
-source_file = src/upload/catalog/language/en-gb/extension/credit_card/squareup.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_account]
-file_filter = src/upload/catalog/language/<lang>/extension/module/account.php
-source_file = src/upload/catalog/language/en-gb/extension/module/account.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_amazon_login]
-file_filter = src/upload/catalog/language/<lang>/extension/module/amazon_login.php
-source_file = src/upload/catalog/language/en-gb/extension/module/amazon_login.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_amazon_pay]
-file_filter = src/upload/catalog/language/<lang>/extension/module/amazon_pay.php
-source_file = src/upload/catalog/language/en-gb/extension/module/amazon_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_bestseller]
-file_filter = src/upload/catalog/language/<lang>/extension/module/bestseller.php
-source_file = src/upload/catalog/language/en-gb/extension/module/bestseller.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_category]
-file_filter = src/upload/catalog/language/<lang>/extension/module/category.php
-source_file = src/upload/catalog/language/en-gb/extension/module/category.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_divido_calculator]
-file_filter = src/upload/catalog/language/<lang>/extension/module/divido_calculator.php
-source_file = src/upload/catalog/language/en-gb/extension/module/divido_calculator.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_ebay_listing]
-file_filter = src/upload/catalog/language/<lang>/extension/module/ebay_listing.php
-source_file = src/upload/catalog/language/en-gb/extension/module/ebay_listing.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_featured]
-file_filter = src/upload/catalog/language/<lang>/extension/module/featured.php
-source_file = src/upload/catalog/language/en-gb/extension/module/featured.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_filter]
-file_filter = src/upload/catalog/language/<lang>/extension/module/filter.php
-source_file = src/upload/catalog/language/en-gb/extension/module/filter.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_google_hangouts]
-file_filter = src/upload/catalog/language/<lang>/extension/module/google_hangouts.php
-source_file = src/upload/catalog/language/en-gb/extension/module/google_hangouts.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_information]
-file_filter = src/upload/catalog/language/<lang>/extension/module/information.php
-source_file = src/upload/catalog/language/en-gb/extension/module/information.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_latest]
-file_filter = src/upload/catalog/language/<lang>/extension/module/latest.php
-source_file = src/upload/catalog/language/en-gb/extension/module/latest.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_laybuy_layout]
-file_filter = src/upload/catalog/language/<lang>/extension/module/laybuy_layout.php
-source_file = src/upload/catalog/language/en-gb/extension/module/laybuy_layout.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_special]
-file_filter = src/upload/catalog/language/<lang>/extension/module/special.php
-source_file = src/upload/catalog/language/en-gb/extension/module/special.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_module_store]
-file_filter = src/upload/catalog/language/<lang>/extension/module/store.php
-source_file = src/upload/catalog/language/en-gb/extension/module/store.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_openbay_amazon_order]
-file_filter = src/upload/catalog/language/<lang>/extension/openbay/amazon_order.php
-source_file = src/upload/catalog/language/en-gb/extension/openbay/amazon_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_openbay_amazonus_order]
-file_filter = src/upload/catalog/language/<lang>/extension/openbay/amazonus_order.php
-source_file = src/upload/catalog/language/en-gb/extension/openbay/amazonus_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_openbay_ebay_order]
-file_filter = src/upload/catalog/language/<lang>/extension/openbay/ebay_order.php
-source_file = src/upload/catalog/language/en-gb/extension/openbay/ebay_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_openbay_etsy_order]
-file_filter = src/upload/catalog/language/<lang>/extension/openbay/etsy_order.php
-source_file = src/upload/catalog/language/en-gb/extension/openbay/etsy_order.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_alipay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/alipay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/alipay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_alipay_cross]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/alipay_cross.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/alipay_cross.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_amazon_login_pay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/amazon_login_pay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/amazon_login_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_authorizenet_aim]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/authorizenet_aim.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/authorizenet_aim.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_authorizenet_sim]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/authorizenet_sim.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/authorizenet_sim.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_bank_transfer]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/bank_transfer.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/bank_transfer.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_bluepay_hosted]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/bluepay_hosted.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/bluepay_hosted.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_bluepay_redirect]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/bluepay_redirect.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/bluepay_redirect.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_cardconnect]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/cardconnect.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/cardconnect.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_cardinity]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/cardinity.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/cardinity.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_cheque]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/cheque.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/cheque.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_cod]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/cod.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/cod.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_divido]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/divido.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/divido.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_eway]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/eway.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/eway.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_firstdata]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/firstdata.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/firstdata.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_firstdata_remote]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/firstdata_remote.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/firstdata_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_free_checkout]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/free_checkout.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/free_checkout.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_g2apay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/g2apay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/g2apay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_globalpay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/globalpay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/globalpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_globalpay_remote]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/globalpay_remote.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/globalpay_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_klarna_account]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/klarna_account.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/klarna_account.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_klarna_checkout]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/klarna_checkout.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/klarna_checkout.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_klarna_invoice]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/klarna_invoice.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/klarna_invoice.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_laybuy]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/laybuy.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/laybuy.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_liqpay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/liqpay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/liqpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_nochex]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/nochex.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/nochex.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_paymate]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/paymate.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/paymate.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_paypoint]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/paypoint.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/paypoint.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_payza]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/payza.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/payza.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_perpetual_payments]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/perpetual_payments.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/perpetual_payments.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pilibaba]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pilibaba.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pilibaba.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_braintree]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_braintree.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_braintree.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_express]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_express.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_express.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_payflow]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_payflow.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_payflow.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_payflow_iframe]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_payflow_iframe.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_payflow_iframe.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_pro]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_pro.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_pro.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_pro_iframe]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_pro_iframe.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_pro_iframe.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_pp_standard]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/pp_standard.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/pp_standard.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_realex]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/realex.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/realex.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_realex_remote]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/realex_remote.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/realex_remote.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_sagepay_direct]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/sagepay_direct.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/sagepay_direct.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_sagepay_server]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/sagepay_server.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/sagepay_server.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_sagepay_us]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/sagepay_us.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/sagepay_us.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_securetrading_pp]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/securetrading_pp.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/securetrading_pp.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_securetrading_ws]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/securetrading_ws.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/securetrading_ws.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_skrill]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/skrill.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/skrill.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_twocheckout]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/twocheckout.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/twocheckout.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_web_payment_software]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/web_payment_software.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/web_payment_software.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_wechat_pay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/wechat_pay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/wechat_pay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_payment_worldpay]
-file_filter = src/upload/catalog/language/<lang>/extension/payment/worldpay.php
-source_file = src/upload/catalog/language/en-gb/extension/payment/worldpay.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_recurring_pp_express]
-file_filter = src/upload/catalog/language/<lang>/extension/recurring/pp_express.php
-source_file = src/upload/catalog/language/en-gb/extension/recurring/pp_express.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_recurring_squareup]
-file_filter = src/upload/catalog/language/<lang>/extension/recurring/squareup.php
-source_file = src/upload/catalog/language/en-gb/extension/recurring/squareup.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_auspost]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/auspost.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/auspost.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_citylink]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/citylink.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/citylink.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_ec_ship]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/ec_ship.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/ec_ship.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_fedex]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/fedex.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/fedex.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_flat]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/flat.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/flat.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_free]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/free.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/free.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_item]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/item.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/item.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_parcelforce_48]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/parcelforce_48.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/parcelforce_48.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_pickup]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/pickup.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/pickup.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_pilibaba]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/pilibaba.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/pilibaba.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_royal_mail]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/royal_mail.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/royal_mail.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_ups]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/ups.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/ups.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_usps]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/usps.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/usps.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_shipping_weight]
-file_filter = src/upload/catalog/language/<lang>/extension/shipping/weight.php
-source_file = src/upload/catalog/language/en-gb/extension/shipping/weight.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_coupon]
-file_filter = src/upload/catalog/language/<lang>/extension/total/coupon.php
-source_file = src/upload/catalog/language/en-gb/extension/total/coupon.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_credit]
-file_filter = src/upload/catalog/language/<lang>/extension/total/credit.php
-source_file = src/upload/catalog/language/en-gb/extension/total/credit.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_handling]
-file_filter = src/upload/catalog/language/<lang>/extension/total/handling.php
-source_file = src/upload/catalog/language/en-gb/extension/total/handling.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_klarna_fee]
-file_filter = src/upload/catalog/language/<lang>/extension/total/klarna_fee.php
-source_file = src/upload/catalog/language/en-gb/extension/total/klarna_fee.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_low_order_fee]
-file_filter = src/upload/catalog/language/<lang>/extension/total/low_order_fee.php
-source_file = src/upload/catalog/language/en-gb/extension/total/low_order_fee.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_reward]
-file_filter = src/upload/catalog/language/<lang>/extension/total/reward.php
-source_file = src/upload/catalog/language/en-gb/extension/total/reward.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_shipping]
-file_filter = src/upload/catalog/language/<lang>/extension/total/shipping.php
-source_file = src/upload/catalog/language/en-gb/extension/total/shipping.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_sub_total]
-file_filter = src/upload/catalog/language/<lang>/extension/total/sub_total.php
-source_file = src/upload/catalog/language/en-gb/extension/total/sub_total.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_total]
-file_filter = src/upload/catalog/language/<lang>/extension/total/total.php
-source_file = src/upload/catalog/language/en-gb/extension/total/total.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_extension_total_voucher]
-file_filter = src/upload/catalog/language/<lang>/extension/total/voucher.php
-source_file = src/upload/catalog/language/en-gb/extension/total/voucher.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_information_contact]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_information_contact]
 file_filter = src/upload/catalog/language/<lang>/information/contact.php
 source_file = src/upload/catalog/language/en-gb/information/contact.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_information_information]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_information_gdpr]
+file_filter = src/upload/catalog/language/<lang>/information/gdpr.php
+source_file = src/upload/catalog/language/en-gb/information/gdpr.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_information_gdpr_success]
+file_filter = src/upload/catalog/language/<lang>/information/gdpr_success.php
+source_file = src/upload/catalog/language/en-gb/information/gdpr_success.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_information_information]
 file_filter = src/upload/catalog/language/<lang>/information/information.php
 source_file = src/upload/catalog/language/en-gb/information/information.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_information_sitemap]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_information_sitemap]
 file_filter = src/upload/catalog/language/<lang>/information/sitemap.php
 source_file = src/upload/catalog/language/en-gb/information/sitemap.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_affiliate]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_affiliate]
 file_filter = src/upload/catalog/language/<lang>/mail/affiliate.php
 source_file = src/upload/catalog/language/en-gb/mail/affiliate.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_forgotten]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_forgotten]
 file_filter = src/upload/catalog/language/<lang>/mail/forgotten.php
 source_file = src/upload/catalog/language/en-gb/mail/forgotten.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_order_add]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_gdpr]
+file_filter = src/upload/catalog/language/<lang>/mail/gdpr.php
+source_file = src/upload/catalog/language/en-gb/mail/gdpr.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_order_add]
 file_filter = src/upload/catalog/language/<lang>/mail/order_add.php
 source_file = src/upload/catalog/language/en-gb/mail/order_add.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_order_alert]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_order_alert]
 file_filter = src/upload/catalog/language/<lang>/mail/order_alert.php
 source_file = src/upload/catalog/language/en-gb/mail/order_alert.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_order_edit]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_order_edit]
 file_filter = src/upload/catalog/language/<lang>/mail/order_edit.php
 source_file = src/upload/catalog/language/en-gb/mail/order_edit.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_register]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_register]
 file_filter = src/upload/catalog/language/<lang>/mail/register.php
 source_file = src/upload/catalog/language/en-gb/mail/register.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_review]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_review]
 file_filter = src/upload/catalog/language/<lang>/mail/review.php
 source_file = src/upload/catalog/language/en-gb/mail/review.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_transaction]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_transaction]
 file_filter = src/upload/catalog/language/<lang>/mail/transaction.php
 source_file = src/upload/catalog/language/en-gb/mail/transaction.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_mail_voucher]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_mail_voucher]
 file_filter = src/upload/catalog/language/<lang>/mail/voucher.php
 source_file = src/upload/catalog/language/en-gb/mail/voucher.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
-[opencart_language_pl_3_0.catalog_product_category]
-file_filter = src/upload/catalog/language/<lang>/product/category.php
-source_file = src/upload/catalog/language/en-gb/product/category.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_product_compare]
-file_filter = src/upload/catalog/language/<lang>/product/compare.php
-source_file = src/upload/catalog/language/en-gb/product/compare.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_product_manufacturer]
-file_filter = src/upload/catalog/language/<lang>/product/manufacturer.php
-source_file = src/upload/catalog/language/en-gb/product/manufacturer.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_product_product]
-file_filter = src/upload/catalog/language/<lang>/product/product.php
-source_file = src/upload/catalog/language/en-gb/product/product.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_product_search]
-file_filter = src/upload/catalog/language/<lang>/product/search.php
-source_file = src/upload/catalog/language/en-gb/product/search.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_product_special]
-file_filter = src/upload/catalog/language/<lang>/product/special.php
-source_file = src/upload/catalog/language/en-gb/product/special.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_tool_upload]
-file_filter = src/upload/catalog/language/<lang>/tool/upload.php
-source_file = src/upload/catalog/language/en-gb/tool/upload.php
-source_lang = en
-
-[opencart_language_pl_3_0.catalog_master]
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_master]
 file_filter = src/upload/catalog/language/<lang>/<lang>.php
 source_file = src/upload/catalog/language/en-gb/en-gb.php
 source_lang = en
+type        = PHP_ALT_ARRAY
 
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_category]
+file_filter = src/upload/catalog/language/<lang>/product/category.php
+source_file = src/upload/catalog/language/en-gb/product/category.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_compare]
+file_filter = src/upload/catalog/language/<lang>/product/compare.php
+source_file = src/upload/catalog/language/en-gb/product/compare.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_manufacturer]
+file_filter = src/upload/catalog/language/<lang>/product/manufacturer.php
+source_file = src/upload/catalog/language/en-gb/product/manufacturer.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_product]
+file_filter = src/upload/catalog/language/<lang>/product/product.php
+source_file = src/upload/catalog/language/en-gb/product/product.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_search]
+file_filter = src/upload/catalog/language/<lang>/product/search.php
+source_file = src/upload/catalog/language/en-gb/product/search.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_special]
+file_filter = src/upload/catalog/language/<lang>/product/special.php
+source_file = src/upload/catalog/language/en-gb/product/special.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_product_thumb]
+file_filter = src/upload/catalog/language/<lang>/product/thumb.php
+source_file = src/upload/catalog/language/en-gb/product/thumb.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:catalog_tool_upload]
+file_filter = src/upload/catalog/language/<lang>/tool/upload.php
+source_file = src/upload/catalog/language/en-gb/tool/upload.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_captcha_basic]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/captcha/basic.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/captcha/basic.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_currency_ecb]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/currency/ecb.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/currency/ecb.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_currency_fixer]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/currency/fixer.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/currency/fixer.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_activity]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/activity.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/activity.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_chart]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/chart.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/chart.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_customer]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/customer.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/customer.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_map]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/map.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/map.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_online]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/online.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/online.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_order]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/order.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/order.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_recent]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/recent.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/recent.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_dashboard_sale]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/dashboard/sale.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/dashboard/sale.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_fraud_ip]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/fraud/ip.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/fraud/ip.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_account]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/account.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/account.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_banner]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/banner.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/banner.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_bestseller]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/bestseller.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/bestseller.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_category]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/category.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/category.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_featured]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/featured.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/featured.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_filter]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/filter.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/filter.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_html]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/html.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/html.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_information]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/information.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/information.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_latest]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/latest.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/latest.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_special]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/special.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/special.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_module_store]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/module/store.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/module/store.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_payment_bank_transfer]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/payment/bank_transfer.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/payment/bank_transfer.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_payment_cheque]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/payment/cheque.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/payment/cheque.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_payment_cod]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/payment/cod.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/payment/cod.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_payment_credit_card]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/payment/credit_card.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/payment/credit_card.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_payment_free_checkout]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/payment/free_checkout.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/payment/free_checkout.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_customer_activity]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/customer_activity.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/customer_activity.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_customer_order]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/customer_order.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/customer_order.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_customer_reward]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/customer_reward.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/customer_reward.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_customer_search]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/customer_search.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/customer_search.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_customer_transaction]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/customer_transaction.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/customer_transaction.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_marketing]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/marketing.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/marketing.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_product_purchased]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/product_purchased.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/product_purchased.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_product_viewed]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/product_viewed.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/product_viewed.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_sale_coupon]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/sale_coupon.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/sale_coupon.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_sale_order]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/sale_order.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/sale_order.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_sale_return]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/sale_return.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/sale_return.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_sale_shipping]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/sale_shipping.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/sale_shipping.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_report_sale_tax]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/report/sale_tax.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/report/sale_tax.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_shipping_flat]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/shipping/flat.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/shipping/flat.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_shipping_free]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/shipping/free.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/shipping/free.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_shipping_item]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/shipping/item.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/shipping/item.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_shipping_pickup]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/shipping/pickup.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/shipping/pickup.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_shipping_weight]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/shipping/weight.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/shipping/weight.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_theme_basic]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/theme/basic.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/theme/basic.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_coupon]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/coupon.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/coupon.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_credit]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/credit.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/credit.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_handling]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/handling.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/handling.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_low_order_fee]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/low_order_fee.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/low_order_fee.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_reward]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/reward.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/reward.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_shipping]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/shipping.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/shipping.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_sub_total]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/sub_total.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/sub_total.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_tax]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/tax.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/tax.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_total]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/total.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/total.php
+source_lang = en
+type        = PHP_ALT_ARRAY
+
+[o:design4pro:p:opencart_language_pl_4_0:r:extension_opencart_admin_total_voucher]
+file_filter = src/upload/extension/opencart/admin/language/<lang>/total/voucher.php
+source_file = src/upload/extension/opencart/admin/language/en-gb/total/voucher.php
+source_lang = en
+type        = PHP_ALT_ARRAY

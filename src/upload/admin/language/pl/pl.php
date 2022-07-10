@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Locale
 $_['code']                          = 'pl';
 $_['direction']                     = 'ltr';
@@ -12,11 +32,14 @@ $_['thousand_point']                = ',';
 // Text
 $_['text_yes']                      = 'Tak';
 $_['text_no']                       = 'Nie';
+$_['text_on']                       = 'On';
+$_['text_off']                      = 'Off';
 $_['text_enabled']                  = 'Włączone';
 $_['text_disabled']                 = 'Wyłączone';
 $_['text_none']                     = ' --- Żaden --- ';
 $_['text_select']                   = ' --- Proszę wybrać --- ';
 $_['text_select_all']               = 'Zaznacz wszystkio';
+$_['text_all']                      = 'All';
 $_['text_unselect_all']             = 'Odznacz wszystko';
 $_['text_all_zones']                = 'Wszystkie strefy';
 $_['text_default']                  = ' <b>(Domyślnie)</b>';
@@ -26,14 +49,29 @@ $_['text_loading']                  = 'Ładowanie...';
 $_['text_no_results']               = 'Brak wyników!';
 $_['text_confirm']                  = 'Jesteś pewien?';
 $_['text_home']                     = 'Start';
+$_['text_second_ago']               = 'just now';
+$_['text_seconds_ago']              = '%s seconds ago';
+$_['text_minute_ago']               = '%s minute ago';
+$_['text_minutes_ago']              = '%s minutes ago';
+$_['text_hour_ago']                 = '%s hour ago';
+$_['text_hours_ago']                = '%s hours ago';
+$_['text_day_ago']                  = '%s day ago';
+$_['text_days_ago']                 = '%s days ago';
+$_['text_week_ago']                 = '%s week ago';
+$_['text_weeks_ago']                = '%s weeks ago';
+$_['text_month_ago']                = '%s month ago';
+$_['text_months_ago']               = '%s months ago';
+$_['text_year_ago']                 = '%s year ago';
+$_['text_years_ago']                = '%s years ago';
 
 // Button
 $_['button_add']                    = 'Dodaj nowy';
 $_['button_delete']                 = 'Usuń';
 $_['button_save']                   = 'Zapisz';
 $_['button_cancel']                 = 'Anuluj';
-$_['button_cancel_recurring']       = 'Anuluj subskrypcję';
+$_['button_subscription_cancel']    = 'Cancel Subscription';
 $_['button_continue']               = 'Kontynuuj';
+$_['button_confirm']                = 'Confirm';
 $_['button_clear']                  = 'Wyczyść';
 $_['button_close']                  = 'Zamknij';
 $_['button_enable']                 = 'Włącz';
@@ -61,24 +99,24 @@ $_['button_product_add']            = 'Dodaj produkt';
 $_['button_filter_add']             = 'Dodaj filtr';
 $_['button_option_add']             = 'Dodaj opcję';
 $_['button_option_value_add']       = 'Dodaj wartość opcji';
-$_['button_recurring_add']          = 'Dodaj subskrypcję';
+$_['button_subscription_add']       = 'Dodaj subskrypcję';
 $_['button_discount_add']           = 'Dodaj rabat';
 $_['button_special_add']            = 'Dodaj promocję';
 $_['button_image_add']              = 'Dodaj obrazek';
 $_['button_geo_zone_add']           = 'Dodaj strefę podatkową';
 $_['button_history_add']            = 'Dodaj historię';
-$_['button_translation']            = 'Wgraj domyślne tłumaczenie';
-$_['button_translation_add']        = 'Dodaj tłumaczenie';
 $_['button_transaction_add']        = 'Dodaj transakcję';
 $_['button_route_add']              = 'Dodaj trasę';
 $_['button_rule_add']               = 'Dodaj regułę';
 $_['button_module_add']             = 'Dodaj moduł';
 $_['button_link_add']               = 'Dodaj łącze';
+$_['button_customer_add']           = 'Add Customer';
 $_['button_approve']                = 'Zatwierdź';
 $_['button_deny']                   = 'Odmów';
 $_['button_reset']                  = 'Resetuj';
 $_['button_generate']               = 'Generowanie';
 $_['button_voucher_add']            = 'Dodaj kartę podarunkową';
+$_['button_view']                   = 'Zobacz';
 $_['button_reward_add']             = 'Dodaj punkty lojalnościowe';
 $_['button_reward_remove']          = 'Usuń punkty lojalnościowe';
 $_['button_commission_add']         = 'Dodaj prowizję';
@@ -89,7 +127,6 @@ $_['button_ip_add']                 = 'Dodaj IP';
 $_['button_parent']                 = 'Rodzic';
 $_['button_folder']                 = 'Nowy folder';
 $_['button_search']                 = 'Szukaj';
-$_['button_view']                   = 'Zobacz';
 $_['button_install']                = 'Zainstaluj';
 $_['button_uninstall']              = 'Odinstaluj';
 $_['button_link']                   = 'Łącza';
@@ -97,20 +134,18 @@ $_['button_currency']               = 'Odśwież wartości walut';
 $_['button_apply']                  = 'Zatwierdź';
 $_['button_category_add']           = 'Dodaj kategorię';
 $_['button_order']                  = 'Zobacz zamówienie';
-$_['button_order_recurring']        = 'Zobacz subskrypcję';
+$_['button_subscription']           = 'Zobacz subskrypcję';
 $_['button_buy']                    = 'Kup';
 $_['button_restore']                = 'Odzyskaj';
 $_['button_run']                    = 'Uruchom zadania cron';
 $_['button_backup']                 = 'Kopia zapasowa';
 $_['button_developer']              = 'Ustawienia dewelopera';
+$_['button_master']                 = 'Master Product';
 
 // Tab
-$_['tab_affiliate']                 = 'Partner';
 $_['tab_address']                   = 'Adres';
 $_['tab_additional']                = 'Dodatkowe';
-$_['tab_admin']                     = 'Administrator';
 $_['tab_attribute']                 = 'Atrybuty';
-$_['tab_customer']                  = 'Szczegóły klienta';
 $_['tab_comment']                   = 'Komentarz';
 $_['tab_data']                      = 'Dane';
 $_['tab_description']               = 'Opis';
@@ -119,7 +154,6 @@ $_['tab_discount']                  = 'Rabat';
 $_['tab_documentation']             = 'Dokumentacja';
 $_['tab_general']                   = 'Ogólny';
 $_['tab_history']                   = 'Historia';
-$_['tab_ftp']                       = 'FTP';
 $_['tab_ip']                        = 'Adres IP';
 $_['tab_links']                     = 'Łącza';
 $_['tab_log']                       = 'Dziennik';
@@ -132,22 +166,13 @@ $_['tab_special']                   = 'Promocja';
 $_['tab_session']                   = 'Sesja';
 $_['tab_local']                     = 'Lokalizacja';
 $_['tab_mail']                      = 'Poczta';
-$_['tab_module']                    = 'Moduł';
-$_['tab_payment']                   = 'Szczegóły płatności';
+$_['tab_payment_method']            = 'Payment Methods';
 $_['tab_product']                   = 'Produkty';
 $_['tab_reward']                    = 'Punkty lojalnościowe';
-$_['tab_shipping']                  = 'Szczegóły dostawy';
-$_['tab_total']                     = 'Wartości zamówienia';
 $_['tab_transaction']               = 'Transakcje';
 $_['tab_voucher']                   = 'Karty podarunkowe';
-$_['tab_sale']                      = 'Sprzedaż';
-$_['tab_marketing']                 = 'Kampanie';
-$_['tab_online']                    = 'Osób on-line';
-$_['tab_activity']                  = 'Ostatnia aktywność';
-$_['tab_recurring']                 = 'Subskrypcja';
+$_['tab_subscription']              = 'Subscription';
 $_['tab_report']                    = 'Raport';
-$_['tab_action']                    = 'Akcje';
-$_['tab_google']                    = 'Google';
 
 // Error
 $_['error_exception']               = 'Kod błędu(%s): %s w %s linia %s';
@@ -159,50 +184,87 @@ $_['error_upload_6']                = 'Ostrzeżenie: Brakuje folderu tymczasoweg
 $_['error_upload_7']                = 'Ostrzeżenie: Nie udało się zapisać pliku na dysku!';
 $_['error_upload_8']                = 'Ostrzeżenie: Przesyłanie pliku przerwane przez rozszerzenie!';
 $_['error_upload_999']              = 'Ostrzeżenie: Brak kodu błędu!';
+$_['error_upload_size']             = 'Warning: The uploaded file exceeds the %smb max file size!';
 $_['error_curl']                    = 'CURL: Kod błędu(%s): %s';
+$_['error_format_b']				= 'Warning: The uploaded file exceeds the max file size: %s bytes!';
+$_['error_format_kb']				= 'Warning: The uploaded file exceeds the max file size: %s kilobytes!';
+$_['error_format_mb']				= 'Warning: The uploaded file exceeds the max file size: %s megabytes!';
+$_['error_format_gb']				= 'Warning: The uploaded file exceeds the max file size: %s gigabytes!';
 
 /* When doing translations only include the matching language code */
 
 // Summernote
-//$_['summernote']                    = 'ar-AR';
-//$_['summernote']                    = 'bg-BG';
-//$_['summernote']                    = 'ca-ES';
-//$_['summernote']                    = 'cs-CZ';
-//$_['summernote']                    = 'da-DK';
-//$_['summernote']                    = 'de-DE';
-//$_['summernote']                    = 'es-ES';
-//$_['summernote']                    = 'es-EU';
-//$_['summernote']                    = 'fa-IR';
-//$_['summernote']                    = 'fi-FI';
-//$_['summernote']                    = 'fr-FR';
-//$_['summernote']                    = 'he-IL';
-//$_['summernote']                    = 'hu-HU';
-//$_['summernote']                    = 'hr-HR';
-//$_['summernote']                    = 'gl-ES';
-//$_['summernote']                    = 'id-ID';
-//$_['summernote']                    = 'it-IT';
-//$_['summernote']                    = 'ja-JP';
-//$_['summernote']                    = 'ko-KR';
-//$_['summernote']                    = 'lt-LT';
-//$_['summernote']                    = 'lt-LV';
-//$_['summernote']                    = 'nb-NO';
-//$_['summernote']                    = 'nl-NL';
-$_['summernote']                    = 'pl-PL';
-//$_['summernote']                    = 'pt-BR';
-//$_['summernote']                    = 'pt-PT';
-//$_['summernote']                    = 'ro-RO';
-//$_['summernote']                    = 'ru-RU';
-//$_['summernote']                    = 'sk-SK';
-//$_['summernote']                    = 'sl-SI';
-//$_['summernote']                    = 'sr-RS-Latin';
-//$_['summernote']                    = 'sr-RS';
-//$_['summernote']                    = 'sv-SE';
-//$_['summernote']                    = 'th-TH';
-//$_['summernote']                    = 'tr-TR';
-//$_['summernote']                    = 'uk-UA';
-//$_['summernote']                    = 'vi-VN';
-//$_['summernote']                    = 'zh-CN';
-//$_['summernote']                    = 'zh-TW';
+
+// CKEditor
+//$_['ckeditor']                    = 'af';
+//$_['ckeditor']                    = 'ar';
+//$_['ckeditor']                    = 'az';
+//$_['ckeditor']                    = 'bg';
+//$_['ckeditor']                    = 'bn';
+//$_['ckeditor']                    = 'bs';
+//$_['ckeditor']                    = 'ca';
+//$_['ckeditor']                    = 'cs';
+//$_['ckeditor']                    = 'cy';
+//$_['ckeditor']                    = 'da';
+//$_['ckeditor']                    = 'de';
+//$_['ckeditor']                    = 'de-ch';
+//$_['ckeditor']                    = 'el';
+//$_['ckeditor']                      = 'en';
+//$_['ckeditor']                    = 'en-au';
+//$_['ckeditor']                    = 'en-ca';
+//$_['ckeditor']                    = 'en-gb';
+//$_['ckeditor']                    = 'eo';
+//$_['ckeditor']                    = 'es';
+//$_['ckeditor']                    = 'es-mx';
+//$_['ckeditor']                    = 'et';
+//$_['ckeditor']                    = 'eu';
+//$_['ckeditor']                    = 'fa';
+//$_['ckeditor']                    = 'fi';
+//$_['ckeditor']                    = 'fo';
+//$_['ckeditor']                    = 'fr';
+//$_['ckeditor']                    = 'gl';
+//$_['ckeditor']                    = 'gu';
+//$_['ckeditor']                    = 'he';
+//$_['ckeditor']                    = 'hi';
+//$_['ckeditor']                    = 'hr';
+//$_['ckeditor']                    = 'hu';
+//$_['ckeditor']                    = 'id';
+//$_['ckeditor']                    = 'is';
+//$_['ckeditor']                    = 'it';
+//$_['ckeditor']                    = 'ja';
+//$_['ckeditor']                    = 'ka';
+//$_['ckeditor']                    = 'km';
+//$_['ckeditor']                    = 'ko';
+//$_['ckeditor']                    = 'ku';
+//$_['ckeditor']                    = 'lt';
+//$_['ckeditor']                    = 'lv';
+//$_['ckeditor']                    = 'mk';
+//$_['ckeditor']                    = 'mn';
+//$_['ckeditor']                    = 'ms';
+//$_['ckeditor']                    = 'nb';
+//$_['ckeditor']                    = 'nl';
+//$_['ckeditor']                    = 'no';
+//$_['ckeditor']                    = 'oc';
+$_['ckeditor']                    = 'pl';
+//$_['ckeditor']                    = 'pt';
+//$_['ckeditor']                    = 'pt-br';
+//$_['ckeditor']                    = 'ro';
+//$_['ckeditor']                    = 'ru';
+//$_['ckeditor']                    = 'si';
+//$_['ckeditor']                    = 'sk';
+//$_['ckeditor']                    = 'sl';
+//$_['ckeditor']                    = 'sq';
+//$_['ckeditor']                    = 'sr';
+//$_['ckeditor']                    = 'sr-latn';
+//$_['ckeditor']                    = 'sv';
+//$_['ckeditor']                    = 'th';
+//$_['ckeditor']                    = 'tr';
+//$_['ckeditor']                    = 'tt';
+//$_['ckeditor']                    = 'ug';
+//$_['ckeditor']                    = 'uk';
+//$_['ckeditor']                    = 'vi';
+//$_['ckeditor']                    = 'zh';
+//$_['ckeditor']                    = 'zh-cn';
 
 // Datepicker
 //$_['datepicker']                    = 'en-gb';

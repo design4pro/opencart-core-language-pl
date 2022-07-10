@@ -1,23 +1,21 @@
 /**
- * Copyright (c) 2018 DESIGN4PRO <dev@design4.pro>
+ * Project    OpenCart Core Langauge PL
+ * Name       opencart-core-language-pl
+ * Modified   09.07.2022, 21:15
  *
- * Permission is hereby granted, free of charge, to any person obtaining a copy
- * of this software and associated documentation files (the "Software"), to
- * deal in the Software without restriction, including without limitation the
- * rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
- * sell copies of the Software, and to permit persons to whom the Software is
- * furnished to do so, subject to the following conditions:
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
  *
- * The above copyright notice and this permission notice shall be included in
- * all copies or substantial portions of the Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
- * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
- * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
- * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
- * IN THE SOFTWARE.
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
  */
 'use strict';
 

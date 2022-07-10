@@ -1,4 +1,4 @@
-# Copyright (c) 2018 DESIGN4PRO <dev@design4.pro>
+# Copyright (c) 2022 DESIGN4PRO <dev@design4.pro>
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to
@@ -19,18 +19,18 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: OpenCart Language PL
+site_name: OpenCart Core Language PL
 site_description: "Language files for OpenCart"
 site_author: DESIGN4PRO
-site_url: https://opencart.design4.io/language-pl
+site_url: https://design4pro.github.io/opencart-core-language-pl
 
 # Repository
 repo_name: opencart/language-pl
-repo_url: https://gitlab.design4.io/opencart/language-pl
+repo_url: https://github.com/design4pro/opencart-core-language-pl
 edit_uri: ""
 
 # Copyright
-copyright: "Copyright &copy; 2018 DESIGN4PRO"
+copyright: "Copyright &copy; 2022 DESIGN4PRO"
 
 # Configuration
 theme:
@@ -55,15 +55,22 @@ theme:
     code: "Ubuntu Mono"
 #  favicon: assets/images/favicon.png
   logo: "images/opencart-logo.svg"
-#    icon: "\uE80C"
+  icon:
+    repo: fontawesome/brands/github
+
+# Plugins
+plugins:
+  - search
+  - offline
+  - social
 
 # Customization
 extra:
   social:
     - type: globe
       link: https://design4.pro
-    - type: gitlab
-      link: https://gitlab.design4.io/opencart/language-pl
+    - type: github
+      link: https://github.com/design4pro/opencart-core-language-pl
 #  disqus: ""
   search:
     language: "en"

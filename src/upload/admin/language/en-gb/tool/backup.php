@@ -1,34 +1,52 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
-$_['heading_title']    = 'Backup &amp; Restore';
+$_['heading_title']      = 'Backup &amp; Restore';
 
 // Text
-$_['text_success']     = 'Success: You have successfully modified your database!';
-$_['text_backup']       = 'Backing up table %s records %s to %s records';
-$_['text_restore']      = 'Restoring %s of %s';
-$_['text_option']       = 'Backup Options';
-$_['text_history']      = 'Backup History';
-$_['text_progress']     = 'Progress';
-$_['text_import']       = 'For large backup files its better to upload the sql file via ftp to the <strong>system/storage/backup/</strong> directory.';
+$_['text_success']       = 'Success: You have successfully modified your database!';
+
+$_['text_backup']        = 'Backing up table %s records %s to %s records';
+$_['text_restore']       = 'Restoring %s of %s';
+$_['text_option']        = 'Backup Options';
+$_['text_history']       = 'Backup History';
+$_['text_progress']      = 'Progress';
+$_['text_import']        = 'For large backup files it is better to upload the SQL file via FTP to the <strong>~/storage/backup/</strong> directory.';
 
 // Column
-$_['column_filename']   = 'Filename';
-$_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_filename']    = 'Filename';
+$_['column_size']        = 'Size';
+$_['column_date_added']  = 'Date Added';
+$_['column_action']      = 'Action';
 
 // Entry
-$_['entry_progress']   = 'Progress';
-$_['entry_import']     = 'Import';
-$_['entry_export']     = 'Export';
-
-// Tab
-$_['tab_backup']       = 'Backup';
-$_['tab_restore']      = 'Restore';
+$_['entry_progress']     = 'Progress';
+$_['entry_export']       = 'Export';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Backup &amp; Restore!';
-$_['error_export']     = 'Warning: You must select at least one table to export!';
-$_['error_table']       = 'Table %s is not in the allowed list!';
-$_['error_file']       = 'File could not be found!';
-$_['error_directory']   = 'Directory could not be found!';
+$_['error_permission']   = 'Warning: You do not have permission to modify Backup &amp; Restore!';
+$_['error_export']       = 'Warning: You must select at least one table to export!';
+$_['error_table']        = 'Table %s is not in the allowed list!';
+$_['error_file']         = 'File could not be found!';
+$_['error_directory']    = 'Directory could not be found!';
+$_['error_not_found']    = 'Error: Could not find file %s !';
+$_['error_headers_sent'] = 'Error: Headers already sent out!';

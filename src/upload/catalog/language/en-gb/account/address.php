@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']      = 'Address Book';
 
@@ -10,7 +30,6 @@ $_['text_address_edit']  = 'Edit Address';
 $_['text_add']           = 'Your address has been successfully added';
 $_['text_edit']          = 'Your address has been successfully updated';
 $_['text_delete']        = 'Your address has been successfully deleted';
-$_['text_empty']         = 'You have no addresses in your account.';
 $_['text_no_results']    = 'You have no addresses in your account.';
 
 // Entry
@@ -26,6 +45,7 @@ $_['entry_zone']         = 'Region / State';
 $_['entry_default']      = 'Default Address';
 
 // Error
+$_['error_token']        = 'Warning: Address token invalid!';
 $_['error_delete']       = 'Warning: You must have at least one address!';
 $_['error_default']      = 'Warning: You can not delete your default address!';
 $_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
@@ -36,3 +56,4 @@ $_['error_city']         = 'City must be between 2 and 128 characters!';
 $_['error_country']      = 'Please select a country!';
 $_['error_zone']         = 'Please select a region / state!';
 $_['error_custom_field'] = '%s required!';
+$_['error_regex']        = '%s not a valid input!';

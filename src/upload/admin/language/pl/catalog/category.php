@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']          = 'Kategorie';
 
@@ -43,7 +63,6 @@ $_['error_warning']          = 'Ostrzeżenie: Proszę sprawdzić formularz ponie
 $_['error_permission']       = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania kategorii!';
 $_['error_name']             = 'Nazwa kategorii musi zawierać od 1 do 255 znaków!';
 $_['error_meta_title']       = 'Meta Tytuł musi zawierać od 1 do 255 znaków!';
+$_['error_parent']           = 'Nadrzędna kategoria, którą wybrano jest podkategorią aktualnej!';
 $_['error_seo']              = 'Adres URL SEO jest wymagany!';
 $_['error_keyword']          = 'Adres URL SEO musi być unikalny!';
-$_['error_unique']           = 'Adres URL SEO musi być unikalny!';
-$_['error_parent']           = 'Nadrzędna kategoria, którą wybrano jest podkategorią aktualnej!';

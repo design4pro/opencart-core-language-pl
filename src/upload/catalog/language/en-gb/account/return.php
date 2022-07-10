@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']      = 'Product Returns';
 
@@ -12,15 +32,14 @@ $_['text_product']       = 'Product Information';
 $_['text_reason']        = 'Reason for Return';
 $_['text_message']       = '<p>Thank you for submitting your return request. Your request has been sent to the relevant department for processing.</p><p> You will be notified via e-mail as to the status of your request.</p>';
 $_['text_return_id']     = 'Return ID:';
-$_['text_order_id']      = 'Order ID:';
+$_['text_orders_id']     = 'Order ID:';
 $_['text_date_ordered']  = 'Order Date:';
 $_['text_status']        = 'Status:';
 $_['text_date_added']    = 'Date Added:';
 $_['text_comment']       = 'Return Comments';
 $_['text_history']       = 'Return History';
-$_['text_empty']         = 'You have not made any previous returns!';
 $_['text_no_results']    = 'You have not made any previous returns!';
-$_['text_agree']         = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_agree']         = 'I have read and agree to the <a href="%s" class="modal-link"><b>%s</b></a>';
 
 // Column
 $_['column_return_id']   = 'Return ID';
@@ -53,6 +72,7 @@ $_['entry_fault_detail'] = 'Faulty or other details';
 
 // Error
 $_['text_error']         = 'The returns you requested could not be found!';
+$_['error_token']        = 'Warning: Reset token invalid!';
 $_['error_order_id']     = 'Order ID required!';
 $_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
 $_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';

@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']     = 'Theme Editor';
 
@@ -8,13 +28,13 @@ $_['text_edit']         = 'Edit Theme';
 $_['text_store']        = 'Choose your store';
 $_['text_template']     = 'Choose a template';
 $_['text_default']      = 'Default';
+$_['text_extension']    = 'Extension';
 $_['text_history']      = 'Theme History';
-$_['text_twig']         = 'The theme editor uses the template language Twig. You can read about <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">Twig syntax here</a>.';
+$_['text_twig']         = 'The theme editor uses the template language Twig. You can read about <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">Twig syntax here</a>.';
 
 // Column
 $_['column_store']      = 'Store';
 $_['column_route']      = 'Route';
-$_['column_theme']      = 'Theme';
 $_['column_date_added'] = 'Date Added';
 $_['column_action']     = 'Action';
 

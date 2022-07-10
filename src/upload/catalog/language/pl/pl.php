@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Locale
 $_['code']                  = 'pl';
 $_['direction']             = 'ltr';
@@ -19,6 +39,20 @@ $_['text_all_zones']        = 'Wszystkie';
 $_['text_pagination']       = 'Pokazuje %d do %d z %d (%d Stron)';
 $_['text_loading']          = 'Ładowanie...';
 $_['text_no_results']       = 'Brak wyników!';
+$_['text_just_now']         = 'just now';
+$_['text_seconds_ago']      = '%s seconds ago';
+$_['text_minute_ago']       = '%s minute ago';
+$_['text_minutes_ago']      = '%s minutes ago';
+$_['text_hour_ago']         = '%s hour ago';
+$_['text_hours_ago']        = '%s hours ago';
+$_['text_day_ago']          = '%s day ago';
+$_['text_days_ago']         = '%s days ago';
+$_['text_week_ago']         = '%s week ago';
+$_['text_weeks_ago']        = '%s weeks ago';
+$_['text_month_ago']        = '%s month ago';
+$_['text_months_ago']       = '%s months ago';
+$_['text_year_ago']         = '%s year ago';
+$_['text_years_ago']        = '%s years ago';
 
 // Buttons
 $_['button_address_add']    = 'Dodaj adres';
@@ -68,10 +102,11 @@ $_['error_upload_6']        = 'Ostrzeżenie: Brakuje folderu tymczasowego!';
 $_['error_upload_7']        = 'Ostrzeżenie: Nie udało się zapisać pliku na dysku!';
 $_['error_upload_8']        = 'Ostrzeżenie: Przesyłanie pliku przerwane przez rozszerzenie!';
 $_['error_upload_999']      = 'Ostrzeżenie: Brak kodu błędu!';
+$_['error_upload_size']     = 'Warning: The uploaded file exceeds the %smb max file size!';
 $_['error_curl']            = 'CURL: Kod błędu(%s): %s';
+$_['error_session']         = 'Warning: Session has expired please submit the foprm again!';
 
 /* When doing translations only include the matching language code */
-
 // Datepicker
 //$_['datepicker']            = 'af';
 //$_['datepicker']            = 'ar-dz';

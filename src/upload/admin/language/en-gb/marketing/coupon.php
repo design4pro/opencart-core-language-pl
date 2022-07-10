@@ -1,4 +1,24 @@
 <?php
+/**
+ * Project    OpenCart Core Language PL
+ * Name       opencart-core-language-pl
+ * Modified   10.07.2022, 12:42
+ *
+ * @category  OpenCart
+ * @package   Core
+ * @link      https://github.com/design4pro/opencart-core-language-pl
+ *
+ * @copyright Copyright (c) 2022 DESIGN4PRO OpenCart (https://opencart.design4.pro)
+ * @author    DESIGN4PRO OpenCart <opencart@design4.pro>
+ * @license   Commercial. All rights reserved.
+ *            It is prohibited to copy and distribute in whole or in part.
+ *            Licensee has the right to modify the content for your own.
+ *            -- PL --
+ *            Komercyjna. Wszelkie prawa zastrzeżone.
+ *            Zabrania się kopiowania i rozpowszechniania w całości lub fragmentach.
+ *            Właściciel licencji ma prawo do modyfikacji treści dla potrzeb własnych.
+ */
+
 // Heading
 $_['heading_title']       = 'Coupons';
 
@@ -9,7 +29,7 @@ $_['text_add']            = 'Add Coupon';
 $_['text_edit']           = 'Edit Coupon';
 $_['text_percent']        = 'Percentage';
 $_['text_amount']         = 'Fixed Amount';
-$_['text_coupon']         = 'Coupon History';
+$_['text_coupon']         = 'History';
 
 // Column
 $_['column_name']         = 'Coupon Name';
@@ -54,4 +74,4 @@ $_['help_uses_customer']  = 'The maximum number of times the coupon can be used 
 $_['error_permission']    = 'Warning: You do not have permission to modify coupons!';
 $_['error_exists']        = 'Warning: Coupon code is already in use!';
 $_['error_name']          = 'Coupon Name must be between 3 and 128 characters!';
-$_['error_code']          = 'Code must be between 3 and 10 characters!';
+$_['error_code']          = 'Code must be between 3 and 20 characters!';
