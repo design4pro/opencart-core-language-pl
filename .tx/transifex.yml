@@ -1,41 +1,42 @@
-filters:
-  - filter_type: dir
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file_dir: src/upload/admin/language/en-gb/
-    translation_files_expression: src/upload/admin/language/<lang>/
-    ignore_files:
-      - src/upload/admin/language/en-gb/en-gb.php
-  - filter_type: file
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file: src/upload/admin/language/en-gb/en-gb.php
-    translation_files_expression: src/upload/admin/language/<lang>/<lang>.php
-  - filter_type: dir
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file_dir: src/upload/catalog/language/en-gb/
-    translation_files_expression: src/upload/catalog/language/<lang>/
-    ignore_files:
-      - src/upload/catalog/language/en-gb/en-gb.php
-  - filter_type: file
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file: src/upload/catalog/language/en-gb/en-gb.php
-    translation_files_expression: src/upload/catalog/language/<lang>/<lang>.php
-  - filter_type: dir
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file_dir: src/upload/extension/opencart/admin/language/en-gb/
-    translation_files_expression: src/upload/extension/opencart/admin/language/<lang>/
-  - filter_type: dir
-    file_format: PHP_ALT_ARRAY
-    source_language: en
-    source_file_extension: php
-    source_file_dir: src/upload/extension/opencart/catalog/language/en-gb/
-    translation_files_expression: src/upload/extension/opencart/catalog/language/<lang>/
+git:
+  filters:
+    - filter_type: dir
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file_dir: src/upload/admin/language/en-gb/
+      translation_files_expression: src/upload/admin/language/<lang>/
+      ignore_files:
+        - src/upload/admin/language/en-gb/en-gb.php
+    - filter_type: file
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file: src/upload/admin/language/en-gb/en-gb.php
+      translation_files_expression: src/upload/admin/language/<lang>/<lang>.php
+    - filter_type: dir
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file_dir: src/upload/catalog/language/en-gb/
+      translation_files_expression: src/upload/catalog/language/<lang>/
+      ignore_files:
+        - src/upload/catalog/language/en-gb/en-gb.php
+    - filter_type: file
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file: src/upload/catalog/language/en-gb/en-gb.php
+      translation_files_expression: src/upload/catalog/language/<lang>/<lang>.php
+    - filter_type: dir
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file_dir: src/upload/extension/opencart/admin/language/en-gb/
+      translation_files_expression: src/upload/extension/opencart/admin/language/<lang>/
+    - filter_type: dir
+      file_format: PHP_ALT_ARRAY
+      source_language: en
+      source_file_extension: php
+      source_file_dir: src/upload/extension/opencart/catalog/language/en-gb/
+      translation_files_expression: src/upload/extension/opencart/catalog/language/<lang>/

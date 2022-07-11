@@ -30,7 +30,7 @@ $_['text_template']     = 'Wybierz szablon';
 $_['text_default']      = 'Domyślne';
 $_['text_extension']    = 'Rozszerzenie';
 $_['text_history']      = 'Historia szablonu';
-$_['text_twig']         = 'The theme editor uses the template language Twig. You can read about <a href="https://twig.symfony.com/doc/" target="_blank" class="alert-link">Twig syntax here</a>.';
+$_['text_twig']         = 'Edytor wykorzystuje język szablonów Twig. Możesz przeczytać <a href="http://twig.sensiolabs.org/documentation" target="_blank" class="alert-link">o składni Twig tutaj</a>.';
 
 // Column
 $_['column_store']      = 'Sklep';

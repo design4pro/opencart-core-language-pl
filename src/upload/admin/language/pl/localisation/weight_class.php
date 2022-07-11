@@ -40,7 +40,7 @@ $_['entry_unit']       = 'Jednostka wagi';
 $_['entry_value']      = 'Wartość';
 
 // Help
-$_['help_value']       = 'Wartość domyślnej wagi w aktualnej jednostce wagi. Ustaw na 1 dla swojej domyślnej wagi.';
+$_['help_value']       = 'Wartość domyślnej wagi w aktualnej jednostce wagi. Ustaw na 1.00000 dla swojej domyślnej wagi.';
 
 // Error
 $_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania jednostek wagi!';

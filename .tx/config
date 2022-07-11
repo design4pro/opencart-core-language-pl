@@ -531,7 +531,7 @@ source_lang = en
 type        = PHP_ALT_ARRAY
 
 [o:design4pro:p:opencart_language_pl_4_0:r:admin_master]
-file_filter = src/upload/admin/language/<lang>/<lang>.php
+file_filter = src/upload/admin/language/pl/<lang>.php
 source_file = src/upload/admin/language/en-gb/en-gb.php
 source_lang = en
 type        = PHP_ALT_ARRAY
@@ -1077,7 +1077,7 @@ source_lang = en
 type        = PHP_ALT_ARRAY
 
 [o:design4pro:p:opencart_language_pl_4_0:r:catalog_master]
-file_filter = src/upload/catalog/language/<lang>/<lang>.php
+file_filter = src/upload/catalog/language/pl/<lang>.php
 source_file = src/upload/catalog/language/en-gb/en-gb.php
 source_lang = en
 type        = PHP_ALT_ARRAY
