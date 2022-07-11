@@ -29,18 +29,18 @@ $_['text_add']         = 'Dodaj jednostkę długości';
 $_['text_edit']        = 'Edytuj jednostkę długości';
 
 // Column
-$_['column_title']     = 'Nazwa jednostki długości:';
+$_['column_title']     = 'Nazwa jednostki długości';
 $_['column_unit']      = 'Jednostka długości';
 $_['column_value']     = 'Wartość';
 $_['column_action']    = 'Akcje';
 
 // Entry
-$_['entry_title']      = 'Nazwa jednostki długości:';
+$_['entry_title']      = 'Nazwa jednostki długości';
 $_['entry_unit']       = 'Jednostka długości';
 $_['entry_value']      = 'Wartość';
 
 // Help
-$_['help_value']       = 'Ustaw 1.00000 jeżeli to jest domyślna jednostka długości.';
+$_['help_value']       = 'Wartość domyślnej długości w bieżącej jednostce długości. Ustaw na 1 jako domyślną długość.';
 
 // Error
 $_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania jednostek długości!';

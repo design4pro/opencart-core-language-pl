@@ -20,17 +20,17 @@
  */
 
 // Heading
-$_['heading_title']    = 'Currency Rates';
+$_['heading_title']    = 'Kursy walut';
 
 // Text
-$_['text_success']     = 'Success: You have modified currencies rates!';
-$_['text_list']        = 'Currency Rate List';
+$_['text_success']     = 'Sukces: Zmodyfikowano kursy walut!';
+$_['text_list']        = 'Lista kursów walut';
 
 // Column
-$_['column_name']      = 'Currency Rate Name';
+$_['column_name']      = 'Nazwa kursu waluty';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify currencies rates!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do zmiany kursów walut!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

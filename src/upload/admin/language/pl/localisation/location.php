@@ -38,7 +38,7 @@ $_['column_action']    = 'Akcje';
 $_['entry_name']       = 'Nazwa sklepu';
 $_['entry_address']    = 'Adres';
 $_['entry_geocode']    = 'Współrzędne geograficzne';
-$_['entry_telephone']  = 'Numer telefonu';
+$_['entry_telephone']  = 'Telefon';
 $_['entry_image']      = 'Obrazek';
 $_['entry_open']       = 'Czas otwarcia';
 $_['entry_comment']    = 'Komentarz';
@@ -50,6 +50,6 @@ $_['help_comment']     = 'To pole przeznaczone jest na szczególne uwagi, które
 
 // Error
 $_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania danych sklepów!';
-$_['error_name']       = 'Nazwa sklepu musi zawierać przynajmniej 1 znak!';
+$_['error_name']       = 'Nazwa sklepu musi zawierać od 3 do 32 znaków!';
 $_['error_address']    = 'Adres musi zawierać od 3 do 128 znaków!';
 $_['error_telephone']  = 'Numer telefonu musi zawierać od 3 do 32 znaków!';

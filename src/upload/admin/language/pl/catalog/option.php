@@ -38,7 +38,7 @@ $_['text_file']          = 'Plik';
 $_['text_date']          = 'Data';
 $_['text_datetime']      = 'Data i czas';
 $_['text_time']          = 'Czas';
-$_['text_option']        = 'Opcje';
+$_['text_option']        = 'Opcja';
 $_['text_value']         = 'Wartość opcji';
 
 // Column
@@ -54,10 +54,10 @@ $_['entry_image']        = 'Obrazek';
 $_['entry_sort_order']   = 'Kolejność sortowania';
 
 // Error
-$_['error_warning']      = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']      = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']   = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania opcji!';
 $_['error_name']         = 'Nazwa opcji musi zawierać od 1 do 128 znaków!';
 $_['error_type']         = 'Ostrzeżenie: Wartość opcji jest wymagana!';
 $_['error_option_value'] = 'Nazwa wartości opcji musi zawierać od 1 do 128 znaków!';
-$_['error_value']        = 'Warning: This option value cannot be deleted as it is currently assigned to %s products!';
+$_['error_value']        = 'Ostrzeżenie: Nie można usunąć tej opcji, ponieważ jest obecnie przypisana do %s produktów!';
 $_['error_product']      = 'Ostrzeżenie: Nie można usunąć tej opcji, ponieważ jest obecnie przypisana do %s produktów!';

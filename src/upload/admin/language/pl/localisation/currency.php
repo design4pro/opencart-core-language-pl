@@ -48,7 +48,7 @@ $_['entry_status']         = 'Status';
 
 // Help
 $_['help_code']            = 'Nie zmieniaj, jeśli jest to Twoja domyślna waluta.';
-$_['help_value']           = 'Ustaw 1.00000 jeżeli to jest domyślna waluta.';
+$_['help_value']           = 'The value of your default currency in the current currency unit. Set to 1 for your default currency.';
 
 // Error
 $_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania walut!';

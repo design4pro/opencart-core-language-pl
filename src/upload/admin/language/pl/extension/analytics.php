@@ -20,17 +20,17 @@
  */
 
 // Heading
-$_['heading_title']    = 'Analytics';
+$_['heading_title']    = 'Statystyki';
 
 // Text
-$_['text_success']     = 'Success: You have modified analytics!';
-$_['text_list']        = 'Analytics List';
+$_['text_success']     = 'Sukces: Zmodyfikowano ustawienia statystyk!';
+$_['text_list']        = 'Lista statystyk';
 
 // Column
-$_['column_name']      = 'Analytics Name';
+$_['column_name']      = 'Nazwa statystyk';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify analytics!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania statystyk!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

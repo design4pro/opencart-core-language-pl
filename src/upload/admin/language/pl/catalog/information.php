@@ -38,7 +38,7 @@ $_['column_action']          = 'Akcje';
 // Entry
 $_['entry_title']            = 'Tytuł informacji';
 $_['entry_description']      = 'Opis';
-$_['entry_meta_title']       = 'Tytuł SEO:';
+$_['entry_meta_title']       = 'Tytuł SEO';
 $_['entry_meta_keyword']     = 'Słowa kluczowe SEO';
 $_['entry_meta_description'] = 'Opis SEO';
 $_['entry_store']            = 'Sklepy';

@@ -48,8 +48,8 @@ $_['help_status']       = 'Ukryj/Pokaż w menu wyboru języków';
 // Error
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania języków!';
 $_['error_exists']      = 'Ostrzeżenie: Już dodano taki język!';
-$_['error_name']        = 'Nazwa języka musi zawierać od 3 do 32 znaków!';
-$_['error_code']        = 'Kod języka musi zawierać przynajmniej 2 znaki!';
+$_['error_name']        = 'Nazwa języka musi mieć od 1 do 32 znaków!';
+$_['error_code']        = 'Kod języka musi mieć od 2 do 5 znaków!';
 $_['error_locale']      = 'Ustawienia regionalne są wymagane!';
 $_['error_default']     = 'Ostrzeżenie: Nie można usunąć tego języka, ponieważ jest obecnie ustawiony jako domyślny!';
 $_['error_admin']       = 'Ostrzeżenie: Nie można usunąć tego języka, ponieważ jest obecnie ustawiony jako domyślny dla panelu administracyjnego!';

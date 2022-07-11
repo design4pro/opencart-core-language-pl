@@ -54,5 +54,5 @@ $_['error_default']       = 'Ostrzeżenie: Nie można usunąć tego układu, pon
 $_['error_store']         = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s sklepów!';
 $_['error_product']       = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s produktów!';
 $_['error_category']      = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s kategorii!';
-$_['error_manufacturer']  = 'Warning: This layout cannot be deleted as it is currently assigned to %s manufacturers!';
+$_['error_manufacturer']  = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s producentów!';
 $_['error_information']   = 'Ostrzeżenie: Nie można usunąć tego układu, ponieważ jest obecnie przypisany do %s stron informacyjnych!';

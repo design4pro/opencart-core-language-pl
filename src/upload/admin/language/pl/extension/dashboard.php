@@ -20,19 +20,19 @@
  */
 
 // Heading
-$_['heading_title']     = 'Dashboard';
+$_['heading_title']     = 'Kokpit';
 
 // Text
-$_['text_success']      = 'Success: You have modified dashboards!';
-$_['text_list']         = 'Dashboard List';
+$_['text_success']      = 'Sukces: Zmodyfikowano pulpity nawigacyjne!';
+$_['text_list']         = 'Lista pulpitów nawigacyjnych';
 
 // Column
-$_['column_name']       = 'Dashboard Name';
-$_['column_width']      = 'Width';
+$_['column_name']       = 'Nazwa pulpitu nawigacyjnego';
+$_['column_width']      = 'Szerokość';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Kolejność sortowania';
+$_['column_action']     = 'Akcje';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify dashboards!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania pulpitów nawigacyjnych!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

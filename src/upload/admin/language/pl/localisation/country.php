@@ -27,7 +27,7 @@ $_['text_success']            = 'Sukces: Zmodyfikowano kraje!';
 $_['text_list']               = 'Lista krajów';
 $_['text_add']                = 'Dodaj kraj';
 $_['text_edit']               = 'Edytuj kraj';
-$_['text_filter']             = 'Filter';
+$_['text_filter']             = 'Filtruj';
 
 // Column
 $_['column_name']             = 'Nazwa kraju';

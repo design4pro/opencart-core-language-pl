@@ -28,7 +28,7 @@ $_['text_list']         = 'Lista filtrów';
 $_['text_add']          = 'Dodaj filtr';
 $_['text_edit']         = 'Edytuj filter';
 $_['text_group']        = 'Grupa filtrów';
-$_['text_value']        = 'Wartości Filtra';
+$_['text_value']        = 'Wartości filtra';
 
 // Column
 $_['column_group']      = 'Grupa filtrów';
@@ -41,8 +41,8 @@ $_['entry_name']        = 'Nazwa filtra';
 $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']     = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania filtrów!';
 $_['error_group']       = 'Nazwa grupy filtrów musi zawierać od 1 do 64 znaków!';
 $_['error_name']        = 'Nazwa filtra musi zawierać od 1 do 64 znaków!';
-$_['error_values']      = 'Warning: Filter Values required!';
+$_['error_values']      = 'Ostrzeżenie: Wartości filtra są wymagane!';

@@ -20,16 +20,16 @@
  */
 
 // Heading
-$_['heading_title']      = 'OpenCart';
+$_['heading_title']         = 'OpenCart';
 
 // Text
-$_['text_notification']      = 'Notifications';
-$_['text_notification_all']  = 'Show All';
-$_['text_notification_none'] = 'There are no notifications';
-$_['text_profile']           = 'Twój Profil';
+$_['text_notification']      = 'Powiadomienia';
+$_['text_notification_all']  = 'Pokaż wszystkie';
+$_['text_notification_none'] = 'Brak powiadomień';
+$_['text_profile']           = 'Twój profil';
 $_['text_store']             = 'Sklepy';
 $_['text_help']              = 'Pomoc';
-$_['text_homepage']          = 'Strona Domowa OpenCart';
+$_['text_homepage']          = 'Strona domowa OpenCart';
 $_['text_support']           = 'Forum wsparcia';
 $_['text_documentation']     = 'Dokumentacja';
 $_['text_logout']            = 'Wyloguj się';

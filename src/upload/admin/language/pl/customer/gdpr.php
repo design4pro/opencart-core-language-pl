@@ -20,36 +20,36 @@
  */
 
 // Heading
-$_['heading_title']     = 'GDPR Approvals';
+$_['heading_title']     = 'Zatwierdzenia RODO';
 
 // Text
-$_['text_success']      = 'Success: You have modified GDPR approvals!';
-$_['text_list']         = 'GDPR Approval List';
+$_['text_success']      = 'Sukces: Zmodyfikowano zatwierdzenia RODO!';
+$_['text_list']         = 'Lista zatwierdzeń RODO';
 $_['text_info']         = '<strong>GDPR</strong> account deletion requests will process after <strong>%s days</strong> so any fraud detection, chargebacks or refunds can be processed.';
-$_['text_approve']      = 'Approve';
-$_['text_deny']         = 'Deny';
-$_['text_delete']       = 'Delete';
-$_['text_unverified']   = 'Unverified';
-$_['text_pending']      = 'Pending';
-$_['text_processing']   = 'Processing';
-$_['text_complete']     = 'Complete';
-$_['text_denied']       = 'Denied';
-$_['text_export']       = 'Export';
-$_['text_remove']       = 'Remove';
-$_['text_filter']       = 'Filter';
+$_['text_approve']      = 'Zatwierdź';
+$_['text_deny']         = 'Odmów';
+$_['text_delete']       = 'Usuń';
+$_['text_unverified']   = 'Niesprawdzony';
+$_['text_pending']      = 'Oczekujące';
+$_['text_processing']   = 'Przetwarzane';
+$_['text_complete']     = 'Zakończone';
+$_['text_denied']       = 'Odmowa';
+$_['text_export']       = 'Eksportuj';
+$_['text_remove']       = 'Usuń';
+$_['text_filter']       = 'Filtruj';
 
 // Column
-$_['column_email']      = 'E-Mail';
-$_['column_request']    = 'Request';
+$_['column_email']      = 'Adres poczty elektronicznej';
+$_['column_request']    = 'Zapytanie';
 $_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Data dodania';
+$_['column_action']     = 'Akcje';
 
 // Entry
-$_['entry_email']       = 'E-Mail';
-$_['entry_action']      = 'Action';
+$_['entry_email']       = 'Adres poczty elektronicznej';
+$_['entry_action']      = 'Akcje';
 $_['entry_status']      = 'Status';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_date_added']  = 'Data dodania';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify GDPR approvals!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania zatwierdzeń RODO!';

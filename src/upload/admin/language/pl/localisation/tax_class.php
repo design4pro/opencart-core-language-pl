@@ -23,8 +23,8 @@
 $_['heading_title']     = 'Grupy podatkowe';
 
 // Text
-$_['text_success']      = 'Sukces: Zmodyfikowano grupy podatku!';
-$_['text_list']         = 'Lista grup podatku';
+$_['text_success']      = 'Sukces: Zmodyfikowano grupy podatkowe!';
+$_['text_list']         = 'Lista grup podatkowych';
 $_['text_add']          = 'Dodaj grupę podatku';
 $_['text_edit']         = 'Edytuj grupę podatku';
 $_['text_tax_class']    = 'Reguła podatkowa';

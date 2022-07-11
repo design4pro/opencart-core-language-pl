@@ -20,25 +20,25 @@
  */
 
 // Heading
-$_['heading_title']    = 'Modules';
+$_['heading_title']    = 'Moduły';
 
 // Text
-$_['text_success']     = 'Success: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Add Module';
-$_['text_list']        = 'Module List';
+$_['text_success']     = 'Sukces: Zmodyfikowano ustawienia modułu!';
+$_['text_layout']      = 'Po zainstalowaniu i skonfigurowaniu modułu można dodać go do układu <a href="%s" class="alert-link">tutaj</a>!';
+$_['text_add']         = 'Dodaj moduł';
+$_['text_list']        = 'Lista modułów';
 
 // Column
-$_['column_name']      = 'Module Name';
+$_['column_name']      = 'Nazwa modułu';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Entry
-$_['entry_code']       = 'Module';
-$_['entry_name']       = 'Module Name';
+$_['entry_code']       = 'Moduł';
+$_['entry_name']       = 'Nazwa modułu';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_code']       = 'Extension required!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania modułów!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';
+$_['error_name']       = 'Nazwa modułu musi zawierać od 3 do 64 znaków!';
+$_['error_code']       = 'Rozszerzenie jest wymagane!';

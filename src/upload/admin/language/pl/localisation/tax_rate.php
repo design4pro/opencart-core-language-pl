@@ -43,7 +43,7 @@ $_['column_action']        = 'Akcje';
 $_['entry_name']           = 'Nazwa podatku';
 $_['entry_rate']           = 'Stawka podatku';
 $_['entry_type']           = 'Typ';
-$_['entry_customer_group'] = 'Grupy klientów';
+$_['entry_customer_group'] = 'Grupa klientów';
 $_['entry_geo_zone']       = 'Strefa geograficzna';
 
 // Error

@@ -24,7 +24,7 @@ $_['heading_title']    = 'Ustawienia dewelopera';
 
 // Text
 $_['text_success']     = 'Sukces: Zmodyfikowano ustawienia dewelopera!';
-$_['text_theme']       = 'szablon';
+$_['text_theme']       = 'Szablon';
 $_['text_sass']        = 'SASS';
 $_['text_cache']       = 'Sukces: Pomyślnie wyczyszczono %s pliki tymczasowe!';
 

@@ -25,7 +25,7 @@ $_['heading_title']      = 'Strefy geograficzne';
 // Text
 $_['text_success']       = 'Sukces: Zmodyfikowano opcję!';
 $_['text_list']          = 'Lista stref geograficznych';
-$_['text_add']           = 'Dodaj strefę podatkową';
+$_['text_add']           = 'Dodaj strefę geograficzną';
 $_['text_edit']          = 'Edytuj strefę geograficzną';
 $_['text_geo_zone']      = 'Strefy geograficzne';
 
@@ -38,7 +38,7 @@ $_['column_action']      = 'Akcje';
 $_['entry_name']         = 'Nazwa strefy geograficznej';
 $_['entry_description']  = 'Opis';
 $_['entry_country']      = 'Kraj';
-$_['entry_zone']         = 'Województwo';
+$_['entry_zone']         = 'Strefa geograficzna';
 
 // Error
 $_['error_permission']   = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania stref geograficznych!';

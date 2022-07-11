@@ -20,17 +20,17 @@
  */
 
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']    = 'Źródła danych';
 
 // Text
-$_['text_success']     = 'Success: You have modified feeds!';
-$_['text_list']        = 'Feed List';
+$_['text_success']     = 'Sukces: Źródła danych zostały zmodyfikowane!';
+$_['text_list']        = 'Lista źródeł danych';
 
 // Column
-$_['column_name']      = 'Product Feed Name';
+$_['column_name']      = 'Nazwa źródła danych';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania źródeł danych!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

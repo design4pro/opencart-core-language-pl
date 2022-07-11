@@ -46,7 +46,7 @@ $_['text_custom_field']    = 'Niestandardowe pole';
 $_['text_value']           = 'Wartości niestandardowego pola';
 
 // Column
-$_['column_name']          = 'Nazwa niestandardowego pola:';
+$_['column_name']          = 'Nazwa niestandardowego pola';
 $_['column_location']      = 'Lokalizacja';
 $_['column_type']          = 'Typ';
 $_['column_status']        = 'Status';
@@ -54,20 +54,20 @@ $_['column_sort_order']    = 'Kolejność sortowania';
 $_['column_action']        = 'Akcje';
 
 // Entry
-$_['entry_name']           = 'Nazwa niestandardowego pola:';
+$_['entry_name']           = 'Nazwa niestandardowego pola';
 $_['entry_location']       = 'Lokalizacja';
 $_['entry_type']           = 'Typ';
 $_['entry_value']          = 'Wartość';
 $_['entry_validation']     = 'Sprawdzenie';
 $_['entry_custom_value']   = 'Nazwa wartości niestandardowego pola';
-$_['entry_customer_group'] = 'Grupy klientów';
+$_['entry_customer_group'] = 'Grupa klientów';
 $_['entry_required']       = 'Wymagane';
 $_['entry_status']         = 'Status';
 $_['entry_sort_order']     = 'Kolejność sortowania';
 
 // Help
-$_['help_regex']           = 'Użyj wyrażenia regularnego, np.: /[a-zA-Z0-9_-]/';
-$_['help_sort_order']      = 'Użyj liczyć wstecz od ostatnie pole w zestawie.';
+$_['help_regex']           = 'Use regex. E.g: [^a-zA-Z0-9_-]';
+$_['help_sort_order']      = 'Użyj minusa, aby odliczać wstecz od ostatniego pola w zestawie.';
 
 // Error
 $_['error_permission']     = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania niestandardowych pól!';

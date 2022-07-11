@@ -25,15 +25,15 @@ $_['heading_title']    = 'Statusy stanów magazynowych';
 // Text
 $_['text_success']     = 'Sukces: Zmodyfikowano statusy stanów magazynowych!';
 $_['text_list']        = 'Lista stanów magazynowych';
-$_['text_add']         = 'Dodaj status stanów';
+$_['text_add']         = 'Dodaj stan magazynowy';
 $_['text_edit']        = 'Edytuj stan magazynowy';
 
 // Column
-$_['column_name']      = 'Nazwa statusu';
+$_['column_name']      = 'Nazwa stanu magazynowego';
 $_['column_action']    = 'Akcje';
 
 // Entry
-$_['entry_name']       = 'Nazwa statusu';
+$_['entry_name']       = 'Nazwa stanu magazynowego';
 
 // Error
 $_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania statusów stanów magazynowych!';

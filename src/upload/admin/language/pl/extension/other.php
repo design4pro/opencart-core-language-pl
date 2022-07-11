@@ -20,17 +20,17 @@
  */
 
 // Heading
-$_['heading_title']    = 'Other';
+$_['heading_title']    = 'Inne';
 
 // Text
-$_['text_success']     = 'Success: You have modified other extension!';
-$_['text_list']        = 'Other List';
+$_['text_success']     = 'Sukces: Zmodyfikowano rozszerzenie!';
+$_['text_list']        = 'Inna lista';
 
 // Column
-$_['column_name']      = 'Other Name';
+$_['column_name']      = 'Inna nazwa';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Error
 $_['error_permission'] = 'Warning: You do not have permission to modify other extension!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

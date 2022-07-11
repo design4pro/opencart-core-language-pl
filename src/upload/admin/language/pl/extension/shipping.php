@@ -20,18 +20,18 @@
  */
 
 // Heading
-$_['heading_title']     = 'Shipping';
+$_['heading_title']     = 'Dostawa';
 
 // Text
-$_['text_success']      = 'Success: You have modified shipping!';
-$_['text_list']         = 'Shipping List';
+$_['text_success']      = 'Sukces: Zmodyfikowano ustawienia modułu dostawy!';
+$_['text_list']         = 'Lista dostaw';
 
 // Column
-$_['column_name']       = 'Shipping Method';
+$_['column_name']       = 'Metoda dostawy';
 $_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_sort_order'] = 'Kolejność sortowania';
+$_['column_action']     = 'Akcje';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify shipping!';
-$_['error_extension']   = 'Warning: Extension does not exist!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania dostaw!';
+$_['error_extension']   = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

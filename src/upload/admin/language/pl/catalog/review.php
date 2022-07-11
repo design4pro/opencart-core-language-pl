@@ -49,9 +49,9 @@ $_['entry_date_added']  = 'Data dodania';
 $_['help_product']      = '(Autouzupełnianie)';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']     = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania opinii!';
 $_['error_product']     = 'Produkt jest wymagany!';
-$_['error_author']      = 'Autor musi zawierać od 3 do 64 znaków!';
+$_['error_author']      = 'Pole autor musi zawierać od 3 do 64 znaków!';
 $_['error_text']        = 'Treść opinii musi zawierać przynajmniej 1 znak!';
 $_['error_rating']      = 'Ocena jest wymagana!';

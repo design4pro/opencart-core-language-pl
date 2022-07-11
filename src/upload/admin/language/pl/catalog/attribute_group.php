@@ -38,8 +38,8 @@ $_['entry_name']        = 'Nazwa grupy atrybutów';
 $_['entry_sort_order']  = 'Kolejność sortowania';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 1 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']     = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikacji grup atrybutów!';
+$_['error_name']        = 'Nazwa grupy atrybutów musi zawierać od 1 do 64 znaków!';
+$_['error_attribute']   = 'Ostrzeżenie: Nie można usunąć tej grupy atrybutów, ponieważ jest obecnie przypisana do %s atrybutów!';
+$_['error_product']     = 'Ostrzeżenie: Nie można usunąć tej grupy atrybutów, ponieważ jest obecnie przypisana do %s produktów!';

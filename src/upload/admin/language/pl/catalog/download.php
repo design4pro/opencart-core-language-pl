@@ -28,7 +28,7 @@ $_['text_list']         = 'Lista plików do pobrania';
 $_['text_add']          = 'Dodaj plik do pobrania';
 $_['text_edit']         = 'Edytuj plik do pobrania';
 $_['text_upload']       = 'Plik został pomyślnie przesłany!';
-$_['text_report']       = 'Raport';
+$_['text_report']       = 'Report';
 
 // Column
 $_['column_name']       = 'Nazwa pliku do pobrania';
@@ -49,12 +49,12 @@ $_['help_filename']     = 'Możesz przesłać pliki za pomocą wbudowanego skryp
 $_['help_mask']         = 'Zaleca się, aby nazwa pliku i maska ​​były różne, aby powstrzymać ludzi próbujących bezpośrednio połączyć się z plikiem do pobrania.';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']  = 'Warning: You do not have permission to modify downloads!';
-$_['error_name']        = 'Download Name must be between 3 and 64 characters!';
-$_['error_filename']    = 'Filename must be between 3 and 128 characters!';
-$_['error_directory']   = 'Downloads need to be within the storage/download directory!';
-$_['error_exists']      = 'File does not exist!';
-$_['error_mask']        = 'Mask must be between 3 and 128 characters!';
-$_['error_file_type']    = 'Invalid file type!';
-$_['error_product']     = 'Warning: This download cannot be deleted as it is currently assigned to %s products!';
+$_['error_warning']     = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
+$_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania plików do pobrania!';
+$_['error_name']        = 'Nazwa musi zawierać od 3 do 64 znaków!';
+$_['error_filename']    = 'Nazwa pliku musi zawierać od 3 do 128 znaków!';
+$_['error_directory']   = 'Pobrane pliki muszą znajdować się w katalogu przechowywania/pobierania!';
+$_['error_exists']      = 'Plik nie istnieje!';
+$_['error_mask']        = 'Maska musi zawierać od 3 do 128 znaków!';
+$_['error_file_type']    = 'Nieprawidłowy typ pliku!';
+$_['error_product']     = 'Ostrzeżenie: Nie można usunąć tego pliku, ponieważ jest obecnie przypisany do %s produktów!';

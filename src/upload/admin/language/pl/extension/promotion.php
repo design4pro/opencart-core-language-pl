@@ -20,4 +20,4 @@
  */
 
 // Heading Title
-$_['heading_title']	= 'Promotion';
+$_['heading_title']	= 'Promocja';

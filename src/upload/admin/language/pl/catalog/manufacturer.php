@@ -41,10 +41,10 @@ $_['entry_store']       = 'Sklepy';
 $_['entry_keyword']     = 'Słowo kluczowe';
 $_['entry_image']       = 'Obrazek';
 $_['entry_sort_order']  = 'Kolejność sortowania';
-$_['entry_layout']      = 'Layout Override';
+$_['entry_layout']      = 'Zastąp układ';
 
 // Error
-$_['error_warning']     = 'Warning: Please check the form carefully for errors!';
+$_['error_warning']     = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
 $_['error_permission']  = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania producentów!';
 $_['error_name']        = 'Nazwa producenta musi zawierać od 1 do 64 znaków!';
 $_['error_seo']         = 'Adres URL SEO jest wymagany!';

@@ -20,28 +20,28 @@
  */
 
 // Heading
-$_['heading_title']           = 'Address Format';
+$_['heading_title']           = 'Format adresu';
 
 // Text
-$_['text_success']            = 'Success: You have modified address formats!';
-$_['text_list']               = 'Address Format List';
-$_['text_add']                = 'Add Address Format';
-$_['text_edit']               = 'Edit Address Format';
+$_['text_success']            = 'Sukces: Zmieniono formaty adresów!';
+$_['text_list']               = 'Lista formatów adresów';
+$_['text_add']                = 'Dodaj format adresu';
+$_['text_edit']               = 'Edytuj format adresu';
 
 // Column
-$_['column_name']             = 'Address Format Name';
-$_['column_address_format']   = 'Address Format';
-$_['column_action']           = 'Action';
+$_['column_name']             = 'Nazwa formatu adresu';
+$_['column_address_format']   = 'Format adresu';
+$_['column_action']           = 'Akcje';
 
 // Entry
-$_['entry_name']              = 'Address Format Name';
-$_['entry_address_format']    = 'Address Format';
+$_['entry_name']              = 'Nazwa formatu adresu';
+$_['entry_address_format']    = 'Format adresu';
 
 // Help
 $_['help_address_format']     = 'First Name = {firstname}<br />Last Name = {lastname}<br />Company = {company}<br />Address 1 = {address_1}<br />Address 2 = {address_2}<br />City = {city}<br />Postcode = {postcode}<br />Zone = {zone}<br />Zone Code = {zone_code}<br />Country = {country}';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify address formats!';
-$_['error_name']              = 'Address Format Name must be between 1 and 128 characters!';
+$_['error_permission']        = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania formatów adresów!';
+$_['error_name']              = 'Nazwa formatu adresu musi zawierać od 1 do 128 znaków!';
 $_['error_default']           = 'Warning: This address format cannot be deleted as it is currently assigned as the default address format!';
 $_['error_country']           = 'Warning: This address format cannot be deleted as it is currently assigned to %s countries!';

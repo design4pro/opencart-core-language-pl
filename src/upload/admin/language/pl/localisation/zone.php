@@ -27,7 +27,7 @@ $_['text_success']           = 'Sukces: Zmodyfikowano województwa!';
 $_['text_list']              = 'Lista województw';
 $_['text_add']               = 'Dodaj województwo';
 $_['text_edit']              = 'Edytuj województwo';
-$_['text_filter']            = 'Filter';
+$_['text_filter']            = 'Filtruj';
 
 // Column
 $_['column_name']            = 'Nazwa województwa';

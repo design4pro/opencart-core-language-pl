@@ -20,16 +20,16 @@
  */
 
 // Heading
-$_['heading_title']    = 'Themes';
+$_['heading_title']    = 'Szablony';
 
 // Text
-$_['text_success']     = 'Success: You have modified themes!';
+$_['text_success']     = 'Sukces: Zmodyfikowano szablony!';
 
 // Column
-$_['column_name']      = 'Theme Name';
+$_['column_name']      = 'Nazwa szablonu';
 $_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Akcje';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify themes!';
-$_['error_extension']  = 'Warning: Extension does not exist!';
+$_['error_permission'] = 'Ostrzeżenie: Nie masz uprawnień do modyfikowania szablonów!';
+$_['error_extension']  = 'Ostrzeżenie: Rozszerzenie nie istnieje!';

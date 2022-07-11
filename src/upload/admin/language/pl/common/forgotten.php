@@ -20,23 +20,23 @@
  */
 
 // Heading
-$_['heading_title']   = 'Nie pamiętasz hasła?';
-$_['heading_reset']   = 'Reset your password';
+$_['heading_title'] = 'Nie pamiętasz hasła?';
+$_['heading_reset'] = 'Resetowanie hasła';
 
 // Text
-$_['text_email']      = 'Podaj adres e-mail przypisany do Twojego konta. Kliknij wyślij by wysłać odnośnik do zmiany hasła na podany adres.';
-$_['text_success']    = ' Wiadomość z łączem do zmiany hasła została wysłana na podany adres e-mail.';
-$_['text_password']   = 'Enter the new password you wish to use.';
-$_['text_reset']      = 'Success: Your password has been successfully updated.';
+$_['text_email']    = 'Podaj adres poczty elektronicznej przypisany do Twojego konta. Kliknij wyślij by wysłać odnośnik do zmiany hasła na podany adres.';
+$_['text_success']  = 'Wiadomość z łączem do zmiany hasła została wysłana na podany adres poczty elektronicznej.';
+$_['text_password'] = 'Wprowadź nowe hasło, którego chcesz użyć.';
+$_['text_reset']    = 'Sukces: Twoje hasło zostało pomyślnie zaktualizowane.';
 
 // Entry
-$_['entry_password']  = 'Nowe hasło';
-$_['entry_confirm']   = 'Potwierdź hasło';
-$_['entry_email']     = 'Adres e-mail';
+$_['entry_password'] = 'Hasło';
+$_['entry_confirm']  = 'Potwierdź hasło';
+$_['entry_email']    = 'Adres poczty elektronicznej';
 
 // Error
-$_['error_email']     = 'Ostrzeżenie: Adres e-mail nie został znaleziony w naszej bazie danych, proszę spróbować ponownie!';
-$_['error_code']     = 'Reset code does not match!';
-$_['error_disabled'] = 'Password reset has been disabled!';
-$_['error_password']  = 'Hasło musi zawierać od 4 do 20 znaków!';
-$_['error_confirm']   = 'Hasła różnią się od siebie!';
+$_['error_email']    = 'Warning: The E-Mail Address was not found in our records!';
+$_['error_code']     = 'Kod resetowania nie pasuje!';
+$_['error_disabled'] = 'Zmiana hasła została zablokowana!';
+$_['error_password'] = 'Hasło musi zawierać od 4 do 20 znaków!';
+$_['error_confirm']  = 'Hasła różnią się od siebie!';

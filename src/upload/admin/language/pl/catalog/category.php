@@ -38,7 +38,7 @@ $_['column_action']          = 'Akcje';
 // Entry
 $_['entry_name']             = 'Nazwa kategorii';
 $_['entry_description']      = 'Opis';
-$_['entry_meta_title'] 	     = 'Tytuł SEO:';
+$_['entry_meta_title']       = 'Tytuł SEO';
 $_['entry_meta_keyword']     = 'Słowa kluczowe SEO';
 $_['entry_meta_description'] = 'Opis SEO';
 $_['entry_store']            = 'Sklepy';
@@ -56,7 +56,7 @@ $_['entry_layout']           = 'Zastąp układ';
 $_['help_parent']            = '(Autouzupełnianie)';
 $_['help_filter']            = '(Autouzupełnianie)';
 $_['help_top']               = 'Wyświetlaj w górnym pasku menu. Działa tylko dla kategorii najwyższego rodzica';
-$_['help_column']            = 'Liczba kolumn używana dla dolnych 3 kategorii. Działa tylko dla kategorii najwyższego rodzica';
+$_['help_column']            = 'Liczba kolumn używana dla dolnych 3 kategorii. Działa tylko dla kategorii najwyższego rodzica.';
 
 // Error
 $_['error_warning']          = 'Ostrzeżenie: Proszę sprawdzić formularz ponieważ zawiera błędy!';
